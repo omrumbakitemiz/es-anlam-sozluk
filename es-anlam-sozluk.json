@@ -1,767 +1,767 @@
 [
   {
     "key": "ab",
-    "value": "su"
+    "values": [ "su" ]
   },
   {
     "key": "aba",
-    "value": "üstlük"
+    "values": [ "üstlük" ]
   },
   {
     "key": "abartı",
-    "value": "mübalağa"
+    "values": [ "mübalağa" ]
   },
   {
     "key": "abece",
-    "value": "alfabe"
+    "values": [ "alfabe" ]
   },
   {
     "key": "abecesel",
-    "value": "alfabetik"
+    "values": [ "alfabetik" ]
   },
   {
     "key": "abes",
-    "value": "boş"
+    "values": [ "boş" ]
   },
   {
     "key": "abıhayat",
-    "value": "bengisu"
+    "values": [ "bengisu" ]
   },
   {
     "key": "abide",
-    "value": "anıt"
+    "values": [ "anıt" ]
   },
   {
     "key": "abide",
-    "value": "anıt"
+    "values": [ "anıt" ]
   },
   {
     "key": "abide",
-    "value": "anıt"
+    "values": [ "anıt" ]
   },
   {
     "key": "abluka",
-    "value": "kuşatma"
+    "values": [ "kuşatma" ]
   },
   {
     "key": "abuksabuk",
-    "value": "anlamsız"
+    "values": [ "anlamsız" ]
   },
   {
     "key": "abullabut",
-    "value": "hantal"
+    "values": [ "hantal" ]
   },
   {
     "key": "abus",
-    "value": "somurtkan"
+    "values": [ "somurtkan" ]
   },
   {
     "key": "acaba",
-    "value": "acep"
+    "values": [ "acep" ]
   },
   {
     "key": "acar",
-    "value": "cesur"
+    "values": [ "cesur" ]
   },
   {
     "key": "acayip",
-    "value": "garip"
+    "values": [ "garip" ]
   },
   {
     "key": "acayip",
-    "value": "garip"
+    "values": [ "garip" ]
   },
   {
     "key": "acayip",
-    "value": "garip"
+    "values": [ "garip" ]
   },
   {
     "key": "acele",
-    "value": "çabuk"
+    "values": [ "çabuk" ]
   },
   {
     "key": "aceleci",
-    "value": "ivecen"
+    "values": [ "ivecen" ]
   },
   {
     "key": "acemce",
-    "value": "farsça"
+    "values": [ "farsça" ]
   },
   {
     "key": "acemi",
-    "value": "toy"
+    "values": [ "toy" ]
   },
   {
     "key": "acemi",
-    "value": "toy"
+    "values": [ "toy" ]
   },
   {
     "key": "acı",
-    "value": "üzüntü"
+    "values": [ "üzüntü" ]
   },
   {
     "key": "acıma",
-    "value": "merhamet"
+    "values": [ "merhamet" ]
   },
   {
     "key": "acıma",
-    "value": "merhamet"
+    "values": [ "merhamet" ]
   },
   {
     "key": "acıma",
-    "value": "merhamet"
+    "values": [ "merhamet" ]
   },
   {
     "key": "acımasız",
-    "value": "gaddar"
+    "values": [ "gaddar" ]
   },
   {
     "key": "açıkgöz",
-    "value": "kurnaz"
+    "values": [ "kurnaz" ]
   },
   {
     "key": "açıkgöz",
-    "value": "kurnaz"
+    "values": [ "kurnaz" ]
   },
   {
     "key": "açıkgöz",
-    "value": "kurnaz"
+    "values": [ "kurnaz" ]
   },
   {
     "key": "ad",
-    "value": "isim"
+    "values": [ "isim" ]
   },
   {
     "key": "ad",
-    "value": "isim"
+    "values": [ "isim" ]
   },
   {
     "key": "adale",
-    "value": "kas"
+    "values": [ "kas" ]
   },
   {
     "key": "adale",
-    "value": "kas"
+    "values": [ "kas" ]
   },
   {
     "key": "adalet",
-    "value": "hak"
+    "values": [ "hak" ]
   },
   {
     "key": "adalet",
-    "value": "hak"
+    "values": [ "hak" ]
   },
   {
     "key": "adet",
-    "value": "tane"
+    "values": [ "tane" ]
   },
   {
     "key": "adet",
-    "value": "tane"
+    "values": [ "tane" ]
   },
   {
     "key": "adet",
-    "value": "tane"
+    "values": [ "tane" ]
   },
   {
     "key": "âdet",
-    "value": "gelenek"
+    "values": [ "gelenek" ]
   },
   {
     "key": "adıl",
-    "value": "zamir"
+    "values": [ "zamir" ]
   },
   {
     "key": "adıl",
-    "value": "zamir"
+    "values": [ "zamir" ]
   },
   {
     "key": "adıl",
-    "value": "zamir"
+    "values": [ "zamir" ]
   },
   {
     "key": "adi",
-    "value": "bayağı"
+    "values": [ "bayağı" ]
   },
   {
     "key": "adi",
-    "value": "bayağı"
+    "values": [ "bayağı" ]
   },
   {
     "key": "adi",
-    "value": "bayağı"
+    "values": [ "bayağı" ]
   },
   {
     "key": "aferin",
-    "value": "bravo"
+    "values": [ "bravo" ]
   },
   {
     "key": "aferin",
-    "value": "bravo"
+    "values": [ "bravo" ]
   },
   {
     "key": "aferin",
-    "value": "bravo"
+    "values": [ "bravo" ]
   },
   {
     "key": "affetmek",
-    "value": "bağışlamak"
+    "values": [ "bağışlamak" ]
   },
   {
     "key": "affetmek",
-    "value": "bağışlamak"
+    "values": [ "bağışlamak" ]
   },
   {
     "key": "affetmek",
-    "value": "bağışlamak"
+    "values": [ "bağışlamak" ]
   },
   {
     "key": "ahenk",
-    "value": "uyum"
+    "values": [ "uyum" ]
   },
   {
     "key": "ahenk",
-    "value": "uyum"
+    "values": [ "uyum" ]
   },
   {
     "key": "ahenk",
-    "value": "uyum"
+    "values": [ "uyum" ]
   },
   {
     "key": "aka",
-    "value": "büyük"
+    "values": [ "büyük" ]
   },
   {
     "key": "aka",
-    "value": "büyük"
+    "values": [ "büyük" ]
   },
   {
     "key": "aka",
-    "value": "büyük"
+    "values": [ "büyük" ]
   },
   {
     "key": "akıl",
-    "value": "us"
+    "values": [ "us" ]
   },
   {
     "key": "akıl",
-    "value": "us"
+    "values": [ "us" ]
   },
   {
     "key": "aksi",
-    "value": "ters"
+    "values": [ "ters" ]
   },
   {
     "key": "aksi",
-    "value": "ters"
+    "values": [ "ters" ]
   },
   {
     "key": "al",
-    "value": "kırmızı"
+    "values": [ "kırmızı" ]
   },
   {
     "key": "al",
-    "value": "kırmızı"
+    "values": [ "kırmızı" ]
   },
   {
     "key": "alaka",
-    "value": "ilgi"
+    "values": [ "ilgi" ]
   },
   {
     "key": "alaka",
-    "value": "ilgi"
+    "values": [ "ilgi" ]
   },
   {
     "key": "alaz",
-    "value": "alev"
+    "values": [ "alev" ]
   },
   {
     "key": "alaz",
-    "value": "alev"
+    "values": [ "alev" ]
   },
   {
     "key": "alaz",
-    "value": "alev"
+    "values": [ "alev" ]
   },
   {
     "key": "alelade",
-    "value": "sıradan"
+    "values": [ "sıradan" ]
   },
   {
     "key": "alelade",
-    "value": "sıradan"
+    "values": [ "sıradan" ]
   },
   {
     "key": "alelade",
-    "value": "sıradan"
+    "values": [ "sıradan" ]
   },
   {
     "key": "aleni",
-    "value": "açık"
+    "values": [ "açık" ]
   },
   {
     "key": "aleni",
-    "value": "açık"
+    "values": [ "açık" ]
   },
   {
     "key": "aleni",
-    "value": "açık"
+    "values": [ "açık" ]
   },
   {
     "key": "allah",
-    "value": "tanrı"
+    "values": [ "tanrı" ]
   },
   {
     "key": "allah",
-    "value": "tanrı"
+    "values": [ "tanrı" ]
   },
   {
     "key": "ama",
-    "value": "fakat"
+    "values": [ "fakat" ]
   },
   {
     "key": "ama",
-    "value": "fakat"
+    "values": [ "fakat" ]
   },
   {
     "key": "ama",
-    "value": "fakat"
+    "values": [ "fakat" ]
   },
   {
     "key": "ama",
-    "value": "kör"
+    "values": [ "kör" ]
   },
   {
     "key": "âmâ",
-    "value": "kör"
+    "values": [ "kör" ]
   },
   {
     "key": "amaç",
-    "value": "erek"
+    "values": [ "erek" ]
   },
   {
     "key": "amaç",
-    "value": "erek"
+    "values": [ "erek" ]
   },
   {
     "key": "amaç",
-    "value": "erek"
+    "values": [ "erek" ]
   },
   {
     "key": "amade",
-    "value": "hazır"
+    "values": [ "hazır" ]
   },
   {
     "key": "amade",
-    "value": "hazır"
+    "values": [ "hazır" ]
   },
   {
     "key": "amade",
-    "value": "hazır"
+    "values": [ "hazır" ]
   },
   {
     "key": "amale",
-    "value": "işçi"
+    "values": [ "işçi" ]
   },
   {
     "key": "amale",
-    "value": "işçi"
+    "values": [ "işçi" ]
   },
   {
     "key": "amale",
-    "value": "işçi"
+    "values": [ "işçi" ]
   },
   {
     "key": "amel",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "amel",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "amel",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "ana",
-    "value": "anne"
+    "values": [ "anne" ]
   },
   {
     "key": "ana",
-    "value": "anne"
+    "values": [ "anne" ]
   },
   {
     "key": "ana",
-    "value": "anne"
+    "values": [ "anne" ]
   },
   {
     "key": "anı",
-    "value": "hatıra"
+    "values": [ "hatıra" ]
   },
   {
     "key": "anı",
-    "value": "hatıra"
+    "values": [ "hatıra" ]
   },
   {
     "key": "anı",
-    "value": "hatıra"
+    "values": [ "hatıra" ]
   },
   {
     "key": "anıt",
-    "value": "abide"
+    "values": [ "abide" ]
   },
   {
     "key": "anıt",
-    "value": "abide"
+    "values": [ "abide" ]
   },
   {
     "key": "aniden",
-    "value": "birden"
+    "values": [ "birden" ]
   },
   {
     "key": "aniden",
-    "value": "birden"
+    "values": [ "birden" ]
   },
   {
     "key": "aniden",
-    "value": "birden"
+    "values": [ "birden" ]
   },
   {
     "key": "aniden",
-    "value": "ansızın"
+    "values": [ "ansızın" ]
   },
   {
     "key": "anlam",
-    "value": "mana"
+    "values": [ "mana" ]
   },
   {
     "key": "anlam",
-    "value": "mana"
+    "values": [ "mana" ]
   },
   {
     "key": "anlam",
-    "value": "mana"
+    "values": [ "mana" ]
   },
   {
     "key": "anlamdaş",
-    "value": "eşanlamlı"
+    "values": [ "eşanlamlı" ]
   },
   {
     "key": "anlatım",
-    "value": "ifade"
+    "values": [ "ifade" ]
   },
   {
     "key": "anlatım",
-    "value": "ifade"
+    "values": [ "ifade" ]
   },
   {
     "key": "anlatım",
-    "value": "ifade"
+    "values": [ "ifade" ]
   },
   {
     "key": "ant",
-    "value": "yemin"
+    "values": [ "yemin" ]
   },
   {
     "key": "ant",
-    "value": "yemin"
+    "values": [ "yemin" ]
   },
   {
     "key": "ant",
-    "value": "yemin"
+    "values": [ "yemin" ]
   },
   {
     "key": "apse",
-    "value": "iltihap"
+    "values": [ "iltihap" ]
   },
   {
     "key": "apse",
-    "value": "iltihap"
+    "values": [ "iltihap" ]
   },
   {
     "key": "apse",
-    "value": "iltihap"
+    "values": [ "iltihap" ]
   },
   {
     "key": "ara",
-    "value": "fasıla"
+    "values": [ "fasıla" ]
   },
   {
     "key": "ara",
-    "value": "fasıla"
+    "values": [ "fasıla" ]
   },
   {
     "key": "ara",
-    "value": "fasıla"
+    "values": [ "fasıla" ]
   },
   {
     "key": "araç",
-    "value": "vasıta"
+    "values": [ "vasıta" ]
   },
   {
     "key": "araç",
-    "value": "vasıta"
+    "values": [ "vasıta" ]
   },
   {
     "key": "araç",
-    "value": "vasıta"
+    "values": [ "vasıta" ]
   },
   {
     "key": "arıza",
-    "value": "bozukluk"
+    "values": [ "bozukluk" ]
   },
   {
     "key": "arıza",
-    "value": "bozukluk"
+    "values": [ "bozukluk" ]
   },
   {
     "key": "arıza",
-    "value": "bozukluk"
+    "values": [ "bozukluk" ]
   },
   {
     "key": "arka",
-    "value": "geri"
+    "values": [ "geri" ]
   },
   {
     "key": "arka",
-    "value": "geri"
+    "values": [ "geri" ]
   },
   {
     "key": "arka",
-    "value": "geri"
+    "values": [ "geri" ]
   },
   {
     "key": "armağan",
-    "value": "hediye"
+    "values": [ "hediye" ]
   },
   {
     "key": "armağan",
-    "value": "hediye"
+    "values": [ "hediye" ]
   },
   {
     "key": "armağan",
-    "value": "hediye"
+    "values": [ "hediye" ]
   },
   {
     "key": "art",
-    "value": "arka"
+    "values": [ "arka" ]
   },
   {
     "key": "art",
-    "value": "arka"
+    "values": [ "arka" ]
   },
   {
     "key": "art",
-    "value": "arka"
+    "values": [ "arka" ]
   },
   {
     "key": "arzu",
-    "value": "istek"
+    "values": [ "istek" ]
   },
   {
     "key": "arzu",
-    "value": "istek"
+    "values": [ "istek" ]
   },
   {
     "key": "arzu",
-    "value": "istek"
+    "values": [ "istek" ]
   },
   {
     "key": "asır",
-    "value": "yüzyıl"
+    "values": [ "yüzyıl" ]
   },
   {
     "key": "asır",
-    "value": "yüzyıl"
+    "values": [ "yüzyıl" ]
   },
   {
     "key": "asır",
-    "value": "yüzyıl"
+    "values": [ "yüzyıl" ]
   },
   {
     "key": "asil",
-    "value": "soylu"
+    "values": [ "soylu" ]
   },
   {
     "key": "asil",
-    "value": "soylu"
+    "values": [ "soylu" ]
   },
   {
     "key": "asil",
-    "value": "soylu"
+    "values": [ "soylu" ]
   },
   {
     "key": "aş",
-    "value": "yemek"
+    "values": [ "yemek" ]
   },
   {
     "key": "aş",
-    "value": "yemek"
+    "values": [ "yemek" ]
   },
   {
     "key": "aş",
-    "value": "yemek"
+    "values": [ "yemek" ]
   },
   {
     "key": "aşırmak",
-    "value": "çalmak"
+    "values": [ "çalmak" ]
   },
   {
     "key": "aşırmak",
-    "value": "çalmak"
+    "values": [ "çalmak" ]
   },
   {
     "key": "aşırmak",
-    "value": "çalmak"
+    "values": [ "çalmak" ]
   },
   {
     "key": "ata",
-    "value": "cet"
+    "values": [ "cet" ]
   },
   {
     "key": "ata",
-    "value": "cet"
+    "values": [ "cet" ]
   },
   {
     "key": "ata",
-    "value": "cet"
+    "values": [ "cet" ]
   },
   {
     "key": "atak",
-    "value": "girişken"
+    "values": [ "girişken" ]
   },
   {
     "key": "atak",
-    "value": "girişken"
+    "values": [ "girişken" ]
   },
   {
     "key": "atak",
-    "value": "girişken"
+    "values": [ "girişken" ]
   },
   {
     "key": "atamak",
-    "value": "tayinetmek"
+    "values": [ "tayinetmek" ]
   },
   {
     "key": "atamak",
-    "value": "tayinetmek"
+    "values": [ "tayinetmek" ]
   },
   {
     "key": "atamak",
-    "value": "tayin etmek"
+    "values": [ "tayin etmek" ]
   },
   {
     "key": "atik",
-    "value": "seri"
+    "values": [ "seri" ]
   },
   {
     "key": "atölye",
-    "value": "işlik"
+    "values": [ "işlik" ]
   },
   {
     "key": "atölye",
-    "value": "işlik"
+    "values": [ "işlik" ]
   },
   {
     "key": "atölye",
-    "value": "işlik"
+    "values": [ "işlik" ]
   },
   {
     "key": "avare",
-    "value": "serseri(aylak)"
+    "values": [ "serseri(aylak)" ]
   },
   {
     "key": "avare",
-    "value": "serseri"
+    "values": [ "serseri" ]
   },
   {
     "key": "avare",
-    "value": "serseri(aylak)"
+    "values": [ "serseri(aylak)" ]
   },
   {
     "key": "ayakkabı",
-    "value": "kundura"
+    "values": [ "kundura" ]
   },
   {
     "key": "ayakkabı",
-    "value": "pabuç"
+    "values": [ "pabuç" ]
   },
   {
     "key": "ayakkabı",
-    "value": "pabuç"
+    "values": [ "pabuç" ]
   },
   {
     "key": "ayakyolu",
-    "value": "tuvalet"
+    "values": [ "tuvalet" ]
   },
   {
     "key": "ayakyolu",
-    "value": "hela"
+    "values": [ "hela" ]
   },
   {
     "key": "ayakyolu",
-    "value": "hela(wc)"
+    "values": [ "hela(wc)" ]
   },
   {
     "key": "aylak",
-    "value": "serseri"
+    "values": [ "serseri" ]
   },
   {
     "key": "aylak",
-    "value": "serseri"
+    "values": [ "serseri" ]
   },
   {
     "key": "ayraç",
-    "value": "parantez"
+    "values": [ "parantez" ]
   },
   {
     "key": "ayraç",
-    "value": "parantez"
+    "values": [ "parantez" ]
   },
   {
     "key": "ayraç",
-    "value": "parantez"
+    "values": [ "parantez" ]
   },
   {
     "key": "ayrıcalık",
-    "value": "imtiyaz"
+    "values": [ "imtiyaz" ]
   },
   {
     "key": "ayrıcalık",
-    "value": "imtiyaz"
+    "values": [ "imtiyaz" ]
   },
   {
     "key": "ayrıcalık",
-    "value": "imtiyaz"
+    "values": [ "imtiyaz" ]
   },
   {
     "key": "aza",
-    "value": "üye"
+    "values": [ "üye" ]
   },
   {
     "key": "aza",
-    "value": "üye"
+    "values": [ "üye" ]
   },
   {
     "key": "aza",
-    "value": "üye"
+    "values": [ "üye" ]
   },
   {
     "key": "bacı",
-    "value": "kızkardeş"
+    "values": [ "kızkardeş" ]
   },
   {
     "key": "bacı",
-    "value": "kızkardeş"
+    "values": [ "kızkardeş" ]
   },
   {
     "key": "bacı",
-    "value": "kız kardeş"
+    "values": [ "kız kardeş" ]
   },
   {
     "key": "bağışlamak",
-    "value": "affetmek"
+    "values": [ "affetmek" ]
   },
   {
     "key": "bağışlamak –affetmek",
@@ -769,1891 +769,1891 @@
   },
   {
     "key": "bağnaz",
-    "value": "yobaz"
+    "values": [ "yobaz" ]
   },
   {
     "key": "bağnaz",
-    "value": "yobaz"
+    "values": [ "yobaz" ]
   },
   {
     "key": "bağnaz",
-    "value": "yobaz"
+    "values": [ "yobaz" ]
   },
   {
     "key": "bakış",
-    "value": "nazar"
+    "values": [ "nazar" ]
   },
   {
     "key": "bakış",
-    "value": "nazar"
+    "values": [ "nazar" ]
   },
   {
     "key": "bakış",
-    "value": "nazar"
+    "values": [ "nazar" ]
   },
   {
     "key": "barış",
-    "value": "sulh"
+    "values": [ "sulh" ]
   },
   {
     "key": "barış",
-    "value": "sulh"
+    "values": [ "sulh" ]
   },
   {
     "key": "barış",
-    "value": "sulh"
+    "values": [ "sulh" ]
   },
   {
     "key": "basımevi",
-    "value": "matbaa"
+    "values": [ "matbaa" ]
   },
   {
     "key": "basımevi",
-    "value": "matbaa"
+    "values": [ "matbaa" ]
   },
   {
     "key": "basımevi",
-    "value": "matbaa"
+    "values": [ "matbaa" ]
   },
   {
     "key": "basit",
-    "value": "yalın"
+    "values": [ "yalın" ]
   },
   {
     "key": "basit",
-    "value": "yalın"
+    "values": [ "yalın" ]
   },
   {
     "key": "basit",
-    "value": "yalın"
+    "values": [ "yalın" ]
   },
   {
     "key": "baş",
-    "value": "kafa"
+    "values": [ "kafa" ]
   },
   {
     "key": "baş",
-    "value": "kafa"
+    "values": [ "kafa" ]
   },
   {
     "key": "baş",
-    "value": "kafa"
+    "values": [ "kafa" ]
   },
   {
     "key": "başkaldırı",
-    "value": "isyan"
+    "values": [ "isyan" ]
   },
   {
     "key": "başkaldırı",
-    "value": "isyan"
+    "values": [ "isyan" ]
   },
   {
     "key": "başkaldırı",
-    "value": "isyan"
+    "values": [ "isyan" ]
   },
   {
     "key": "başkan",
-    "value": "reis"
+    "values": [ "reis" ]
   },
   {
     "key": "başkan",
-    "value": "reis"
+    "values": [ "reis" ]
   },
   {
     "key": "başkan",
-    "value": "reis"
+    "values": [ "reis" ]
   },
   {
     "key": "başkent",
-    "value": "başşehir"
+    "values": [ "başşehir" ]
   },
   {
     "key": "başkent",
-    "value": "başşehir"
+    "values": [ "başşehir" ]
   },
   {
     "key": "başkent",
-    "value": "başşehir"
+    "values": [ "başşehir" ]
   },
   {
     "key": "başvuru",
-    "value": "müracaat"
+    "values": [ "müracaat" ]
   },
   {
     "key": "başvuru",
-    "value": "müracaat"
+    "values": [ "müracaat" ]
   },
   {
     "key": "başvuru",
-    "value": "müracaat"
+    "values": [ "müracaat" ]
   },
   {
     "key": "batı",
-    "value": "garp"
+    "values": [ "garp" ]
   },
   {
     "key": "batı",
-    "value": "garp"
+    "values": [ "garp" ]
   },
   {
     "key": "batı",
-    "value": "garp"
+    "values": [ "garp" ]
   },
   {
     "key": "bayağı",
-    "value": "adi"
+    "values": [ "adi" ]
   },
   {
     "key": "bayağı",
-    "value": "adi"
+    "values": [ "adi" ]
   },
   {
     "key": "bayağı",
-    "value": "adi"
+    "values": [ "adi" ]
   },
   {
     "key": "bayındır",
-    "value": "mamur"
+    "values": [ "mamur" ]
   },
   {
     "key": "bayındır",
-    "value": "mamur"
+    "values": [ "mamur" ]
   },
   {
     "key": "bayındır",
-    "value": "mamur"
+    "values": [ "mamur" ]
   },
   {
     "key": "bayındırlık",
-    "value": "imar"
+    "values": [ "imar" ]
   },
   {
     "key": "bayındırlık",
-    "value": "imar"
+    "values": [ "imar" ]
   },
   {
     "key": "bayındırlık",
-    "value": "imar"
+    "values": [ "imar" ]
   },
   {
     "key": "baytar",
-    "value": "veteriner"
+    "values": [ "veteriner" ]
   },
   {
     "key": "baytar",
-    "value": "veteriner"
+    "values": [ "veteriner" ]
   },
   {
     "key": "baytar",
-    "value": "veteriner"
+    "values": [ "veteriner" ]
   },
   {
     "key": "bazen",
-    "value": "kimi"
+    "values": [ "kimi" ]
   },
   {
     "key": "bazen",
-    "value": "kimi"
+    "values": [ "kimi" ]
   },
   {
     "key": "bedava",
-    "value": "parasız"
+    "values": [ "parasız" ]
   },
   {
     "key": "bedava",
-    "value": "parasız"
+    "values": [ "parasız" ]
   },
   {
     "key": "beden",
-    "value": "gövde"
+    "values": [ "gövde" ]
   },
   {
     "key": "beden",
-    "value": "gövde"
+    "values": [ "gövde" ]
   },
   {
     "key": "beğeni",
-    "value": "gusto"
+    "values": [ "gusto" ]
   },
   {
     "key": "beğeni",
-    "value": "zevk"
+    "values": [ "zevk" ]
   },
   {
     "key": "beğeni",
-    "value": "zevk"
+    "values": [ "zevk" ]
   },
   {
     "key": "belde",
-    "value": "şehir"
+    "values": [ "şehir" ]
   },
   {
     "key": "belde",
-    "value": "şehir"
+    "values": [ "şehir" ]
   },
   {
     "key": "belde",
-    "value": "şehir"
+    "values": [ "şehir" ]
   },
   {
     "key": "belge",
-    "value": "vesika"
+    "values": [ "vesika" ]
   },
   {
     "key": "belge",
-    "value": "vesika"
+    "values": [ "vesika" ]
   },
   {
     "key": "belge",
-    "value": "vesika"
+    "values": [ "vesika" ]
   },
   {
     "key": "bellek",
-    "value": "hafıza"
+    "values": [ "hafıza" ]
   },
   {
     "key": "bellek",
-    "value": "hafıza"
+    "values": [ "hafıza" ]
   },
   {
     "key": "bellek",
-    "value": "hafıza"
+    "values": [ "hafıza" ]
   },
   {
     "key": "bencil",
-    "value": "egoist"
+    "values": [ "egoist" ]
   },
   {
     "key": "bencil",
-    "value": "egoist"
+    "values": [ "egoist" ]
   },
   {
     "key": "bencil",
-    "value": "egoist"
+    "values": [ "egoist" ]
   },
   {
     "key": "benlik",
-    "value": "kişilik"
+    "values": [ "kişilik" ]
   },
   {
     "key": "benlik",
-    "value": "kişilik"
+    "values": [ "kişilik" ]
   },
   {
     "key": "benlik",
-    "value": "kişilik"
+    "values": [ "kişilik" ]
   },
   {
     "key": "benzer",
-    "value": "eş"
+    "values": [ "eş" ]
   },
   {
     "key": "beraber",
-    "value": "birlikte"
+    "values": [ "birlikte" ]
   },
   {
     "key": "beraber",
-    "value": "birlikte"
+    "values": [ "birlikte" ]
   },
   {
     "key": "beraber",
-    "value": "birlikte"
+    "values": [ "birlikte" ]
   },
   {
     "key": "bereket",
-    "value": "bolluk"
+    "values": [ "bolluk" ]
   },
   {
     "key": "bereket",
-    "value": "bolluk"
+    "values": [ "bolluk" ]
   },
   {
     "key": "bereket",
-    "value": "bolluk"
+    "values": [ "bolluk" ]
   },
   {
     "key": "berrak",
-    "value": "duru"
+    "values": [ "duru" ]
   },
   {
     "key": "berrak",
-    "value": "duru"
+    "values": [ "duru" ]
   },
   {
     "key": "berrak",
-    "value": "duru"
+    "values": [ "duru" ]
   },
   {
     "key": "besin",
-    "value": "gıda"
+    "values": [ "gıda" ]
   },
   {
     "key": "besin",
-    "value": "gıda"
+    "values": [ "gıda" ]
   },
   {
     "key": "besin",
-    "value": "gıda"
+    "values": [ "gıda" ]
   },
   {
     "key": "beyanat",
-    "value": "demeç"
+    "values": [ "demeç" ]
   },
   {
     "key": "beyanat",
-    "value": "demeç"
+    "values": [ "demeç" ]
   },
   {
     "key": "beyanat",
-    "value": "demeç"
+    "values": [ "demeç" ]
   },
   {
     "key": "beyaz",
-    "value": "ak"
+    "values": [ "ak" ]
   },
   {
     "key": "beyaz",
-    "value": "ak"
+    "values": [ "ak" ]
   },
   {
     "key": "beyaz",
-    "value": "ak"
+    "values": [ "ak" ]
   },
   {
     "key": "beygir",
-    "value": "at"
+    "values": [ "at" ]
   },
   {
     "key": "beygir",
-    "value": "at"
+    "values": [ "at" ]
   },
   {
     "key": "beygir",
-    "value": "at"
+    "values": [ "at" ]
   },
   {
     "key": "beyhude",
-    "value": "boşuna"
+    "values": [ "boşuna" ]
   },
   {
     "key": "beyhude",
-    "value": "boşuna"
+    "values": [ "boşuna" ]
   },
   {
     "key": "beyhude",
-    "value": "boşuna"
+    "values": [ "boşuna" ]
   },
   {
     "key": "biçare",
-    "value": "zavallı"
+    "values": [ "zavallı" ]
   },
   {
     "key": "biçare",
-    "value": "zavallı"
+    "values": [ "zavallı" ]
   },
   {
     "key": "biçare",
-    "value": "zavallı"
+    "values": [ "zavallı" ]
   },
   {
     "key": "biçim",
-    "value": "şekil"
+    "values": [ "şekil" ]
   },
   {
     "key": "biçim",
-    "value": "şekil"
+    "values": [ "şekil" ]
   },
   {
     "key": "biçim",
-    "value": "şekil"
+    "values": [ "şekil" ]
   },
   {
     "key": "bilakis",
-    "value": "tersine"
+    "values": [ "tersine" ]
   },
   {
     "key": "bilakis",
-    "value": "tersine"
+    "values": [ "tersine" ]
   },
   {
     "key": "bilakis",
-    "value": "tersine"
+    "values": [ "tersine" ]
   },
   {
     "key": "bilgin",
-    "value": "alim"
+    "values": [ "alim" ]
   },
   {
     "key": "bilgin",
-    "value": "alim"
+    "values": [ "alim" ]
   },
   {
     "key": "bilgin",
-    "value": "alim"
+    "values": [ "alim" ]
   },
   {
     "key": "bilgisiz",
-    "value": "cahil"
+    "values": [ "cahil" ]
   },
   {
     "key": "bilgisiz",
-    "value": "cahil"
+    "values": [ "cahil" ]
   },
   {
     "key": "bilgisiz",
-    "value": "cahil"
+    "values": [ "cahil" ]
   },
   {
     "key": "bilgisiz",
-    "value": "cahil"
+    "values": [ "cahil" ]
   },
   {
     "key": "bilhassa",
-    "value": "özellikle"
+    "values": [ "özellikle" ]
   },
   {
     "key": "bilhassa",
-    "value": "özellikle"
+    "values": [ "özellikle" ]
   },
   {
     "key": "bilhassa",
-    "value": "özellikle"
+    "values": [ "özellikle" ]
   },
   {
     "key": "bilim",
-    "value": "ilim"
+    "values": [ "ilim" ]
   },
   {
     "key": "bilim",
-    "value": "ilim"
+    "values": [ "ilim" ]
   },
   {
     "key": "bilim",
-    "value": "ilim"
+    "values": [ "ilim" ]
   },
   {
     "key": "bilinç",
-    "value": "şuur"
+    "values": [ "şuur" ]
   },
   {
     "key": "bilinç",
-    "value": "şuur"
+    "values": [ "şuur" ]
   },
   {
     "key": "bilinç",
-    "value": "şuur"
+    "values": [ "şuur" ]
   },
   {
     "key": "bilinen",
-    "value": "malum"
+    "values": [ "malum" ]
   },
   {
     "key": "bina",
-    "value": "yapı"
+    "values": [ "yapı" ]
   },
   {
     "key": "bina",
-    "value": "yapı"
+    "values": [ "yapı" ]
   },
   {
     "key": "bina",
-    "value": "yapı"
+    "values": [ "yapı" ]
   },
   {
     "key": "birden",
-    "value": "ani"
+    "values": [ "ani" ]
   },
   {
     "key": "birden",
-    "value": "ani"
+    "values": [ "ani" ]
   },
   {
     "key": "birden",
-    "value": "ani"
+    "values": [ "ani" ]
   },
   {
     "key": "birdenbire",
-    "value": "aniden"
+    "values": [ "aniden" ]
   },
   {
     "key": "birdenbire",
-    "value": "aniden"
+    "values": [ "aniden" ]
   },
   {
     "key": "birdenbire",
-    "value": "aniden"
+    "values": [ "aniden" ]
   },
   {
     "key": "birey",
-    "value": "fert"
+    "values": [ "fert" ]
   },
   {
     "key": "birey",
-    "value": "fert"
+    "values": [ "fert" ]
   },
   {
     "key": "birey",
-    "value": "fert"
+    "values": [ "fert" ]
   },
   {
     "key": "biricik",
-    "value": "tek"
+    "values": [ "tek" ]
   },
   {
     "key": "biricik",
-    "value": "tek"
+    "values": [ "tek" ]
   },
   {
     "key": "biricik",
-    "value": "tek"
+    "values": [ "tek" ]
   },
   {
     "key": "bitki",
-    "value": "nebat"
+    "values": [ "nebat" ]
   },
   {
     "key": "bitki",
-    "value": "nebat"
+    "values": [ "nebat" ]
   },
   {
     "key": "bitki",
-    "value": "nebat"
+    "values": [ "nebat" ]
   },
   {
     "key": "boylam",
-    "value": "meridyen"
+    "values": [ "meridyen" ]
   },
   {
     "key": "boylam",
-    "value": "meridyen"
+    "values": [ "meridyen" ]
   },
   {
     "key": "boylam",
-    "value": "meridyen"
+    "values": [ "meridyen" ]
   },
   {
     "key": "bozkır",
-    "value": "step"
+    "values": [ "step" ]
   },
   {
     "key": "bozkır",
-    "value": "step"
+    "values": [ "step" ]
   },
   {
     "key": "bozkır",
-    "value": "step"
+    "values": [ "step" ]
   },
   {
     "key": "bucak",
-    "value": "nahiye"
+    "values": [ "nahiye" ]
   },
   {
     "key": "bucak",
-    "value": "nahiye"
+    "values": [ "nahiye" ]
   },
   {
     "key": "bucak",
-    "value": "nahiye"
+    "values": [ "nahiye" ]
   },
   {
     "key": "buğu",
-    "value": "buhar"
+    "values": [ "buhar" ]
   },
   {
     "key": "buğu",
-    "value": "buhar"
+    "values": [ "buhar" ]
   },
   {
     "key": "buğu",
-    "value": "buhar"
+    "values": [ "buhar" ]
   },
   {
     "key": "buhran",
-    "value": "bunalım"
+    "values": [ "bunalım" ]
   },
   {
     "key": "buhran",
-    "value": "bunalım"
+    "values": [ "bunalım" ]
   },
   {
     "key": "buhran",
-    "value": "bunalım"
+    "values": [ "bunalım" ]
   },
   {
     "key": "buyruk",
-    "value": "emir"
+    "values": [ "emir" ]
   },
   {
     "key": "buyruk",
-    "value": "emir"
+    "values": [ "emir" ]
   },
   {
     "key": "buyruk",
-    "value": "emir"
+    "values": [ "emir" ]
   },
   {
     "key": "büro",
-    "value": "ofis(yazıhane)"
+    "values": [ "ofis(yazıhane)" ]
   },
   {
     "key": "büro",
-    "value": "ofis"
+    "values": [ "ofis" ]
   },
   {
     "key": "büro",
-    "value": "ofis (yazıhane)"
+    "values": [ "ofis (yazıhane)" ]
   },
   {
     "key": "cahil",
-    "value": "bilgisiz"
+    "values": [ "bilgisiz" ]
   },
   {
     "key": "cahil",
-    "value": "bilgisiz"
+    "values": [ "bilgisiz" ]
   },
   {
     "key": "cahil",
-    "value": "bilgisiz"
+    "values": [ "bilgisiz" ]
   },
   {
     "key": "caka",
-    "value": "gösteriş"
+    "values": [ "gösteriş" ]
   },
   {
     "key": "caka",
-    "value": "gösteriş"
+    "values": [ "gösteriş" ]
   },
   {
     "key": "caka",
-    "value": "gösteriş"
+    "values": [ "gösteriş" ]
   },
   {
     "key": "camekan",
-    "value": "vitrin"
+    "values": [ "vitrin" ]
   },
   {
     "key": "camekan",
-    "value": "vitrin"
+    "values": [ "vitrin" ]
   },
   {
     "key": "camekan",
-    "value": "vitrin"
+    "values": [ "vitrin" ]
   },
   {
     "key": "canlı",
-    "value": "diri"
+    "values": [ "diri" ]
   },
   {
     "key": "canlı",
-    "value": "diri"
+    "values": [ "diri" ]
   },
   {
     "key": "canlı",
-    "value": "diri"
+    "values": [ "diri" ]
   },
   {
     "key": "cazibe",
-    "value": "çekim"
+    "values": [ "çekim" ]
   },
   {
     "key": "cazibe",
-    "value": "çekim"
+    "values": [ "çekim" ]
   },
   {
     "key": "cazibe",
-    "value": "çekim"
+    "values": [ "çekim" ]
   },
   {
     "key": "cehalet",
-    "value": "bilgisizlik"
+    "values": [ "bilgisizlik" ]
   },
   {
     "key": "cehalet",
-    "value": "bilgisizlik"
+    "values": [ "bilgisizlik" ]
   },
   {
     "key": "cehalet",
-    "value": "bilgisizlik"
+    "values": [ "bilgisizlik" ]
   },
   {
     "key": "celse",
-    "value": "oturum"
+    "values": [ "oturum" ]
   },
   {
     "key": "celse",
-    "value": "oturum"
+    "values": [ "oturum" ]
   },
   {
     "key": "celse",
-    "value": "oturum"
+    "values": [ "oturum" ]
   },
   {
     "key": "cenk",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "cenk",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "cenk",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "cenup",
-    "value": "güney"
+    "values": [ "güney" ]
   },
   {
     "key": "cenup",
-    "value": "güney"
+    "values": [ "güney" ]
   },
   {
     "key": "cenup",
-    "value": "güney"
+    "values": [ "güney" ]
   },
   {
     "key": "cerahat",
-    "value": "irin"
+    "values": [ "irin" ]
   },
   {
     "key": "cerahat",
-    "value": "irin"
+    "values": [ "irin" ]
   },
   {
     "key": "cerahat",
-    "value": "irin"
+    "values": [ "irin" ]
   },
   {
     "key": "cerrah",
-    "value": "operatör"
+    "values": [ "operatör" ]
   },
   {
     "key": "cerrah",
-    "value": "operatör"
+    "values": [ "operatör" ]
   },
   {
     "key": "cerrah",
-    "value": "operatör"
+    "values": [ "operatör" ]
   },
   {
     "key": "cesur",
-    "value": "yürekli"
+    "values": [ "yürekli" ]
   },
   {
     "key": "cesur",
-    "value": "yürekli"
+    "values": [ "yürekli" ]
   },
   {
     "key": "cesur",
-    "value": "yürekli"
+    "values": [ "yürekli" ]
   },
   {
     "key": "cet",
-    "value": "ata"
+    "values": [ "ata" ]
   },
   {
     "key": "cet",
-    "value": "ata"
+    "values": [ "ata" ]
   },
   {
     "key": "cet",
-    "value": "ata"
+    "values": [ "ata" ]
   },
   {
     "key": "cevap",
-    "value": "yanıt"
+    "values": [ "yanıt" ]
   },
   {
     "key": "cevap",
-    "value": "yanıt"
+    "values": [ "yanıt" ]
   },
   {
     "key": "cevap",
-    "value": "yanıt"
+    "values": [ "yanıt" ]
   },
   {
     "key": "ceviz",
-    "value": "koz"
+    "values": [ "koz" ]
   },
   {
     "key": "ceviz",
-    "value": "koz"
+    "values": [ "koz" ]
   },
   {
     "key": "ceviz",
-    "value": "koz"
+    "values": [ "koz" ]
   },
   {
     "key": "cılız",
-    "value": "sıska"
+    "values": [ "sıska" ]
   },
   {
     "key": "cılız",
-    "value": "sıska"
+    "values": [ "sıska" ]
   },
   {
     "key": "cılız",
-    "value": "sıska"
+    "values": [ "sıska" ]
   },
   {
     "key": "cılız",
-    "value": "sıska"
+    "values": [ "sıska" ]
   },
   {
     "key": "ciddi",
-    "value": "ağırbaşlı"
+    "values": [ "ağırbaşlı" ]
   },
   {
     "key": "ciddi",
-    "value": "ağırbaşlı"
+    "values": [ "ağırbaşlı" ]
   },
   {
     "key": "ciddi",
-    "value": "ağırbaşlı"
+    "values": [ "ağırbaşlı" ]
   },
   {
     "key": "ciddi",
-    "value": "ağırbaşlı"
+    "values": [ "ağırbaşlı" ]
   },
   {
     "key": "cihaz",
-    "value": "aygıt"
+    "values": [ "aygıt" ]
   },
   {
     "key": "cihaz",
-    "value": "aygıt"
+    "values": [ "aygıt" ]
   },
   {
     "key": "cihaz",
-    "value": "aygıt"
+    "values": [ "aygıt" ]
   },
   {
     "key": "cihaz",
-    "value": "aygıt"
+    "values": [ "aygıt" ]
   },
   {
     "key": "cihet",
-    "value": "yön"
+    "values": [ "yön" ]
   },
   {
     "key": "cihet",
-    "value": "yön"
+    "values": [ "yön" ]
   },
   {
     "key": "cihet",
-    "value": "yön"
+    "values": [ "yön" ]
   },
   {
     "key": "cihet",
-    "value": "yön"
+    "values": [ "yön" ]
   },
   {
     "key": "cilt",
-    "value": "ten"
+    "values": [ "ten" ]
   },
   {
     "key": "cilt",
-    "value": "ten"
+    "values": [ "ten" ]
   },
   {
     "key": "cilt",
-    "value": "ten"
+    "values": [ "ten" ]
   },
   {
     "key": "cilt",
-    "value": "ten"
+    "values": [ "ten" ]
   },
   {
     "key": "cimri",
-    "value": "hasis"
+    "values": [ "hasis" ]
   },
   {
     "key": "cimri",
-    "value": "pinti"
+    "values": [ "pinti" ]
   },
   {
     "key": "cimri",
-    "value": "pinti"
+    "values": [ "pinti" ]
   },
   {
     "key": "cimri",
-    "value": "hasis"
+    "values": [ "hasis" ]
   },
   {
     "key": "cimri",
-    "value": "pinti"
+    "values": [ "pinti" ]
   },
   {
     "key": "cimri",
-    "value": "hasis"
+    "values": [ "hasis" ]
   },
   {
     "key": "cin",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "cin",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "cin",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "cins",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "cins",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "cins",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "civar",
-    "value": "yöre"
+    "values": [ "yöre" ]
   },
   {
     "key": "civar",
-    "value": "yöre"
+    "values": [ "yöre" ]
   },
   {
     "key": "civar",
-    "value": "yöre"
+    "values": [ "yöre" ]
   },
   {
     "key": "civar",
-    "value": "yöre"
+    "values": [ "yöre" ]
   },
   {
     "key": "cömert",
-    "value": "eliaçık"
+    "values": [ "eliaçık" ]
   },
   {
     "key": "cömert",
-    "value": "eliaçık"
+    "values": [ "eliaçık" ]
   },
   {
     "key": "cömert",
-    "value": "eli açık"
+    "values": [ "eli açık" ]
   },
   {
     "key": "cömert",
-    "value": "eli açık"
+    "values": [ "eli açık" ]
   },
   {
     "key": "cümle",
-    "value": "tümce"
+    "values": [ "tümce" ]
   },
   {
     "key": "cümle",
-    "value": "tümce"
+    "values": [ "tümce" ]
   },
   {
     "key": "cümle",
-    "value": "tümce"
+    "values": [ "tümce" ]
   },
   {
     "key": "cümle",
-    "value": "tümce"
+    "values": [ "tümce" ]
   },
   {
     "key": "çabuk",
-    "value": "acele"
+    "values": [ "acele" ]
   },
   {
     "key": "çabuk",
-    "value": "acele"
+    "values": [ "acele" ]
   },
   {
     "key": "çabuk",
-    "value": "acele"
+    "values": [ "acele" ]
   },
   {
     "key": "çağ",
-    "value": "devir"
+    "values": [ "devir" ]
   },
   {
     "key": "çağ",
-    "value": "devir"
+    "values": [ "devir" ]
   },
   {
     "key": "çağ",
-    "value": "devir"
+    "values": [ "devir" ]
   },
   {
     "key": "çağdaş",
-    "value": "modern"
+    "values": [ "modern" ]
   },
   {
     "key": "çağdaş",
-    "value": "modern"
+    "values": [ "modern" ]
   },
   {
     "key": "çağdaş",
-    "value": "modern"
+    "values": [ "modern" ]
   },
   {
     "key": "çağrı",
-    "value": "davet"
+    "values": [ "davet" ]
   },
   {
     "key": "çağrı",
-    "value": "davet"
+    "values": [ "davet" ]
   },
   {
     "key": "çağrı",
-    "value": "davet"
+    "values": [ "davet" ]
   },
   {
     "key": "çamur",
-    "value": "balçık"
+    "values": [ "balçık" ]
   },
   {
     "key": "çamur",
-    "value": "balçık"
+    "values": [ "balçık" ]
   },
   {
     "key": "çamur",
-    "value": "balçık"
+    "values": [ "balçık" ]
   },
   {
     "key": "çare",
-    "value": "deva"
+    "values": [ "deva" ]
   },
   {
     "key": "çare",
-    "value": "deva"
+    "values": [ "deva" ]
   },
   {
     "key": "çare",
-    "value": "deva"
+    "values": [ "deva" ]
   },
   {
     "key": "çayır",
-    "value": "davet"
+    "values": [ "davet" ]
   },
   {
     "key": "çayır",
-    "value": "davet"
+    "values": [ "davet" ]
   },
   {
     "key": "çehre",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "çehre",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "çehre",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "çeşit",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "çeşit",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "çeşit",
-    "value": "tür"
+    "values": [ "tür" ]
   },
   {
     "key": "çeviri",
-    "value": "tercüme"
+    "values": [ "tercüme" ]
   },
   {
     "key": "çeviri",
-    "value": "tercüme"
+    "values": [ "tercüme" ]
   },
   {
     "key": "çeviri",
-    "value": "tercüme"
+    "values": [ "tercüme" ]
   },
   {
     "key": "çığlık",
-    "value": "feryat"
+    "values": [ "feryat" ]
   },
   {
     "key": "çığlık",
-    "value": "feryat"
+    "values": [ "feryat" ]
   },
   {
     "key": "çığlık",
-    "value": "feryat"
+    "values": [ "feryat" ]
   },
   {
     "key": "çılgın",
-    "value": "deli"
+    "values": [ "deli" ]
   },
   {
     "key": "çılgın",
-    "value": "deli"
+    "values": [ "deli" ]
   },
   {
     "key": "çılgın",
-    "value": "deli"
+    "values": [ "deli" ]
   },
   {
     "key": "çizelge",
-    "value": "cetvel"
+    "values": [ "cetvel" ]
   },
   {
     "key": "çizelge",
-    "value": "cetvel"
+    "values": [ "cetvel" ]
   },
   {
     "key": "çizelge",
-    "value": "cetvel"
+    "values": [ "cetvel" ]
   },
   {
     "key": "çoğunluk",
-    "value": "ekseriyet"
+    "values": [ "ekseriyet" ]
   },
   {
     "key": "çoğunluk",
-    "value": "ekseriyet"
+    "values": [ "ekseriyet" ]
   },
   {
     "key": "çoğunluk",
-    "value": "ekseriyet"
+    "values": [ "ekseriyet" ]
   },
   {
     "key": "çok",
-    "value": "fazla"
+    "values": [ "fazla" ]
   },
   {
     "key": "çok",
-    "value": "fazla"
+    "values": [ "fazla" ]
   },
   {
     "key": "çok",
-    "value": "fazla"
+    "values": [ "fazla" ]
   },
   {
     "key": "dahil",
-    "value": "iç"
+    "values": [ "iç" ]
   },
   {
     "key": "dahil",
-    "value": "iç"
+    "values": [ "iç" ]
   },
   {
     "key": "dahil",
-    "value": "iç"
+    "values": [ "iç" ]
   },
   {
     "key": "daimi",
-    "value": "sürekli"
+    "values": [ "sürekli" ]
   },
   {
     "key": "daimi",
-    "value": "sürekli"
+    "values": [ "sürekli" ]
   },
   {
     "key": "daimi",
-    "value": "sürekli"
+    "values": [ "sürekli" ]
   },
   {
     "key": "dam",
-    "value": "çatı"
+    "values": [ "çatı" ]
   },
   {
     "key": "darbe",
-    "value": "vuruş"
+    "values": [ "vuruş" ]
   },
   {
     "key": "darbe",
-    "value": "vuruş"
+    "values": [ "vuruş" ]
   },
   {
     "key": "darbe",
-    "value": "vuruş"
+    "values": [ "vuruş" ]
   },
   {
     "key": "dargın",
-    "value": "küs"
+    "values": [ "küs" ]
   },
   {
     "key": "dargın",
-    "value": "küs"
+    "values": [ "küs" ]
   },
   {
     "key": "dargın",
-    "value": "küs"
+    "values": [ "küs" ]
   },
   {
     "key": "darılmak",
-    "value": "küsmek"
+    "values": [ "küsmek" ]
   },
   {
     "key": "darılmak",
-    "value": "küsmek"
+    "values": [ "küsmek" ]
   },
   {
     "key": "darılmak",
-    "value": "küsmek"
+    "values": [ "küsmek" ]
   },
   {
     "key": "davet",
-    "value": "çağrı"
+    "values": [ "çağrı" ]
   },
   {
     "key": "davet",
-    "value": "çağrı"
+    "values": [ "çağrı" ]
   },
   {
     "key": "davet",
-    "value": "çağrı"
+    "values": [ "çağrı" ]
   },
   {
     "key": "defa",
-    "value": "kez"
+    "values": [ "kez" ]
   },
   {
     "key": "defa",
-    "value": "kez"
+    "values": [ "kez" ]
   },
   {
     "key": "defa",
-    "value": "kez"
+    "values": [ "kez" ]
   },
   {
     "key": "değer",
-    "value": "kıymet"
+    "values": [ "kıymet" ]
   },
   {
     "key": "değer",
-    "value": "kıymet"
+    "values": [ "kıymet" ]
   },
   {
     "key": "değer",
-    "value": "kıymet"
+    "values": [ "kıymet" ]
   },
   {
     "key": "değerli",
-    "value": "kıymetli"
+    "values": [ "kıymetli" ]
   },
   {
     "key": "değerli",
-    "value": "kıymetli"
+    "values": [ "kıymetli" ]
   },
   {
     "key": "değerli",
-    "value": "kıymetli"
+    "values": [ "kıymetli" ]
   },
   {
     "key": "değnek",
-    "value": "sopa"
+    "values": [ "sopa" ]
   },
   {
     "key": "değnek",
-    "value": "sopa"
+    "values": [ "sopa" ]
   },
   {
     "key": "değnek",
-    "value": "sopa"
+    "values": [ "sopa" ]
   },
   {
     "key": "deli",
-    "value": "çılgın"
+    "values": [ "çılgın" ]
   },
   {
     "key": "deli",
-    "value": "çılgın"
+    "values": [ "çılgın" ]
   },
   {
     "key": "deli",
-    "value": "çılgın"
+    "values": [ "çılgın" ]
   },
   {
     "key": "delil",
-    "value": "kanıt"
+    "values": [ "kanıt" ]
   },
   {
     "key": "delil",
-    "value": "kanıt"
+    "values": [ "kanıt" ]
   },
   {
     "key": "delil",
-    "value": "kanıt"
+    "values": [ "kanıt" ]
   },
   {
     "key": "deneme",
-    "value": "tecrübe"
+    "values": [ "tecrübe" ]
   },
   {
     "key": "deneme",
-    "value": "tecrübe"
+    "values": [ "tecrübe" ]
   },
   {
     "key": "deneme",
-    "value": "tecrübe"
+    "values": [ "tecrübe" ]
   },
   {
     "key": "denetim",
-    "value": "kontrol"
+    "values": [ "kontrol" ]
   },
   {
     "key": "denetim",
-    "value": "kontrol"
+    "values": [ "kontrol" ]
   },
   {
     "key": "denetim",
-    "value": "kontrol"
+    "values": [ "kontrol" ]
   },
   {
     "key": "deney",
-    "value": "tecrübe"
+    "values": [ "tecrübe" ]
   },
   {
     "key": "deney",
-    "value": "tecrübe"
+    "values": [ "tecrübe" ]
   },
   {
     "key": "deney",
-    "value": "tecrübe"
+    "values": [ "tecrübe" ]
   },
   {
     "key": "deprem",
-    "value": "zelzele"
+    "values": [ "zelzele" ]
   },
   {
     "key": "deprem",
-    "value": "zerzele"
+    "values": [ "zerzele" ]
   },
   {
     "key": "deprem",
-    "value": "zerzele"
+    "values": [ "zerzele" ]
   },
   {
     "key": "dergi",
-    "value": "mecmua"
+    "values": [ "mecmua" ]
   },
   {
     "key": "dergi",
-    "value": "mecmua"
+    "values": [ "mecmua" ]
   },
   {
     "key": "dergi",
-    "value": "mecmua"
+    "values": [ "mecmua" ]
   },
   {
     "key": "derhal",
-    "value": "hemen"
+    "values": [ "hemen" ]
   },
   {
     "key": "derhal",
-    "value": "hemen"
+    "values": [ "hemen" ]
   },
   {
     "key": "derhal",
-    "value": "hemen"
+    "values": [ "hemen" ]
   },
   {
     "key": "deri",
-    "value": "ten"
+    "values": [ "ten" ]
   },
   {
     "key": "deri",
-    "value": "ten"
+    "values": [ "ten" ]
   },
   {
     "key": "deri",
-    "value": "ten"
+    "values": [ "ten" ]
   },
   {
     "key": "derslik",
-    "value": "sınıf"
+    "values": [ "sınıf" ]
   },
   {
     "key": "derslik",
-    "value": "sınıf"
+    "values": [ "sınıf" ]
   },
   {
     "key": "derslik",
-    "value": "sınıf"
+    "values": [ "sınıf" ]
   },
   {
     "key": "deva",
-    "value": "ilaç"
+    "values": [ "ilaç" ]
   },
   {
     "key": "devamlı",
-    "value": "sürekli"
+    "values": [ "sürekli" ]
   },
   {
     "key": "devamlı",
-    "value": "sürekli"
+    "values": [ "sürekli" ]
   },
   {
     "key": "devamlı",
-    "value": "sürekli"
+    "values": [ "sürekli" ]
   },
   {
     "key": "devinim",
-    "value": "hareket"
+    "values": [ "hareket" ]
   },
   {
     "key": "devinim",
-    "value": "hareket"
+    "values": [ "hareket" ]
   },
   {
     "key": "devinim",
-    "value": "hareket"
+    "values": [ "hareket" ]
   },
   {
     "key": "devir",
-    "value": "çağ"
+    "values": [ "çağ" ]
   },
   {
     "key": "devir",
-    "value": "çağ"
+    "values": [ "çağ" ]
   },
   {
     "key": "devir",
-    "value": "çağ"
+    "values": [ "çağ" ]
   },
   {
     "key": "devir",
-    "value": "tur"
+    "values": [ "tur" ]
   },
   {
     "key": "devre",
-    "value": "dönem"
+    "values": [ "dönem" ]
   },
   {
     "key": "devre",
-    "value": "dönem"
+    "values": [ "dönem" ]
   },
   {
     "key": "devre",
-    "value": "dönem"
+    "values": [ "dönem" ]
   },
   {
     "key": "dışalım",
-    "value": "ithalat"
+    "values": [ "ithalat" ]
   },
   {
     "key": "dışalım",
-    "value": "ithalat"
+    "values": [ "ithalat" ]
   },
   {
     "key": "dışalım",
-    "value": "ithalat"
+    "values": [ "ithalat" ]
   },
   {
     "key": "dışsatım",
-    "value": "ihracat"
+    "values": [ "ihracat" ]
   },
   {
     "key": "dışsatım",
-    "value": "ihracat"
+    "values": [ "ihracat" ]
   },
   {
     "key": "dışsatım",
-    "value": "ihracat"
+    "values": [ "ihracat" ]
   },
   {
     "key": "diğer",
-    "value": "başka"
+    "values": [ "başka" ]
   },
   {
     "key": "diğer",
-    "value": "başka"
+    "values": [ "başka" ]
   },
   {
     "key": "diğer",
-    "value": "başka"
+    "values": [ "başka" ]
   },
   {
     "key": "dil",
-    "value": "lisan"
+    "values": [ "lisan" ]
   },
   {
     "key": "dil",
-    "value": "lisan"
+    "values": [ "lisan" ]
   },
   {
     "key": "dil",
-    "value": "lisan"
+    "values": [ "lisan" ]
   },
   {
     "key": "dilbilgisi",
-    "value": "gramer"
+    "values": [ "gramer" ]
   },
   {
     "key": "dilbilgisi",
-    "value": "gramer"
+    "values": [ "gramer" ]
   },
   {
     "key": "dilek",
-    "value": "istek"
+    "values": [ "istek" ]
   },
   {
     "key": "dilek",
-    "value": "istek"
+    "values": [ "istek" ]
   },
   {
     "key": "dilek",
-    "value": "istek"
+    "values": [ "istek" ]
   },
   {
     "key": "diri",
-    "value": "canlı"
+    "values": [ "canlı" ]
   },
   {
     "key": "diri",
-    "value": "canlı"
+    "values": [ "canlı" ]
   },
   {
     "key": "diri",
-    "value": "canlı"
+    "values": [ "canlı" ]
   },
   {
     "key": "dize",
-    "value": "mısra"
+    "values": [ "mısra" ]
   },
   {
     "key": "dize",
-    "value": "mısra"
+    "values": [ "mısra" ]
   },
   {
     "key": "dize",
-    "value": "mısra"
+    "values": [ "mısra" ]
   },
   {
     "key": "dizi",
-    "value": "sıra"
+    "values": [ "sıra" ]
   },
   {
     "key": "dizi",
-    "value": "sıra"
+    "values": [ "sıra" ]
   },
   {
     "key": "dizi",
-    "value": "sıra"
+    "values": [ "sıra" ]
   },
   {
     "key": "doğa",
-    "value": "tabiat"
+    "values": [ "tabiat" ]
   },
   {
     "key": "doğa",
-    "value": "tabiat"
+    "values": [ "tabiat" ]
   },
   {
     "key": "doğa",
-    "value": "tabiat"
+    "values": [ "tabiat" ]
   },
   {
     "key": "doğal",
-    "value": "tabii"
+    "values": [ "tabii" ]
   },
   {
     "key": "doğal",
-    "value": "tabii"
+    "values": [ "tabii" ]
   },
   {
     "key": "doğal",
-    "value": "tabii"
+    "values": [ "tabii" ]
   },
   {
     "key": "doğu",
-    "value": "şark"
+    "values": [ "şark" ]
   },
   {
     "key": "doğu",
-    "value": "şark"
+    "values": [ "şark" ]
   },
   {
     "key": "doğu",
-    "value": "şark"
+    "values": [ "şark" ]
   },
   {
     "key": "doktor",
-    "value": "hekim"
+    "values": [ "hekim" ]
   },
   {
     "key": "doktor",
-    "value": "hekim"
+    "values": [ "hekim" ]
   },
   {
     "key": "doktor",
-    "value": "hekim"
+    "values": [ "hekim" ]
   },
   {
     "key": "donuk",
-    "value": "mat"
+    "values": [ "mat" ]
   },
   {
     "key": "donuk",
-    "value": "mat"
+    "values": [ "mat" ]
   },
   {
     "key": "donuk",
-    "value": "mat"
+    "values": [ "mat" ]
   },
   {
     "key": "doruk",
-    "value": "zirve"
+    "values": [ "zirve" ]
   },
   {
     "key": "doruk",
-    "value": "zirve"
+    "values": [ "zirve" ]
   },
   {
     "key": "doruk",
-    "value": "zirve"
+    "values": [ "zirve" ]
   },
   {
     "key": "dost",
-    "value": "arkadaş"
+    "values": [ "arkadaş" ]
   },
   {
     "key": "dost",
-    "value": "arkadaş"
+    "values": [ "arkadaş" ]
   },
   {
     "key": "dost",
-    "value": "arkadaş"
+    "values": [ "arkadaş" ]
   },
   {
     "key": "dönemeç",
-    "value": "viraj"
+    "values": [ "viraj" ]
   },
   {
     "key": "dönemeç",
-    "value": "viraj"
+    "values": [ "viraj" ]
   },
   {
     "key": "dönemeç",
-    "value": "viraj"
+    "values": [ "viraj" ]
   },
   {
     "key": "döşek",
-    "value": "yatak"
+    "values": [ "yatak" ]
   },
   {
     "key": "döşek",
-    "value": "yatak"
+    "values": [ "yatak" ]
   },
   {
     "key": "döşek",
-    "value": "yatak"
+    "values": [ "yatak" ]
   },
   {
     "key": "duru",
-    "value": "berrak"
+    "values": [ "berrak" ]
   },
   {
     "key": "duru",
-    "value": "berrak"
+    "values": [ "berrak" ]
   },
   {
     "key": "duru",
-    "value": "berrak"
+    "values": [ "berrak" ]
   },
   {
     "key": "durum",
-    "value": "vaziyet"
+    "values": [ "vaziyet" ]
   },
   {
     "key": "durum",
-    "value": "vaziyet"
+    "values": [ "vaziyet" ]
   },
   {
     "key": "durum",
-    "value": "vaziyet"
+    "values": [ "vaziyet" ]
   },
   {
     "key": "duygu",
-    "value": "his"
+    "values": [ "his" ]
   },
   {
     "key": "duygu",
-    "value": "his"
+    "values": [ "his" ]
   },
   {
     "key": "duygu",
-    "value": "his"
+    "values": [ "his" ]
   },
   {
     "key": "düş",
-    "value": "rüya"
+    "values": [ "rüya" ]
   },
   {
     "key": "düş",
-    "value": "rüya"
+    "values": [ "rüya" ]
   },
   {
     "key": "düş",
-    "value": "rüya"
+    "values": [ "rüya" ]
   },
   {
     "key": "düşünce",
-    "value": "fikir"
+    "values": [ "fikir" ]
   },
   {
     "key": "düşünce",
-    "value": "fikir"
+    "values": [ "fikir" ]
   },
   {
     "key": "düşünce",
-    "value": "fikir"
+    "values": [ "fikir" ]
   },
   {
     "key": "düzen",
-    "value": "seviye"
+    "values": [ "seviye" ]
   },
   {
     "key": "düzen",
-    "value": "seviye"
+    "values": [ "seviye" ]
   },
   {
     "key": "düzen",
-    "value": "seviye"
+    "values": [ "seviye" ]
   },
   {
     "key": "düzmece",
-    "value": "sahte"
+    "values": [ "sahte" ]
   },
   {
     "key": "düzmece",
-    "value": "sahte"
+    "values": [ "sahte" ]
   },
   {
     "key": "düzmece",
-    "value": "sahte"
+    "values": [ "sahte" ]
   },
   {
     "key": "düzyazı",
-    "value": "nesir"
+    "values": [ "nesir" ]
   },
   {
     "key": "düzyazı",
-    "value": "nesir"
+    "values": [ "nesir" ]
   },
   {
     "key": "düzyazı",
-    "value": "nesir"
+    "values": [ "nesir" ]
   },
   {
     "key": "ebat",
-    "value": "boyut"
+    "values": [ "boyut" ]
   },
   {
     "key": "ebat",
-    "value": "boyut"
+    "values": [ "boyut" ]
   },
   {
     "key": "ebat",
-    "value": "boyut"
+    "values": [ "boyut" ]
   },
   {
     "key": "ebedi",
-    "value": "sonsuz"
+    "values": [ "sonsuz" ]
   },
   {
     "key": "ebedi",
-    "value": "sonsuz"
+    "values": [ "sonsuz" ]
   },
   {
     "key": "ebedi",
-    "value": "sonsuz"
+    "values": [ "sonsuz" ]
   },
   {
     "key": "ebeveyn",
-    "value": "anne-baba"
+    "values": [ "anne-baba" ]
   },
   {
     "key": "ebeveyn-ana",
-    "value": "baba"
+    "values": [ "baba" ]
   },
   {
     "key": "ebeveyn. ana",
-    "value": "baba"
+    "values": [ "baba" ]
   },
   {
     "key": "eda",
-    "value": "verme"
+    "values": [ "verme" ]
   },
   {
     "key": "eda",
-    "value": "naz"
+    "values": [ "naz" ]
   },
   {
     "key": "eda",
-    "value": "verme"
+    "values": [ "verme" ]
   },
   {
     "key": "edat",
-    "value": "ilgeç"
+    "values": [ "ilgeç" ]
   },
   {
     "key": "edat",
-    "value": "ilgeç"
+    "values": [ "ilgeç" ]
   },
   {
     "key": "edat",
-    "value": "ilgeç"
+    "values": [ "ilgeç" ]
   },
   {
     "key": "edebiyat",
-    "value": "yazın"
+    "values": [ "yazın" ]
   },
   {
     "key": "edebiyat",
-    "value": "yazın"
+    "values": [ "yazın" ]
   },
   {
     "key": "edebiyat",
-    "value": "yazın"
+    "values": [ "yazın" ]
   },
   {
     "key": "efe",
-    "value": "zeybek"
+    "values": [ "zeybek" ]
   },
   {
     "key": "efe",
-    "value": "zeybek"
+    "values": [ "zeybek" ]
   },
   {
     "key": "efe",
-    "value": "zeybek"
+    "values": [ "zeybek" ]
   },
   {
     "key": "egoist",
-    "value": "bencil"
+    "values": [ "bencil" ]
   },
   {
     "key": "egoist",
-    "value": "bencil"
+    "values": [ "bencil" ]
   },
   {
     "key": "egoist",
-    "value": "bencil"
+    "values": [ "bencil" ]
   },
   {
     "key": "ehemmiyet",
-    "value": "önem"
+    "values": [ "önem" ]
   },
   {
     "key": "ehemmiyet",
-    "value": "önem"
+    "values": [ "önem" ]
   },
   {
     "key": "ehemmiyet",
-    "value": "önem"
+    "values": [ "önem" ]
   },
   {
     "key": "ek",
-    "value": "ilave"
+    "values": [ "ilave" ]
   },
   {
     "key": "ek. ilave",
@@ -2661,1875 +2661,1875 @@
   },
   {
     "key": "eklem",
-    "value": "mafsal"
+    "values": [ "mafsal" ]
   },
   {
     "key": "eklem",
-    "value": "mafsal"
+    "values": [ "mafsal" ]
   },
   {
     "key": "eklem",
-    "value": "mafsal"
+    "values": [ "mafsal" ]
   },
   {
     "key": "ekonomi",
-    "value": "iktisat"
+    "values": [ "iktisat" ]
   },
   {
     "key": "ekonomi",
-    "value": "iktisat"
+    "values": [ "iktisat" ]
   },
   {
     "key": "elbise",
-    "value": "giysi"
+    "values": [ "giysi" ]
   },
   {
     "key": "elbise",
-    "value": "giysi"
+    "values": [ "giysi" ]
   },
   {
     "key": "elbise",
-    "value": "giysi"
+    "values": [ "giysi" ]
   },
   {
     "key": "emir",
-    "value": "buyruk"
+    "values": [ "buyruk" ]
   },
   {
     "key": "emir",
-    "value": "buyruk"
+    "values": [ "buyruk" ]
   },
   {
     "key": "emir",
-    "value": "buyruk"
+    "values": [ "buyruk" ]
   },
   {
     "key": "emniyet",
-    "value": "güvenlik"
+    "values": [ "güvenlik" ]
   },
   {
     "key": "emniyet",
-    "value": "güvenlik"
+    "values": [ "güvenlik" ]
   },
   {
     "key": "emniyet",
-    "value": "güvenlik"
+    "values": [ "güvenlik" ]
   },
   {
     "key": "ender",
-    "value": "nadir"
+    "values": [ "nadir" ]
   },
   {
     "key": "ender",
-    "value": "nadir"
+    "values": [ "nadir" ]
   },
   {
     "key": "ender",
-    "value": "nadir"
+    "values": [ "nadir" ]
   },
   {
     "key": "endişe",
-    "value": "kaygı"
+    "values": [ "kaygı" ]
   },
   {
     "key": "endişe",
-    "value": "kaygı"
+    "values": [ "kaygı" ]
   },
   {
     "key": "endüstri",
-    "value": "sanayi"
+    "values": [ "sanayi" ]
   },
   {
     "key": "endüstri",
-    "value": "sanayi"
+    "values": [ "sanayi" ]
   },
   {
     "key": "endüstri",
-    "value": "sanayi"
+    "values": [ "sanayi" ]
   },
   {
     "key": "enkaz",
-    "value": "yıkıntı"
+    "values": [ "yıkıntı" ]
   },
   {
     "key": "enkaz",
-    "value": "yıkıntı"
+    "values": [ "yıkıntı" ]
   },
   {
     "key": "enkaz",
-    "value": "yıkıntı"
+    "values": [ "yıkıntı" ]
   },
   {
     "key": "enlem",
-    "value": "paralel"
+    "values": [ "paralel" ]
   },
   {
     "key": "enlem",
-    "value": "paralel"
+    "values": [ "paralel" ]
   },
   {
     "key": "enlem",
-    "value": "paralel"
+    "values": [ "paralel" ]
   },
   {
     "key": "entari",
-    "value": "giysi"
+    "values": [ "giysi" ]
   },
   {
     "key": "entari",
-    "value": "giysi"
+    "values": [ "giysi" ]
   },
   {
     "key": "entari",
-    "value": "giysi"
+    "values": [ "giysi" ]
   },
   {
     "key": "enteresan",
-    "value": "ilginç"
+    "values": [ "ilginç" ]
   },
   {
     "key": "enteresan",
-    "value": "ilginç"
+    "values": [ "ilginç" ]
   },
   {
     "key": "enteresan",
-    "value": "ilginç"
+    "values": [ "ilginç" ]
   },
   {
     "key": "erek",
-    "value": "amaç"
+    "values": [ "amaç" ]
   },
   {
     "key": "erek",
-    "value": "amaç"
+    "values": [ "amaç" ]
   },
   {
     "key": "erek",
-    "value": "amaç"
+    "values": [ "amaç" ]
   },
   {
     "key": "esas",
-    "value": "temel"
+    "values": [ "temel" ]
   },
   {
     "key": "esas",
-    "value": "temel"
+    "values": [ "temel" ]
   },
   {
     "key": "esas",
-    "value": "temel"
+    "values": [ "temel" ]
   },
   {
     "key": "eser",
-    "value": "yapıt"
+    "values": [ "yapıt" ]
   },
   {
     "key": "eser",
-    "value": "yapıt"
+    "values": [ "yapıt" ]
   },
   {
     "key": "eser",
-    "value": "yapıt"
+    "values": [ "yapıt" ]
   },
   {
     "key": "esir",
-    "value": "tutsak"
+    "values": [ "tutsak" ]
   },
   {
     "key": "esir",
-    "value": "tutsak"
+    "values": [ "tutsak" ]
   },
   {
     "key": "esir",
-    "value": "tutsak"
+    "values": [ "tutsak" ]
   },
   {
     "key": "etki",
-    "value": "tesir"
+    "values": [ "tesir" ]
   },
   {
     "key": "etki",
-    "value": "tesir"
+    "values": [ "tesir" ]
   },
   {
     "key": "etki",
-    "value": "tesir"
+    "values": [ "tesir" ]
   },
   {
     "key": "etraf",
-    "value": "çevre"
+    "values": [ "çevre" ]
   },
   {
     "key": "etraf",
-    "value": "çevre"
+    "values": [ "çevre" ]
   },
   {
     "key": "etraf",
-    "value": "çevre"
+    "values": [ "çevre" ]
   },
   {
     "key": "ev",
-    "value": "konut"
+    "values": [ "konut" ]
   },
   {
     "key": "ev",
-    "value": "konut"
+    "values": [ "konut" ]
   },
   {
     "key": "evvel",
-    "value": "önce"
+    "values": [ "önce" ]
   },
   {
     "key": "evvel",
-    "value": "önce"
+    "values": [ "önce" ]
   },
   {
     "key": "eylem",
-    "value": "fiil"
+    "values": [ "fiil" ]
   },
   {
     "key": "eylem",
-    "value": "fiil"
+    "values": [ "fiil" ]
   },
   {
     "key": "eylemsi",
-    "value": "fiilimsi"
+    "values": [ "fiilimsi" ]
   },
   {
     "key": "eylemsi",
-    "value": "fiilimsi"
+    "values": [ "fiilimsi" ]
   },
   {
     "key": "faaliyet",
-    "value": "etkinlik"
+    "values": [ "etkinlik" ]
   },
   {
     "key": "faaliyet",
-    "value": "etkinlik"
+    "values": [ "etkinlik" ]
   },
   {
     "key": "faaliyet",
-    "value": "etkinlik"
+    "values": [ "etkinlik" ]
   },
   {
     "key": "faiz",
-    "value": "nema"
+    "values": [ "nema" ]
   },
   {
     "key": "faiz",
-    "value": "nema"
+    "values": [ "nema" ]
   },
   {
     "key": "faiz",
-    "value": "nema"
+    "values": [ "nema" ]
   },
   {
     "key": "fakat",
-    "value": "ama-lakin"
+    "values": [ "ama-lakin" ]
   },
   {
     "key": "fakat",
-    "value": "ama"
+    "values": [ "ama" ]
   },
   {
     "key": "fakat",
-    "value": "ama"
+    "values": [ "ama" ]
   },
   {
     "key": "fakir",
-    "value": "yoksul-fukara"
+    "values": [ "yoksul-fukara" ]
   },
   {
     "key": "fakir",
-    "value": "yoksul"
+    "values": [ "yoksul" ]
   },
   {
     "key": "fakir",
-    "value": "yoksul"
+    "values": [ "yoksul" ]
   },
   {
     "key": "faktör",
-    "value": "unsur"
+    "values": [ "unsur" ]
   },
   {
     "key": "faktör",
-    "value": "unsur"
+    "values": [ "unsur" ]
   },
   {
     "key": "faktör",
-    "value": "unsur"
+    "values": [ "unsur" ]
   },
   {
     "key": "fare",
-    "value": "sıçan"
+    "values": [ "sıçan" ]
   },
   {
     "key": "fare",
-    "value": "sıçan"
+    "values": [ "sıçan" ]
   },
   {
     "key": "fare",
-    "value": "sıçan"
+    "values": [ "sıçan" ]
   },
   {
     "key": "fark",
-    "value": "ayrım"
+    "values": [ "ayrım" ]
   },
   {
     "key": "fark",
-    "value": "ayrım"
+    "values": [ "ayrım" ]
   },
   {
     "key": "fark",
-    "value": "ayrım"
+    "values": [ "ayrım" ]
   },
   {
     "key": "fasıla",
-    "value": "ara"
+    "values": [ "ara" ]
   },
   {
     "key": "fasıla",
-    "value": "ara"
+    "values": [ "ara" ]
   },
   {
     "key": "fasıla",
-    "value": "ara"
+    "values": [ "ara" ]
   },
   {
     "key": "fayda",
-    "value": "yarar"
+    "values": [ "yarar" ]
   },
   {
     "key": "fayda",
-    "value": "yarar"
+    "values": [ "yarar" ]
   },
   {
     "key": "fayda",
-    "value": "yarar"
+    "values": [ "yarar" ]
   },
   {
     "key": "fazla",
-    "value": "çok"
+    "values": [ "çok" ]
   },
   {
     "key": "fazla",
-    "value": "çok"
+    "values": [ "çok" ]
   },
   {
     "key": "fazla",
-    "value": "çok"
+    "values": [ "çok" ]
   },
   {
     "key": "felç",
-    "value": "nüzul"
+    "values": [ "nüzul" ]
   },
   {
     "key": "felç",
-    "value": "nüzul"
+    "values": [ "nüzul" ]
   },
   {
     "key": "felç",
-    "value": "nüzul"
+    "values": [ "nüzul" ]
   },
   {
     "key": "fena",
-    "value": "kötü"
+    "values": [ "kötü" ]
   },
   {
     "key": "fena",
-    "value": "kötü"
+    "values": [ "kötü" ]
   },
   {
     "key": "fena",
-    "value": "kötü"
+    "values": [ "kötü" ]
   },
   {
     "key": "fer",
-    "value": "ışık"
+    "values": [ "ışık" ]
   },
   {
     "key": "fer",
-    "value": "ışık"
+    "values": [ "ışık" ]
   },
   {
     "key": "fer",
-    "value": "ışık"
+    "values": [ "ışık" ]
   },
   {
     "key": "fert",
-    "value": "birey"
+    "values": [ "birey" ]
   },
   {
     "key": "fert",
-    "value": "birey"
+    "values": [ "birey" ]
   },
   {
     "key": "fert",
-    "value": "birey"
+    "values": [ "birey" ]
   },
   {
     "key": "feza",
-    "value": "uzay"
+    "values": [ "uzay" ]
   },
   {
     "key": "feza",
-    "value": "uzay"
+    "values": [ "uzay" ]
   },
   {
     "key": "feza",
-    "value": "uzay"
+    "values": [ "uzay" ]
   },
   {
     "key": "fiil",
-    "value": "eylem"
+    "values": [ "eylem" ]
   },
   {
     "key": "fiil",
-    "value": "eylem"
+    "values": [ "eylem" ]
   },
   {
     "key": "fiil",
-    "value": "eylem"
+    "values": [ "eylem" ]
   },
   {
     "key": "fikir",
-    "value": "düşünce"
+    "values": [ "düşünce" ]
   },
   {
     "key": "fikir",
-    "value": "düşünce"
+    "values": [ "düşünce" ]
   },
   {
     "key": "fikir",
-    "value": "düşünce"
+    "values": [ "düşünce" ]
   },
   {
     "key": "file",
-    "value": "ağ"
+    "values": [ "ağ" ]
   },
   {
     "key": "file",
-    "value": "ağ"
+    "values": [ "ağ" ]
   },
   {
     "key": "file",
-    "value": "ağ"
+    "values": [ "ağ" ]
   },
   {
     "key": "füze",
-    "value": "roket"
+    "values": [ "roket" ]
   },
   {
     "key": "füze",
-    "value": "roket"
+    "values": [ "roket" ]
   },
   {
     "key": "füze",
-    "value": "roket"
+    "values": [ "roket" ]
   },
   {
     "key": "garip",
-    "value": "acayip"
+    "values": [ "acayip" ]
   },
   {
     "key": "garip",
-    "value": "acayip"
+    "values": [ "acayip" ]
   },
   {
     "key": "garip",
-    "value": "acayip"
+    "values": [ "acayip" ]
   },
   {
     "key": "garp",
-    "value": "batı"
+    "values": [ "batı" ]
   },
   {
     "key": "garp",
-    "value": "batı"
+    "values": [ "batı" ]
   },
   {
     "key": "garp",
-    "value": "batı"
+    "values": [ "batı" ]
   },
   {
     "key": "gaye",
-    "value": "amaç"
+    "values": [ "amaç" ]
   },
   {
     "key": "gaye",
-    "value": "amaç"
+    "values": [ "amaç" ]
   },
   {
     "key": "gaye",
-    "value": "amaç"
+    "values": [ "amaç" ]
   },
   {
     "key": "gayret",
-    "value": "çaba"
+    "values": [ "çaba" ]
   },
   {
     "key": "gayret",
-    "value": "çaba"
+    "values": [ "çaba" ]
   },
   {
     "key": "gayret",
-    "value": "çaba"
+    "values": [ "çaba" ]
   },
   {
     "key": "gebe",
-    "value": "hamile"
+    "values": [ "hamile" ]
   },
   {
     "key": "gebe",
-    "value": "hamile"
+    "values": [ "hamile" ]
   },
   {
     "key": "gebe",
-    "value": "hamile"
+    "values": [ "hamile" ]
   },
   {
     "key": "gelecek",
-    "value": "istikbal"
+    "values": [ "istikbal" ]
   },
   {
     "key": "gelecek",
-    "value": "istikbal"
+    "values": [ "istikbal" ]
   },
   {
     "key": "gelecek",
-    "value": "istikbal"
+    "values": [ "istikbal" ]
   },
   {
     "key": "gelenek",
-    "value": "anane"
+    "values": [ "anane" ]
   },
   {
     "key": "gelenek",
-    "value": "anane"
+    "values": [ "anane" ]
   },
   {
     "key": "gelenek",
-    "value": "anane"
+    "values": [ "anane" ]
   },
   {
     "key": "gene",
-    "value": "yine"
+    "values": [ "yine" ]
   },
   {
     "key": "gene",
-    "value": "yine"
+    "values": [ "yine" ]
   },
   {
     "key": "gene",
-    "value": "yine"
+    "values": [ "yine" ]
   },
   {
     "key": "genel",
-    "value": "umumi"
+    "values": [ "umumi" ]
   },
   {
     "key": "genel",
-    "value": "umumi"
+    "values": [ "umumi" ]
   },
   {
     "key": "genel",
-    "value": "umumi"
+    "values": [ "umumi" ]
   },
   {
     "key": "geri",
-    "value": "art"
+    "values": [ "art" ]
   },
   {
     "key": "geri",
-    "value": "art"
+    "values": [ "art" ]
   },
   {
     "key": "geri",
-    "value": "art"
+    "values": [ "art" ]
   },
   {
     "key": "gezmek",
-    "value": "dolaşmak"
+    "values": [ "dolaşmak" ]
   },
   {
     "key": "gezmek",
-    "value": "dolaşmak"
+    "values": [ "dolaşmak" ]
   },
   {
     "key": "gezmek",
-    "value": "dolaşmak"
+    "values": [ "dolaşmak" ]
   },
   {
     "key": "gıda",
-    "value": "besin"
+    "values": [ "besin" ]
   },
   {
     "key": "gıda",
-    "value": "besin"
+    "values": [ "besin" ]
   },
   {
     "key": "gıda",
-    "value": "besin"
+    "values": [ "besin" ]
   },
   {
     "key": "giysi",
-    "value": "elbise"
+    "values": [ "elbise" ]
   },
   {
     "key": "giysi",
-    "value": "elbise"
+    "values": [ "elbise" ]
   },
   {
     "key": "giysi",
-    "value": "elbise"
+    "values": [ "elbise" ]
   },
   {
     "key": "giz",
-    "value": "sır"
+    "values": [ "sır" ]
   },
   {
     "key": "giz",
-    "value": "sır"
+    "values": [ "sır" ]
   },
   {
     "key": "giz",
-    "value": "sır"
+    "values": [ "sır" ]
   },
   {
     "key": "gizli",
-    "value": "saklı"
+    "values": [ "saklı" ]
   },
   {
     "key": "gizli",
-    "value": "saklı"
+    "values": [ "saklı" ]
   },
   {
     "key": "gizli",
-    "value": "saklı"
+    "values": [ "saklı" ]
   },
   {
     "key": "gökyüzü",
-    "value": "sema"
+    "values": [ "sema" ]
   },
   {
     "key": "gökyüzü",
-    "value": "sema"
+    "values": [ "sema" ]
   },
   {
     "key": "gökyüzü",
-    "value": "sema"
+    "values": [ "sema" ]
   },
   {
     "key": "görev",
-    "value": "vazife"
+    "values": [ "vazife" ]
   },
   {
     "key": "görev",
-    "value": "vazife"
+    "values": [ "vazife" ]
   },
   {
     "key": "görev",
-    "value": "vazife"
+    "values": [ "vazife" ]
   },
   {
     "key": "gövde",
-    "value": "beden"
+    "values": [ "beden" ]
   },
   {
     "key": "gövde",
-    "value": "beden"
+    "values": [ "beden" ]
   },
   {
     "key": "gövde",
-    "value": "beden"
+    "values": [ "beden" ]
   },
   {
     "key": "gözlem",
-    "value": "rasat"
+    "values": [ "rasat" ]
   },
   {
     "key": "gözlem",
-    "value": "rasat"
+    "values": [ "rasat" ]
   },
   {
     "key": "gözlem",
-    "value": "rasat"
+    "values": [ "rasat" ]
   },
   {
     "key": "gramer",
-    "value": "dilbilgisi"
+    "values": [ "dilbilgisi" ]
   },
   {
     "key": "gramer",
-    "value": "dilbilgisi"
+    "values": [ "dilbilgisi" ]
   },
   {
     "key": "güç",
-    "value": "kuvvet"
+    "values": [ "kuvvet" ]
   },
   {
     "key": "güç",
-    "value": "kuvvet"
+    "values": [ "kuvvet" ]
   },
   {
     "key": "güç",
-    "value": "kuvvet"
+    "values": [ "kuvvet" ]
   },
   {
     "key": "güçlü",
-    "value": "kuvvetli"
+    "values": [ "kuvvetli" ]
   },
   {
     "key": "güçlü",
-    "value": "kuvvetli"
+    "values": [ "kuvvetli" ]
   },
   {
     "key": "güçlü",
-    "value": "kuvvetli"
+    "values": [ "kuvvetli" ]
   },
   {
     "key": "güldürü",
-    "value": "komedi"
+    "values": [ "komedi" ]
   },
   {
     "key": "güldürü",
-    "value": "komedi"
+    "values": [ "komedi" ]
   },
   {
     "key": "güldürü",
-    "value": "komedi"
+    "values": [ "komedi" ]
   },
   {
     "key": "gülünç",
-    "value": "komik"
+    "values": [ "komik" ]
   },
   {
     "key": "gülünç",
-    "value": "komik"
+    "values": [ "komik" ]
   },
   {
     "key": "gülünç",
-    "value": "komik"
+    "values": [ "komik" ]
   },
   {
     "key": "güney",
-    "value": "cenup"
+    "values": [ "cenup" ]
   },
   {
     "key": "güney",
-    "value": "cenup"
+    "values": [ "cenup" ]
   },
   {
     "key": "güney",
-    "value": "cenup"
+    "values": [ "cenup" ]
   },
   {
     "key": "güven",
-    "value": "itimat"
+    "values": [ "itimat" ]
   },
   {
     "key": "güven",
-    "value": "itimat"
+    "values": [ "itimat" ]
   },
   {
     "key": "güven",
-    "value": "itimat"
+    "values": [ "itimat" ]
   },
   {
     "key": "güz",
-    "value": "sonbahar"
+    "values": [ "sonbahar" ]
   },
   {
     "key": "güz",
-    "value": "sonbahar"
+    "values": [ "sonbahar" ]
   },
   {
     "key": "güz",
-    "value": "sonbahar"
+    "values": [ "sonbahar" ]
   },
   {
     "key": "haber",
-    "value": "havadis"
+    "values": [ "havadis" ]
   },
   {
     "key": "hadise",
-    "value": "olay"
+    "values": [ "olay" ]
   },
   {
     "key": "hadise",
-    "value": "olay"
+    "values": [ "olay" ]
   },
   {
     "key": "hadise",
-    "value": "olay"
+    "values": [ "olay" ]
   },
   {
     "key": "hal",
-    "value": "durum"
+    "values": [ "durum" ]
   },
   {
     "key": "hal",
-    "value": "durum"
+    "values": [ "durum" ]
   },
   {
     "key": "hal",
-    "value": "durum"
+    "values": [ "durum" ]
   },
   {
     "key": "halbuki",
-    "value": "oysa"
+    "values": [ "oysa" ]
   },
   {
     "key": "halbuki",
-    "value": "oysa"
+    "values": [ "oysa" ]
   },
   {
     "key": "halbuki",
-    "value": "oysa"
+    "values": [ "oysa" ]
   },
   {
     "key": "ham",
-    "value": "olmamış"
+    "values": [ "olmamış" ]
   },
   {
     "key": "ham",
-    "value": "olmamış"
+    "values": [ "olmamış" ]
   },
   {
     "key": "ham",
-    "value": "olmamış"
+    "values": [ "olmamış" ]
   },
   {
     "key": "hane",
-    "value": "ev"
+    "values": [ "ev" ]
   },
   {
     "key": "hane",
-    "value": "ev"
+    "values": [ "ev" ]
   },
   {
     "key": "hane",
-    "value": "ev"
+    "values": [ "ev" ]
   },
   {
     "key": "hareket",
-    "value": "devinim"
+    "values": [ "devinim" ]
   },
   {
     "key": "hareket",
-    "value": "devinim"
+    "values": [ "devinim" ]
   },
   {
     "key": "hareket",
-    "value": "devinim"
+    "values": [ "devinim" ]
   },
   {
     "key": "hareket",
-    "value": "devinim"
+    "values": [ "devinim" ]
   },
   {
     "key": "hariç",
-    "value": "dış"
+    "values": [ "dış" ]
   },
   {
     "key": "hariç",
-    "value": "dış"
+    "values": [ "dış" ]
   },
   {
     "key": "hariç",
-    "value": "dış"
+    "values": [ "dış" ]
   },
   {
     "key": "harp",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "harp",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "harp",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "hasım",
-    "value": "düşman"
+    "values": [ "düşman" ]
   },
   {
     "key": "hasım",
-    "value": "düşman"
+    "values": [ "düşman" ]
   },
   {
     "key": "hasım",
-    "value": "düşman"
+    "values": [ "düşman" ]
   },
   {
     "key": "hasis",
-    "value": "cimri"
+    "values": [ "cimri" ]
   },
   {
     "key": "hasis",
-    "value": "cimri"
+    "values": [ "cimri" ]
   },
   {
     "key": "hasis",
-    "value": "cimri"
+    "values": [ "cimri" ]
   },
   {
     "key": "hasret",
-    "value": "özlem"
+    "values": [ "özlem" ]
   },
   {
     "key": "hasret",
-    "value": "özlem"
+    "values": [ "özlem" ]
   },
   {
     "key": "hasret",
-    "value": "özlem"
+    "values": [ "özlem" ]
   },
   {
     "key": "hassas",
-    "value": "duygulu"
+    "values": [ "duygulu" ]
   },
   {
     "key": "hassas",
-    "value": "duygulu"
+    "values": [ "duygulu" ]
   },
   {
     "key": "hassas",
-    "value": "duygulu"
+    "values": [ "duygulu" ]
   },
   {
     "key": "hatıra",
-    "value": "anı"
+    "values": [ "anı" ]
   },
   {
     "key": "hatıra",
-    "value": "anı"
+    "values": [ "anı" ]
   },
   {
     "key": "hatıra",
-    "value": "anı"
+    "values": [ "anı" ]
   },
   {
     "key": "hayal",
-    "value": "düş"
+    "values": [ "düş" ]
   },
   {
     "key": "hayal",
-    "value": "düş"
+    "values": [ "düş" ]
   },
   {
     "key": "hayal",
-    "value": "düş"
+    "values": [ "düş" ]
   },
   {
     "key": "hayat",
-    "value": "yaşam"
+    "values": [ "yaşam" ]
   },
   {
     "key": "hayat",
-    "value": "yaşam"
+    "values": [ "yaşam" ]
   },
   {
     "key": "hayat",
-    "value": "yaşam"
+    "values": [ "yaşam" ]
   },
   {
     "key": "haysiyet",
-    "value": "onur"
+    "values": [ "onur" ]
   },
   {
     "key": "haysiyet",
-    "value": "onur"
+    "values": [ "onur" ]
   },
   {
     "key": "haysiyet",
-    "value": "onur"
+    "values": [ "onur" ]
   },
   {
     "key": "hayta",
-    "value": "serseri"
+    "values": [ "serseri" ]
   },
   {
     "key": "hediye",
-    "value": "armağan"
+    "values": [ "armağan" ]
   },
   {
     "key": "hediye",
-    "value": "armağan"
+    "values": [ "armağan" ]
   },
   {
     "key": "hediye",
-    "value": "armağan"
+    "values": [ "armağan" ]
   },
   {
     "key": "hekim",
-    "value": "doktor"
+    "values": [ "doktor" ]
   },
   {
     "key": "hekim",
-    "value": "doktor"
+    "values": [ "doktor" ]
   },
   {
     "key": "hekim",
-    "value": "doktor"
+    "values": [ "doktor" ]
   },
   {
     "key": "hela",
-    "value": "tuvalet"
+    "values": [ "tuvalet" ]
   },
   {
     "key": "hela",
-    "value": "tuvalet"
+    "values": [ "tuvalet" ]
   },
   {
     "key": "hela",
-    "value": "tuvalet"
+    "values": [ "tuvalet" ]
   },
   {
     "key": "hemen",
-    "value": "derhal"
+    "values": [ "derhal" ]
   },
   {
     "key": "hemen",
-    "value": "derhal"
+    "values": [ "derhal" ]
   },
   {
     "key": "hemen",
-    "value": "derhal"
+    "values": [ "derhal" ]
   },
   {
     "key": "hısım",
-    "value": "akraba"
+    "values": [ "akraba" ]
   },
   {
     "key": "hısım",
-    "value": "akraba"
+    "values": [ "akraba" ]
   },
   {
     "key": "hısım",
-    "value": "akraba"
+    "values": [ "akraba" ]
   },
   {
     "key": "hiddet",
-    "value": "öfke"
+    "values": [ "öfke" ]
   },
   {
     "key": "hiddet",
-    "value": "öfke"
+    "values": [ "öfke" ]
   },
   {
     "key": "hiddet",
-    "value": "öfke"
+    "values": [ "öfke" ]
   },
   {
     "key": "hikaye",
-    "value": "öykü"
+    "values": [ "öykü" ]
   },
   {
     "key": "hikaye",
-    "value": "öykü"
+    "values": [ "öykü" ]
   },
   {
     "key": "hikaye",
-    "value": "öykü"
+    "values": [ "öykü" ]
   },
   {
     "key": "hisse",
-    "value": "pay"
+    "values": [ "pay" ]
   },
   {
     "key": "hisse",
-    "value": "pay"
+    "values": [ "pay" ]
   },
   {
     "key": "hisse",
-    "value": "pay"
+    "values": [ "pay" ]
   },
   {
     "key": "hudut",
-    "value": "sınır"
+    "values": [ "sınır" ]
   },
   {
     "key": "hudut",
-    "value": "sınır"
+    "values": [ "sınır" ]
   },
   {
     "key": "hudut",
-    "value": "sınır"
+    "values": [ "sınır" ]
   },
   {
     "key": "hususi",
-    "value": "özel"
+    "values": [ "özel" ]
   },
   {
     "key": "hususi",
-    "value": "özel"
+    "values": [ "özel" ]
   },
   {
     "key": "hususi",
-    "value": "özel"
+    "values": [ "özel" ]
   },
   {
     "key": "hür",
-    "value": "özgür"
+    "values": [ "özgür" ]
   },
   {
     "key": "hür",
-    "value": "özgür"
+    "values": [ "özgür" ]
   },
   {
     "key": "hür",
-    "value": "özgür"
+    "values": [ "özgür" ]
   },
   {
     "key": "ılgım",
-    "value": "serap"
+    "values": [ "serap" ]
   },
   {
     "key": "ılıca",
-    "value": "kaplıca"
+    "values": [ "kaplıca" ]
   },
   {
     "key": "ılıca",
-    "value": "kaplıca"
+    "values": [ "kaplıca" ]
   },
   {
     "key": "ılıca",
-    "value": "kaplıca"
+    "values": [ "kaplıca" ]
   },
   {
     "key": "ıra",
-    "value": "karakter"
+    "values": [ "karakter" ]
   },
   {
     "key": "ıra",
-    "value": "karakter"
+    "values": [ "karakter" ]
   },
   {
     "key": "ıra",
-    "value": "karakter"
+    "values": [ "karakter" ]
   },
   {
     "key": "ırak",
-    "value": "uzak"
+    "values": [ "uzak" ]
   },
   {
     "key": "ırak",
-    "value": "uzak"
+    "values": [ "uzak" ]
   },
   {
     "key": "ırak",
-    "value": "uzak"
+    "values": [ "uzak" ]
   },
   {
     "key": "ırgat",
-    "value": "rençber"
+    "values": [ "rençber" ]
   },
   {
     "key": "ırgat",
-    "value": "rençber"
+    "values": [ "rençber" ]
   },
   {
     "key": "ırgat",
-    "value": "rençber"
+    "values": [ "rençber" ]
   },
   {
     "key": "ırk",
-    "value": "soy"
+    "values": [ "soy" ]
   },
   {
     "key": "ırk",
-    "value": "soy"
+    "values": [ "soy" ]
   },
   {
     "key": "ırk",
-    "value": "soy"
+    "values": [ "soy" ]
   },
   {
     "key": "ırmak",
-    "value": "nehir"
+    "values": [ "nehir" ]
   },
   {
     "key": "ırmak",
-    "value": "nehir"
+    "values": [ "nehir" ]
   },
   {
     "key": "ırmak",
-    "value": "nehir"
+    "values": [ "nehir" ]
   },
   {
     "key": "ısı",
-    "value": "hararet"
+    "values": [ "hararet" ]
   },
   {
     "key": "ısıölçer",
-    "value": "kalorimetre"
+    "values": [ "kalorimetre" ]
   },
   {
     "key": "ısırmak",
-    "value": "dişlemek"
+    "values": [ "dişlemek" ]
   },
   {
     "key": "ıslah",
-    "value": "düzeltme"
+    "values": [ "düzeltme" ]
   },
   {
     "key": "ıslahat",
-    "value": "devrim"
+    "values": [ "devrim" ]
   },
   {
     "key": "ıslak",
-    "value": "yaş"
+    "values": [ "yaş" ]
   },
   {
     "key": "ıssız",
-    "value": "tenha"
+    "values": [ "tenha" ]
   },
   {
     "key": "ışık",
-    "value": "ziya"
+    "values": [ "ziya" ]
   },
   {
     "key": "ıtır",
-    "value": "koku"
+    "values": [ "koku" ]
   },
   {
     "key": "icat",
-    "value": "buluş"
+    "values": [ "buluş" ]
   },
   {
     "key": "icat",
-    "value": "buluş"
+    "values": [ "buluş" ]
   },
   {
     "key": "icat",
-    "value": "buluş"
+    "values": [ "buluş" ]
   },
   {
     "key": "iç",
-    "value": "dahil"
+    "values": [ "dahil" ]
   },
   {
     "key": "iç",
-    "value": "dahil"
+    "values": [ "dahil" ]
   },
   {
     "key": "iç",
-    "value": "dahil"
+    "values": [ "dahil" ]
   },
   {
     "key": "içten",
-    "value": "samimi"
+    "values": [ "samimi" ]
   },
   {
     "key": "içten",
-    "value": "samimi"
+    "values": [ "samimi" ]
   },
   {
     "key": "içten",
-    "value": "samimi"
+    "values": [ "samimi" ]
   },
   {
     "key": "idadi",
-    "value": "lise"
+    "values": [ "lise" ]
   },
   {
     "key": "idadi",
-    "value": "lise"
+    "values": [ "lise" ]
   },
   {
     "key": "idadi",
-    "value": "lise"
+    "values": [ "lise" ]
   },
   {
     "key": "idare",
-    "value": "yönetim"
+    "values": [ "yönetim" ]
   },
   {
     "key": "idare",
-    "value": "yönetim"
+    "values": [ "yönetim" ]
   },
   {
     "key": "idare",
-    "value": "yönetim"
+    "values": [ "yönetim" ]
   },
   {
     "key": "ihracat",
-    "value": "dışsatım"
+    "values": [ "dışsatım" ]
   },
   {
     "key": "ihracat",
-    "value": "dışsatım"
+    "values": [ "dışsatım" ]
   },
   {
     "key": "ihracat",
-    "value": "dışsatım"
+    "values": [ "dışsatım" ]
   },
   {
     "key": "ihtiyaç",
-    "value": "gereksinim"
+    "values": [ "gereksinim" ]
   },
   {
     "key": "ihtiyaç",
-    "value": "gereksinim"
+    "values": [ "gereksinim" ]
   },
   {
     "key": "ihtiyaç",
-    "value": "gereksinim"
+    "values": [ "gereksinim" ]
   },
   {
     "key": "ihtiyar",
-    "value": "yaşlı"
+    "values": [ "yaşlı" ]
   },
   {
     "key": "ihtiyar",
-    "value": "yaşlı"
+    "values": [ "yaşlı" ]
   },
   {
     "key": "ihtiyar",
-    "value": "yaşlı"
+    "values": [ "yaşlı" ]
   },
   {
     "key": "ikaz",
-    "value": "uyarı"
+    "values": [ "uyarı" ]
   },
   {
     "key": "ikaz",
-    "value": "uyarı"
+    "values": [ "uyarı" ]
   },
   {
     "key": "ikaz",
-    "value": "uyarı"
+    "values": [ "uyarı" ]
   },
   {
     "key": "iktisat",
-    "value": "ekonomi"
+    "values": [ "ekonomi" ]
   },
   {
     "key": "iktisat",
-    "value": "ekonomi"
+    "values": [ "ekonomi" ]
   },
   {
     "key": "iktisat",
-    "value": "ekonomi"
+    "values": [ "ekonomi" ]
   },
   {
     "key": "ilan",
-    "value": "duyuru"
+    "values": [ "duyuru" ]
   },
   {
     "key": "ilan",
-    "value": "duyuru"
+    "values": [ "duyuru" ]
   },
   {
     "key": "ilan",
-    "value": "duyuru"
+    "values": [ "duyuru" ]
   },
   {
     "key": "ilave",
-    "value": "ek"
+    "values": [ "ek" ]
   },
   {
     "key": "ilave",
-    "value": "ek"
+    "values": [ "ek" ]
   },
   {
     "key": "ilave",
-    "value": "ek"
+    "values": [ "ek" ]
   },
   {
     "key": "ilgeç",
-    "value": "edat"
+    "values": [ "edat" ]
   },
   {
     "key": "ilgeç",
-    "value": "edat"
+    "values": [ "edat" ]
   },
   {
     "key": "ilgeç",
-    "value": "edat"
+    "values": [ "edat" ]
   },
   {
     "key": "ilgi",
-    "value": "alaka"
+    "values": [ "alaka" ]
   },
   {
     "key": "ilgi",
-    "value": "alaka"
+    "values": [ "alaka" ]
   },
   {
     "key": "ilgi",
-    "value": "alaka"
+    "values": [ "alaka" ]
   },
   {
     "key": "ilginç",
-    "value": "enteresan"
+    "values": [ "enteresan" ]
   },
   {
     "key": "ilginç",
-    "value": "enteresan"
+    "values": [ "enteresan" ]
   },
   {
     "key": "ilginç",
-    "value": "enteresan"
+    "values": [ "enteresan" ]
   },
   {
     "key": "ilim",
-    "value": "bilim"
+    "values": [ "bilim" ]
   },
   {
     "key": "ilim",
-    "value": "bilim"
+    "values": [ "bilim" ]
   },
   {
     "key": "ilim",
-    "value": "bilim"
+    "values": [ "bilim" ]
   },
   {
     "key": "ilişki",
-    "value": "münasebet"
+    "values": [ "münasebet" ]
   },
   {
     "key": "ilişki",
-    "value": "münasebet"
+    "values": [ "münasebet" ]
   },
   {
     "key": "ilişki",
-    "value": "münasebet"
+    "values": [ "münasebet" ]
   },
   {
     "key": "imar",
-    "value": "bayındır"
+    "values": [ "bayındır" ]
   },
   {
     "key": "imar",
-    "value": "bayındır"
+    "values": [ "bayındır" ]
   },
   {
     "key": "imar",
-    "value": "bayındır"
+    "values": [ "bayındır" ]
   },
   {
     "key": "imkan",
-    "value": "olanak"
+    "values": [ "olanak" ]
   },
   {
     "key": "imkan",
-    "value": "olanak"
+    "values": [ "olanak" ]
   },
   {
     "key": "imkan",
-    "value": "olanak"
+    "values": [ "olanak" ]
   },
   {
     "key": "imtihan",
-    "value": "sınav"
+    "values": [ "sınav" ]
   },
   {
     "key": "imtihan",
-    "value": "sınav"
+    "values": [ "sınav" ]
   },
   {
     "key": "imtihan",
-    "value": "sınav"
+    "values": [ "sınav" ]
   },
   {
     "key": "isim",
-    "value": "ad"
+    "values": [ "ad" ]
   },
   {
     "key": "isim",
-    "value": "ad"
+    "values": [ "ad" ]
   },
   {
     "key": "isim",
-    "value": "ad"
+    "values": [ "ad" ]
   },
   {
     "key": "iskemle",
-    "value": "sandalye"
+    "values": [ "sandalye" ]
   },
   {
     "key": "iskemle",
-    "value": "sandalye"
+    "values": [ "sandalye" ]
   },
   {
     "key": "iskemle",
-    "value": "sandalye"
+    "values": [ "sandalye" ]
   },
   {
     "key": "istikbal",
-    "value": "gelecek"
+    "values": [ "gelecek" ]
   },
   {
     "key": "işçi",
-    "value": "amele"
+    "values": [ "amele" ]
   },
   {
     "key": "ithalat",
-    "value": "dışalım"
+    "values": [ "dışalım" ]
   },
   {
     "key": "ithalat",
-    "value": "dışalım"
+    "values": [ "dışalım" ]
   },
   {
     "key": "ithalat",
-    "value": "dışalım"
+    "values": [ "dışalım" ]
   },
   {
     "key": "itibar",
-    "value": "saygınlık"
+    "values": [ "saygınlık" ]
   },
   {
     "key": "itibar",
-    "value": "saygınlık"
+    "values": [ "saygınlık" ]
   },
   {
     "key": "itibar",
-    "value": "saygınlık"
+    "values": [ "saygınlık" ]
   },
   {
     "key": "itimat",
-    "value": "güven"
+    "values": [ "güven" ]
   },
   {
     "key": "itimat",
-    "value": "güven"
+    "values": [ "güven" ]
   },
   {
     "key": "itimat",
-    "value": "güven"
+    "values": [ "güven" ]
   },
   {
     "key": "itina",
-    "value": "özen"
+    "values": [ "özen" ]
   },
   {
     "key": "itina",
-    "value": "özen"
+    "values": [ "özen" ]
   },
   {
     "key": "itina",
-    "value": "özen"
+    "values": [ "özen" ]
   },
   {
     "key": "izah",
-    "value": "açıklama"
+    "values": [ "açıklama" ]
   },
   {
     "key": "izah",
-    "value": "açıklama"
+    "values": [ "açıklama" ]
   },
   {
     "key": "izah",
-    "value": "açıklama"
+    "values": [ "açıklama" ]
   },
   {
     "key": "jale",
-    "value": "kırağı"
+    "values": [ "kırağı" ]
   },
   {
     "key": "jandarma",
-    "value": "zaptiye"
+    "values": [ "zaptiye" ]
   },
   {
     "key": "janjan",
-    "value": "yanardöner"
+    "values": [ "yanardöner" ]
   },
   {
     "key": "jant",
-    "value": "ispit"
+    "values": [ "ispit" ]
   },
   {
     "key": "japongülü",
-    "value": "kamelya"
+    "values": [ "kamelya" ]
   },
   {
     "key": "jenerasyon",
-    "value": "kuşak"
+    "values": [ "kuşak" ]
   },
   {
     "key": "jeolog",
-    "value": "yerbilimci"
+    "values": [ "yerbilimci" ]
   },
   {
     "key": "jeoloji",
-    "value": "yerbilimi"
+    "values": [ "yerbilimi" ]
   },
   {
     "key": "jeoloji",
-    "value": "yerbilimi"
+    "values": [ "yerbilimi" ]
   },
   {
     "key": "jeoloji",
-    "value": "yer bilimi"
+    "values": [ "yer bilimi" ]
   },
   {
     "key": "jest",
-    "value": "çalım"
+    "values": [ "çalım" ]
   },
   {
     "key": "jimnastik",
-    "value": "idman"
+    "values": [ "idman" ]
   },
   {
     "key": "jips",
-    "value": "alçıtaşı"
+    "values": [ "alçıtaşı" ]
   },
   {
     "key": "jurnal",
-    "value": "kötüleme"
+    "values": [ "kötüleme" ]
   },
   {
     "key": "jurnalci",
-    "value": "gammaz"
+    "values": [ "gammaz" ]
   },
   {
     "key": "jülide",
-    "value": "karışık"
+    "values": [ "karışık" ]
   },
   {
     "key": "jüpiter",
-    "value": "erendiz"
+    "values": [ "erendiz" ]
   },
   {
     "key": "jüri",
-    "value": "seçicikurul"
+    "values": [ "seçicikurul" ]
   },
   {
     "key": "kabiliyet",
-    "value": "yetenek"
+    "values": [ "yetenek" ]
   },
   {
     "key": "kabiliyet",
-    "value": "yetenek"
+    "values": [ "yetenek" ]
   },
   {
     "key": "kabiliyet",
-    "value": "yetenek"
+    "values": [ "yetenek" ]
   },
   {
     "key": "kabus",
-    "value": "karabasan"
+    "values": [ "karabasan" ]
   },
   {
     "key": "kabus",
-    "value": "karabasan"
+    "values": [ "karabasan" ]
   },
   {
     "key": "kabus",
-    "value": "karabasan"
+    "values": [ "karabasan" ]
   },
   {
     "key": "kafa",
-    "value": "baş"
+    "values": [ "baş" ]
   },
   {
     "key": "kafa",
-    "value": "baş"
+    "values": [ "baş" ]
   },
   {
     "key": "kafa",
-    "value": "baş"
+    "values": [ "baş" ]
   },
   {
     "key": "kafi",
-    "value": "yeter"
+    "values": [ "yeter" ]
   },
   {
     "key": "kafi",
-    "value": "yeter"
+    "values": [ "yeter" ]
   },
   {
     "key": "kafi",
-    "value": "yeter"
+    "values": [ "yeter" ]
   },
   {
     "key": "kafiye",
-    "value": "uyak"
+    "values": [ "uyak" ]
   },
   {
     "key": "kafiye",
-    "value": "uyak"
+    "values": [ "uyak" ]
   },
   {
     "key": "kafiye",
-    "value": "uyak"
+    "values": [ "uyak" ]
   },
   {
     "key": "kalite",
-    "value": "nitelik"
+    "values": [ "nitelik" ]
   },
   {
     "key": "kalite",
-    "value": "nitelik"
+    "values": [ "nitelik" ]
   },
   {
     "key": "kalite",
-    "value": "nitelik"
+    "values": [ "nitelik" ]
   },
   {
     "key": "kalp",
-    "value": "yürek"
+    "values": [ "yürek" ]
   },
   {
     "key": "kalp",
-    "value": "yürek"
+    "values": [ "yürek" ]
   },
   {
     "key": "kalp",
-    "value": "yürek"
+    "values": [ "yürek" ]
   },
   {
     "key": "kamu",
-    "value": "halk"
+    "values": [ "halk" ]
   },
   {
     "key": "kamu",
-    "value": "halk"
+    "values": [ "halk" ]
   },
   {
     "key": "kamu",
-    "value": "halk"
+    "values": [ "halk" ]
   },
   {
     "key": "kanıt",
-    "value": "delil"
+    "values": [ "delil" ]
   },
   {
     "key": "kanıt",
-    "value": "delil"
+    "values": [ "delil" ]
   },
   {
     "key": "kanıt",
-    "value": "delil"
+    "values": [ "delil" ]
   },
   {
     "key": "kanun",
-    "value": "yasa"
+    "values": [ "yasa" ]
   },
   {
     "key": "kanun",
-    "value": "yasa"
+    "values": [ "yasa" ]
   },
   {
     "key": "kanun",
-    "value": "yasa"
+    "values": [ "yasa" ]
   },
   {
     "key": "kapital",
-    "value": "anamal"
+    "values": [ "anamal" ]
   },
   {
     "key": "kapital",
-    "value": "sermaye"
+    "values": [ "sermaye" ]
   },
   {
     "key": "kapital",
-    "value": "anamal"
+    "values": [ "anamal" ]
   },
   {
     "key": "kara",
-    "value": "siyah"
+    "values": [ "siyah" ]
   },
   {
     "key": "kara",
-    "value": "siyah"
+    "values": [ "siyah" ]
   },
   {
     "key": "kara",
-    "value": "siyah"
+    "values": [ "siyah" ]
   },
   {
     "key": "karşın",
-    "value": "rağmen"
+    "values": [ "rağmen" ]
   },
   {
     "key": "karşın",
-    "value": "rağmen"
+    "values": [ "rağmen" ]
   },
   {
     "key": "karşın",
-    "value": "rağmen"
+    "values": [ "rağmen" ]
   },
   {
     "key": "karşıt",
-    "value": "zıt"
+    "values": [ "zıt" ]
   },
   {
     "key": "karşıt",
-    "value": "zıt"
+    "values": [ "zıt" ]
   },
   {
     "key": "karşıt",
-    "value": "zıt"
+    "values": [ "zıt" ]
   },
   {
     "key": "kas",
-    "value": "adale"
+    "values": [ "adale" ]
   },
   {
     "key": "kas",
-    "value": "adale"
+    "values": [ "adale" ]
   },
   {
     "key": "kas",
-    "value": "adale"
+    "values": [ "adale" ]
   },
   {
     "key": "katı",
-    "value": "sert"
+    "values": [ "sert" ]
   },
   {
     "key": "katı",
-    "value": "sert"
+    "values": [ "sert" ]
   },
   {
     "key": "katı",
-    "value": "sert"
+    "values": [ "sert" ]
   },
   {
     "key": "kati",
-    "value": "kesin"
+    "values": [ "kesin" ]
   },
   {
     "key": "kati",
-    "value": "kesin"
+    "values": [ "kesin" ]
   },
   {
     "key": "kati",
-    "value": "kesin"
+    "values": [ "kesin" ]
   },
   {
     "key": "kayıp",
-    "value": "yitik"
+    "values": [ "yitik" ]
   },
   {
     "key": "kayıp",
-    "value": "yitik"
+    "values": [ "yitik" ]
   },
   {
     "key": "kayıp",
-    "value": "yitik"
+    "values": [ "yitik" ]
   },
   {
     "key": "keder",
-    "value": "acı"
+    "values": [ "acı" ]
   },
   {
     "key": "keder",
-    "value": "acı"
+    "values": [ "acı" ]
   },
   {
     "key": "keder",
-    "value": "acı"
+    "values": [ "acı" ]
   },
   {
     "key": "kelime",
-    "value": "sözcük"
+    "values": [ "sözcük" ]
   },
   {
     "key": "kelime –sözcük",
@@ -4541,2519 +4541,2519 @@
   },
   {
     "key": "kenar",
-    "value": "kıyı"
+    "values": [ "kıyı" ]
   },
   {
     "key": "kenar",
-    "value": "kıyı"
+    "values": [ "kıyı" ]
   },
   {
     "key": "kenar",
-    "value": "kıyı"
+    "values": [ "kıyı" ]
   },
   {
     "key": "kent",
-    "value": "şehir"
+    "values": [ "şehir" ]
   },
   {
     "key": "kent",
-    "value": "şehir"
+    "values": [ "şehir" ]
   },
   {
     "key": "kent",
-    "value": "şehir"
+    "values": [ "şehir" ]
   },
   {
     "key": "kere",
-    "value": "defa"
+    "values": [ "defa" ]
   },
   {
     "key": "kere",
-    "value": "defa"
+    "values": [ "defa" ]
   },
   {
     "key": "kere",
-    "value": "defa"
+    "values": [ "defa" ]
   },
   {
     "key": "kesin",
-    "value": "kati"
+    "values": [ "kati" ]
   },
   {
     "key": "kesin",
-    "value": "kati"
+    "values": [ "kati" ]
   },
   {
     "key": "kesin",
-    "value": "kati"
+    "values": [ "kati" ]
   },
   {
     "key": "kılavuz",
-    "value": "rehber"
+    "values": [ "rehber" ]
   },
   {
     "key": "kılavuz",
-    "value": "rehber"
+    "values": [ "rehber" ]
   },
   {
     "key": "kılavuz",
-    "value": "rehber"
+    "values": [ "rehber" ]
   },
   {
     "key": "kırmızı",
-    "value": "al"
+    "values": [ "al" ]
   },
   {
     "key": "kırmızı",
-    "value": "al"
+    "values": [ "al" ]
   },
   {
     "key": "kırmızı",
-    "value": "al"
+    "values": [ "al" ]
   },
   {
     "key": "kıyı",
-    "value": "sahil"
+    "values": [ "sahil" ]
   },
   {
     "key": "kıyı",
-    "value": "sahil"
+    "values": [ "sahil" ]
   },
   {
     "key": "kıyı",
-    "value": "sahil"
+    "values": [ "sahil" ]
   },
   {
     "key": "kir",
-    "value": "pislik"
+    "values": [ "pislik" ]
   },
   {
     "key": "kir",
-    "value": "pislik"
+    "values": [ "pislik" ]
   },
   {
     "key": "kir",
-    "value": "pislik"
+    "values": [ "pislik" ]
   },
   {
     "key": "kirli",
-    "value": "pis"
+    "values": [ "pis" ]
   },
   {
     "key": "kirli",
-    "value": "pis"
+    "values": [ "pis" ]
   },
   {
     "key": "kirli",
-    "value": "pis"
+    "values": [ "pis" ]
   },
   {
     "key": "kişi",
-    "value": "şahıs"
+    "values": [ "şahıs" ]
   },
   {
     "key": "kişi",
-    "value": "şahıs"
+    "values": [ "şahıs" ]
   },
   {
     "key": "kişi",
-    "value": "şahıs"
+    "values": [ "şahıs" ]
   },
   {
     "key": "kocaman",
-    "value": "iri"
+    "values": [ "iri" ]
   },
   {
     "key": "kocaman",
-    "value": "iri"
+    "values": [ "iri" ]
   },
   {
     "key": "kocaman",
-    "value": "iri"
+    "values": [ "iri" ]
   },
   {
     "key": "kolay",
-    "value": "basit"
+    "values": [ "basit" ]
   },
   {
     "key": "kolay",
-    "value": "basit"
+    "values": [ "basit" ]
   },
   {
     "key": "kolay",
-    "value": "basit"
+    "values": [ "basit" ]
   },
   {
     "key": "komedi",
-    "value": "güldürü"
+    "values": [ "güldürü" ]
   },
   {
     "key": "komedi",
-    "value": "güldürü"
+    "values": [ "güldürü" ]
   },
   {
     "key": "komedi",
-    "value": "güldürü"
+    "values": [ "güldürü" ]
   },
   {
     "key": "komik",
-    "value": "gülünç"
+    "values": [ "gülünç" ]
   },
   {
     "key": "komik",
-    "value": "gülünç"
+    "values": [ "gülünç" ]
   },
   {
     "key": "komik",
-    "value": "gülünç"
+    "values": [ "gülünç" ]
   },
   {
     "key": "kontrol",
-    "value": "denetim"
+    "values": [ "denetim" ]
   },
   {
     "key": "kontrol",
-    "value": "denetim"
+    "values": [ "denetim" ]
   },
   {
     "key": "kontrol",
-    "value": "denetim"
+    "values": [ "denetim" ]
   },
   {
     "key": "konu",
-    "value": "mevzu"
+    "values": [ "mevzu" ]
   },
   {
     "key": "konuk",
-    "value": "misafir"
+    "values": [ "misafir" ]
   },
   {
     "key": "konuk",
-    "value": "misafir"
+    "values": [ "misafir" ]
   },
   {
     "key": "konuk",
-    "value": "misafir"
+    "values": [ "misafir" ]
   },
   {
     "key": "konut",
-    "value": "ev"
+    "values": [ "ev" ]
   },
   {
     "key": "konut",
-    "value": "ev"
+    "values": [ "ev" ]
   },
   {
     "key": "konut",
-    "value": "ev"
+    "values": [ "ev" ]
   },
   {
     "key": "koşul",
-    "value": "şart"
+    "values": [ "şart" ]
   },
   {
     "key": "koşul",
-    "value": "şart"
+    "values": [ "şart" ]
   },
   {
     "key": "koşul",
-    "value": "şart"
+    "values": [ "şart" ]
   },
   {
     "key": "kural",
-    "value": "kaide"
+    "values": [ "kaide" ]
   },
   {
     "key": "kural",
-    "value": "kaide"
+    "values": [ "kaide" ]
   },
   {
     "key": "kural",
-    "value": "kaide"
+    "values": [ "kaide" ]
   },
   {
     "key": "kuruluş",
-    "value": "müessese"
+    "values": [ "müessese" ]
   },
   {
     "key": "kuruluş",
-    "value": "müessese"
+    "values": [ "müessese" ]
   },
   {
     "key": "kuruluş",
-    "value": "müessese"
+    "values": [ "müessese" ]
   },
   {
     "key": "kurum",
-    "value": "kuruluş"
+    "values": [ "kuruluş" ]
   },
   {
     "key": "kuşku",
-    "value": "şüphe"
+    "values": [ "şüphe" ]
   },
   {
     "key": "kuşku",
-    "value": "şüphe"
+    "values": [ "şüphe" ]
   },
   {
     "key": "kuşku",
-    "value": "şüphe"
+    "values": [ "şüphe" ]
   },
   {
     "key": "kutsal",
-    "value": "mukaddes"
+    "values": [ "mukaddes" ]
   },
   {
     "key": "kutsal",
-    "value": "mukaddes"
+    "values": [ "mukaddes" ]
   },
   {
     "key": "kutsal",
-    "value": "mukaddes"
+    "values": [ "mukaddes" ]
   },
   {
     "key": "kuvvet",
-    "value": "güç"
+    "values": [ "güç" ]
   },
   {
     "key": "kuvvet",
-    "value": "güç"
+    "values": [ "güç" ]
   },
   {
     "key": "kuvvet",
-    "value": "güç"
+    "values": [ "güç" ]
   },
   {
     "key": "kuvvetli",
-    "value": "güçlü"
+    "values": [ "güçlü" ]
   },
   {
     "key": "kuzey",
-    "value": "şimal"
+    "values": [ "şimal" ]
   },
   {
     "key": "kuzey",
-    "value": "şimal"
+    "values": [ "şimal" ]
   },
   {
     "key": "kuzey",
-    "value": "şimal"
+    "values": [ "şimal" ]
   },
   {
     "key": "küçük",
-    "value": "ufak"
+    "values": [ "ufak" ]
   },
   {
     "key": "küme",
-    "value": "grup"
+    "values": [ "grup" ]
   },
   {
     "key": "küme",
-    "value": "grup"
+    "values": [ "grup" ]
   },
   {
     "key": "küme",
-    "value": "grup"
+    "values": [ "grup" ]
   },
   {
     "key": "küs",
-    "value": "dargın"
+    "values": [ "dargın" ]
   },
   {
     "key": "küs",
-    "value": "dargın"
+    "values": [ "dargın" ]
   },
   {
     "key": "küs",
-    "value": "dargın"
+    "values": [ "dargın" ]
   },
   {
     "key": "laf",
-    "value": "söz"
+    "values": [ "söz" ]
   },
   {
     "key": "laf",
-    "value": "söz"
+    "values": [ "söz" ]
   },
   {
     "key": "laf",
-    "value": "söz"
+    "values": [ "söz" ]
   },
   {
     "key": "lafazan",
-    "value": "geveze"
+    "values": [ "geveze" ]
   },
   {
     "key": "lafazan",
-    "value": "geveze"
+    "values": [ "geveze" ]
   },
   {
     "key": "lafazan",
-    "value": "geveze"
+    "values": [ "geveze" ]
   },
   {
     "key": "lahza",
-    "value": "an"
+    "values": [ "an" ]
   },
   {
     "key": "lahza",
-    "value": "an"
+    "values": [ "an" ]
   },
   {
     "key": "lahza",
-    "value": "an"
+    "values": [ "an" ]
   },
   {
     "key": "lakayıt",
-    "value": "ilgisiz"
+    "values": [ "ilgisiz" ]
   },
   {
     "key": "lakin",
-    "value": "ama"
+    "values": [ "ama" ]
   },
   {
     "key": "lal",
-    "value": "dilsiz"
+    "values": [ "dilsiz" ]
   },
   {
     "key": "lal",
-    "value": "dilsiz"
+    "values": [ "dilsiz" ]
   },
   {
     "key": "lal",
-    "value": "dilsiz"
+    "values": [ "dilsiz" ]
   },
   {
     "key": "lama",
-    "value": "deve"
+    "values": [ "deve" ]
   },
   {
     "key": "lama",
-    "value": "deve"
+    "values": [ "deve" ]
   },
   {
     "key": "latif",
-    "value": "yumuşak"
+    "values": [ "yumuşak" ]
   },
   {
     "key": "latife",
-    "value": "şaka"
+    "values": [ "şaka" ]
   },
   {
     "key": "leke",
-    "value": "iz"
+    "values": [ "iz" ]
   },
   {
     "key": "lens",
-    "value": "mercek"
+    "values": [ "mercek" ]
   },
   {
     "key": "lider",
-    "value": "önder"
+    "values": [ "önder" ]
   },
   {
     "key": "lider",
-    "value": "önder"
+    "values": [ "önder" ]
   },
   {
     "key": "lider",
-    "value": "önder"
+    "values": [ "önder" ]
   },
   {
     "key": "linet",
-    "value": "sürgün"
+    "values": [ "sürgün" ]
   },
   {
     "key": "lisan",
-    "value": "dil"
+    "values": [ "dil" ]
   },
   {
     "key": "lisan",
-    "value": "dil"
+    "values": [ "dil" ]
   },
   {
     "key": "lisan",
-    "value": "dil"
+    "values": [ "dil" ]
   },
   {
     "key": "logo",
-    "value": "arma"
+    "values": [ "arma" ]
   },
   {
     "key": "löp",
-    "value": "yumuşak"
+    "values": [ "yumuşak" ]
   },
   {
     "key": "lüzumlu",
-    "value": "gerekli"
+    "values": [ "gerekli" ]
   },
   {
     "key": "lüzumlu",
-    "value": "gerekli"
+    "values": [ "gerekli" ]
   },
   {
     "key": "lüzumlu",
-    "value": "gerekli"
+    "values": [ "gerekli" ]
   },
   {
     "key": "lüzumsuz",
-    "value": "gereksiz"
+    "values": [ "gereksiz" ]
   },
   {
     "key": "lüzumsuz",
-    "value": "gereksiz"
+    "values": [ "gereksiz" ]
   },
   {
     "key": "lüzumsuz",
-    "value": "gereksiz"
+    "values": [ "gereksiz" ]
   },
   {
     "key": "mabet",
-    "value": "tapınak"
+    "values": [ "tapınak" ]
   },
   {
     "key": "mabet",
-    "value": "tapınak"
+    "values": [ "tapınak" ]
   },
   {
     "key": "mabet",
-    "value": "tapınak"
+    "values": [ "tapınak" ]
   },
   {
     "key": "macera",
-    "value": "serüven"
+    "values": [ "serüven" ]
   },
   {
     "key": "macera",
-    "value": "serüven"
+    "values": [ "serüven" ]
   },
   {
     "key": "macera",
-    "value": "serüven"
+    "values": [ "serüven" ]
   },
   {
     "key": "mafsal",
-    "value": "eklem"
+    "values": [ "eklem" ]
   },
   {
     "key": "mafsal",
-    "value": "eklem"
+    "values": [ "eklem" ]
   },
   {
     "key": "mafsal",
-    "value": "eklem"
+    "values": [ "eklem" ]
   },
   {
     "key": "mağlup",
-    "value": "yenik"
+    "values": [ "yenik" ]
   },
   {
     "key": "mağlup",
-    "value": "yenik"
+    "values": [ "yenik" ]
   },
   {
     "key": "mağlup",
-    "value": "yenik"
+    "values": [ "yenik" ]
   },
   {
     "key": "mahalli",
-    "value": "yerel"
+    "values": [ "yerel" ]
   },
   {
     "key": "mahalli",
-    "value": "yerel"
+    "values": [ "yerel" ]
   },
   {
     "key": "mahalli",
-    "value": "yerel"
+    "values": [ "yerel" ]
   },
   {
     "key": "mahcup",
-    "value": "utangaç"
+    "values": [ "utangaç" ]
   },
   {
     "key": "mahcup",
-    "value": "utangaç"
+    "values": [ "utangaç" ]
   },
   {
     "key": "mahcup",
-    "value": "utangaç"
+    "values": [ "utangaç" ]
   },
   {
     "key": "mahluk",
-    "value": "yaratık"
+    "values": [ "yaratık" ]
   },
   {
     "key": "mahluk",
-    "value": "yaratık"
+    "values": [ "yaratık" ]
   },
   {
     "key": "mahluk",
-    "value": "yaratık"
+    "values": [ "yaratık" ]
   },
   {
     "key": "mahpushane",
-    "value": "hapishane"
+    "values": [ "hapishane" ]
   },
   {
     "key": "mahpushane",
-    "value": "cezaevi"
+    "values": [ "cezaevi" ]
   },
   {
     "key": "mahpushane",
-    "value": "hapishane"
+    "values": [ "hapishane" ]
   },
   {
     "key": "mahsul",
-    "value": "ürün"
+    "values": [ "ürün" ]
   },
   {
     "key": "mahsul",
-    "value": "ürün"
+    "values": [ "ürün" ]
   },
   {
     "key": "mahsul",
-    "value": "ürün"
+    "values": [ "ürün" ]
   },
   {
     "key": "mana",
-    "value": "anlam"
+    "values": [ "anlam" ]
   },
   {
     "key": "mana",
-    "value": "anlam"
+    "values": [ "anlam" ]
   },
   {
     "key": "mana",
-    "value": "anlam"
+    "values": [ "anlam" ]
   },
   {
     "key": "mani",
-    "value": "engel"
+    "values": [ "engel" ]
   },
   {
     "key": "mani",
-    "value": "engel"
+    "values": [ "engel" ]
   },
   {
     "key": "mani",
-    "value": "engel"
+    "values": [ "engel" ]
   },
   {
     "key": "manzara",
-    "value": "görünüm"
+    "values": [ "görünüm" ]
   },
   {
     "key": "manzara",
-    "value": "görünüm"
+    "values": [ "görünüm" ]
   },
   {
     "key": "manzara",
-    "value": "görünüm"
+    "values": [ "görünüm" ]
   },
   {
     "key": "matbaa",
-    "value": "basımevi"
+    "values": [ "basımevi" ]
   },
   {
     "key": "matbaa",
-    "value": "basımevi"
+    "values": [ "basımevi" ]
   },
   {
     "key": "matbaa",
-    "value": "basımevi"
+    "values": [ "basımevi" ]
   },
   {
     "key": "matem",
-    "value": "yas"
+    "values": [ "yas" ]
   },
   {
     "key": "matem",
-    "value": "yas"
+    "values": [ "yas" ]
   },
   {
     "key": "matem",
-    "value": "yas"
+    "values": [ "yas" ]
   },
   {
     "key": "mebus",
-    "value": "milletvekili"
+    "values": [ "milletvekili" ]
   },
   {
     "key": "mebus",
-    "value": "milletvekili"
+    "values": [ "milletvekili" ]
   },
   {
     "key": "mebus",
-    "value": "milletvekili"
+    "values": [ "milletvekili" ]
   },
   {
     "key": "mecbur",
-    "value": "zorunlu"
+    "values": [ "zorunlu" ]
   },
   {
     "key": "mecbur",
-    "value": "zorunlu"
+    "values": [ "zorunlu" ]
   },
   {
     "key": "mecbur",
-    "value": "zorunlu"
+    "values": [ "zorunlu" ]
   },
   {
     "key": "mecmua",
-    "value": "dergi"
+    "values": [ "dergi" ]
   },
   {
     "key": "mecmua",
-    "value": "dergi"
+    "values": [ "dergi" ]
   },
   {
     "key": "mecmua",
-    "value": "dergi"
+    "values": [ "dergi" ]
   },
   {
     "key": "medeni",
-    "value": "uygar"
+    "values": [ "uygar" ]
   },
   {
     "key": "medeni",
-    "value": "uygar"
+    "values": [ "uygar" ]
   },
   {
     "key": "medeni",
-    "value": "uygar"
+    "values": [ "uygar" ]
   },
   {
     "key": "medeniyet",
-    "value": "uygarlık"
+    "values": [ "uygarlık" ]
   },
   {
     "key": "medeniyet",
-    "value": "uygarlık"
+    "values": [ "uygarlık" ]
   },
   {
     "key": "medeniyet",
-    "value": "uygarlık"
+    "values": [ "uygarlık" ]
   },
   {
     "key": "mektep",
-    "value": "okul"
+    "values": [ "okul" ]
   },
   {
     "key": "mektep",
-    "value": "okul"
+    "values": [ "okul" ]
   },
   {
     "key": "mektep",
-    "value": "okul"
+    "values": [ "okul" ]
   },
   {
     "key": "mektup",
-    "value": "name"
+    "values": [ "name" ]
   },
   {
     "key": "mektup",
-    "value": "name"
+    "values": [ "name" ]
   },
   {
     "key": "mektup",
-    "value": "name"
+    "values": [ "name" ]
   },
   {
     "key": "melodi",
-    "value": "ezgi"
+    "values": [ "ezgi" ]
   },
   {
     "key": "melodi",
-    "value": "ezgi"
+    "values": [ "ezgi" ]
   },
   {
     "key": "melodi",
-    "value": "ezgi"
+    "values": [ "ezgi" ]
   },
   {
     "key": "menfaat",
-    "value": "çıkar"
+    "values": [ "çıkar" ]
   },
   {
     "key": "menfaat",
-    "value": "çıkar"
+    "values": [ "çıkar" ]
   },
   {
     "key": "menfaat",
-    "value": "çıkar"
+    "values": [ "çıkar" ]
   },
   {
     "key": "menfi",
-    "value": "olumsuz"
+    "values": [ "olumsuz" ]
   },
   {
     "key": "menfi",
-    "value": "olumsuz"
+    "values": [ "olumsuz" ]
   },
   {
     "key": "menfi",
-    "value": "olumsuz"
+    "values": [ "olumsuz" ]
   },
   {
     "key": "menkul",
-    "value": "taşınır"
+    "values": [ "taşınır" ]
   },
   {
     "key": "menkul",
-    "value": "taşınır"
+    "values": [ "taşınır" ]
   },
   {
     "key": "menkul",
-    "value": "taşınır"
+    "values": [ "taşınır" ]
   },
   {
     "key": "merasim",
-    "value": "tören"
+    "values": [ "tören" ]
   },
   {
     "key": "merasim",
-    "value": "tören"
+    "values": [ "tören" ]
   },
   {
     "key": "merasim",
-    "value": "tören"
+    "values": [ "tören" ]
   },
   {
     "key": "meridyen",
-    "value": "boylam"
+    "values": [ "boylam" ]
   },
   {
     "key": "meridyen",
-    "value": "boylam"
+    "values": [ "boylam" ]
   },
   {
     "key": "meridyen",
-    "value": "boylam"
+    "values": [ "boylam" ]
   },
   {
     "key": "merkep",
-    "value": "eşek"
+    "values": [ "eşek" ]
   },
   {
     "key": "merkep",
-    "value": "eşek"
+    "values": [ "eşek" ]
   },
   {
     "key": "merkep",
-    "value": "eşek"
+    "values": [ "eşek" ]
   },
   {
     "key": "mesafe",
-    "value": "ara"
+    "values": [ "ara" ]
   },
   {
     "key": "mesafe",
-    "value": "ara"
+    "values": [ "ara" ]
   },
   {
     "key": "mesafe",
-    "value": "ara"
+    "values": [ "ara" ]
   },
   {
     "key": "mesela",
-    "value": "örneğin"
+    "values": [ "örneğin" ]
   },
   {
     "key": "mesela",
-    "value": "örneğin"
+    "values": [ "örneğin" ]
   },
   {
     "key": "mesela",
-    "value": "örneğin"
+    "values": [ "örneğin" ]
   },
   {
     "key": "mesele",
-    "value": "sorun"
+    "values": [ "sorun" ]
   },
   {
     "key": "mesele",
-    "value": "sorun"
+    "values": [ "sorun" ]
   },
   {
     "key": "mesele",
-    "value": "sorun"
+    "values": [ "sorun" ]
   },
   {
     "key": "mesken",
-    "value": "konuk"
+    "values": [ "konuk" ]
   },
   {
     "key": "mesken",
-    "value": "konuk"
+    "values": [ "konuk" ]
   },
   {
     "key": "mesken",
-    "value": "konuk"
+    "values": [ "konuk" ]
   },
   {
     "key": "meslek",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "meslek",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "meslek",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "mesul",
-    "value": "sorumlu"
+    "values": [ "sorumlu" ]
   },
   {
     "key": "mesul",
-    "value": "sorumlu"
+    "values": [ "sorumlu" ]
   },
   {
     "key": "mesul",
-    "value": "sorumlu"
+    "values": [ "sorumlu" ]
   },
   {
     "key": "mesut",
-    "value": "mutlu"
+    "values": [ "mutlu" ]
   },
   {
     "key": "mesut",
-    "value": "mutlu"
+    "values": [ "mutlu" ]
   },
   {
     "key": "mesut",
-    "value": "mutlu"
+    "values": [ "mutlu" ]
   },
   {
     "key": "meşhur",
-    "value": "ünlü"
+    "values": [ "ünlü" ]
   },
   {
     "key": "meşhur",
-    "value": "ünlü"
+    "values": [ "ünlü" ]
   },
   {
     "key": "meşhur",
-    "value": "ünlü"
+    "values": [ "ünlü" ]
   },
   {
     "key": "meşrubat",
-    "value": "içecek"
+    "values": [ "içecek" ]
   },
   {
     "key": "meşrubat",
-    "value": "içecek"
+    "values": [ "içecek" ]
   },
   {
     "key": "meşrubat",
-    "value": "içecek"
+    "values": [ "içecek" ]
   },
   {
     "key": "mevcut",
-    "value": "var"
+    "values": [ "var" ]
   },
   {
     "key": "mevcut",
-    "value": "var"
+    "values": [ "var" ]
   },
   {
     "key": "mevcut",
-    "value": "var"
+    "values": [ "var" ]
   },
   {
     "key": "meydan",
-    "value": "alan"
+    "values": [ "alan" ]
   },
   {
     "key": "meydan",
-    "value": "alan"
+    "values": [ "alan" ]
   },
   {
     "key": "meydan",
-    "value": "alan"
+    "values": [ "alan" ]
   },
   {
     "key": "millet",
-    "value": "ulus"
+    "values": [ "ulus" ]
   },
   {
     "key": "millet",
-    "value": "ulus"
+    "values": [ "ulus" ]
   },
   {
     "key": "millet",
-    "value": "ulus"
+    "values": [ "ulus" ]
   },
   {
     "key": "milletvekili",
-    "value": "mebus"
+    "values": [ "mebus" ]
   },
   {
     "key": "milletvekili",
-    "value": "mebus"
+    "values": [ "mebus" ]
   },
   {
     "key": "milletvekili",
-    "value": "mebus"
+    "values": [ "mebus" ]
   },
   {
     "key": "milli",
-    "value": "ulusal"
+    "values": [ "ulusal" ]
   },
   {
     "key": "milli",
-    "value": "ulusal"
+    "values": [ "ulusal" ]
   },
   {
     "key": "milli",
-    "value": "ulusal"
+    "values": [ "ulusal" ]
   },
   {
     "key": "misafir",
-    "value": "konuk"
+    "values": [ "konuk" ]
   },
   {
     "key": "misafir",
-    "value": "konuk"
+    "values": [ "konuk" ]
   },
   {
     "key": "misafir",
-    "value": "konuk"
+    "values": [ "konuk" ]
   },
   {
     "key": "misal",
-    "value": "örnek"
+    "values": [ "örnek" ]
   },
   {
     "key": "misal",
-    "value": "örnek"
+    "values": [ "örnek" ]
   },
   {
     "key": "misal",
-    "value": "örnek"
+    "values": [ "örnek" ]
   },
   {
     "key": "misli",
-    "value": "katı"
+    "values": [ "katı" ]
   },
   {
     "key": "misli",
-    "value": "katı"
+    "values": [ "katı" ]
   },
   {
     "key": "misli",
-    "value": "katı"
+    "values": [ "katı" ]
   },
   {
     "key": "muallim",
-    "value": "öğretmen"
+    "values": [ "öğretmen" ]
   },
   {
     "key": "muallim",
-    "value": "öğretmen"
+    "values": [ "öğretmen" ]
   },
   {
     "key": "muallim",
-    "value": "öğretmen"
+    "values": [ "öğretmen" ]
   },
   {
     "key": "muavin",
-    "value": "yardımcı"
+    "values": [ "yardımcı" ]
   },
   {
     "key": "muavin",
-    "value": "yardımcı"
+    "values": [ "yardımcı" ]
   },
   {
     "key": "muavin",
-    "value": "yardımcı"
+    "values": [ "yardımcı" ]
   },
   {
     "key": "muharebe",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "muharebe",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "muharebe",
-    "value": "savaş"
+    "values": [ "savaş" ]
   },
   {
     "key": "muhtelif",
-    "value": "çeşitli"
+    "values": [ "çeşitli" ]
   },
   {
     "key": "muhtelif",
-    "value": "çeşitli"
+    "values": [ "çeşitli" ]
   },
   {
     "key": "muhtelif",
-    "value": "çeşitli"
+    "values": [ "çeşitli" ]
   },
   {
     "key": "muştu",
-    "value": "müjde"
+    "values": [ "müjde" ]
   },
   {
     "key": "muştu",
-    "value": "müjde"
+    "values": [ "müjde" ]
   },
   {
     "key": "muştu",
-    "value": "müjde"
+    "values": [ "müjde" ]
   },
   {
     "key": "mübarek",
-    "value": "kutsal"
+    "values": [ "kutsal" ]
   },
   {
     "key": "mübarek",
-    "value": "kutsal"
+    "values": [ "kutsal" ]
   },
   {
     "key": "mübarek",
-    "value": "kutsal"
+    "values": [ "kutsal" ]
   },
   {
     "key": "müessese",
-    "value": "kurum"
+    "values": [ "kurum" ]
   },
   {
     "key": "müessese",
-    "value": "kuruluş"
+    "values": [ "kuruluş" ]
   },
   {
     "key": "müessese",
-    "value": "kurum"
+    "values": [ "kurum" ]
   },
   {
     "key": "mühim",
-    "value": "önemli"
+    "values": [ "önemli" ]
   },
   {
     "key": "mühim",
-    "value": "önemli"
+    "values": [ "önemli" ]
   },
   {
     "key": "mühim",
-    "value": "önemli"
+    "values": [ "önemli" ]
   },
   {
     "key": "mükafat",
-    "value": "ödül"
+    "values": [ "ödül" ]
   },
   {
     "key": "mükafat",
-    "value": "ödül"
+    "values": [ "ödül" ]
   },
   {
     "key": "mükafat",
-    "value": "ödül"
+    "values": [ "ödül" ]
   },
   {
     "key": "müsabaka",
-    "value": "yarışma"
+    "values": [ "yarışma" ]
   },
   {
     "key": "müsabaka",
-    "value": "yarışma"
+    "values": [ "yarışma" ]
   },
   {
     "key": "müsabaka",
-    "value": "yarışma"
+    "values": [ "yarışma" ]
   },
   {
     "key": "müsait",
-    "value": "uygun"
+    "values": [ "uygun" ]
   },
   {
     "key": "müsait",
-    "value": "uygun"
+    "values": [ "uygun" ]
   },
   {
     "key": "müsait",
-    "value": "uygun"
+    "values": [ "uygun" ]
   },
   {
     "key": "müspet",
-    "value": "olumlu"
+    "values": [ "olumlu" ]
   },
   {
     "key": "müspet",
-    "value": "olumlu"
+    "values": [ "olumlu" ]
   },
   {
     "key": "müspet",
-    "value": "olumlu"
+    "values": [ "olumlu" ]
   },
   {
     "key": "müstahsil",
-    "value": "üretici"
+    "values": [ "üretici" ]
   },
   {
     "key": "müstahsil",
-    "value": "üretici"
+    "values": [ "üretici" ]
   },
   {
     "key": "müstahsil",
-    "value": "üretici"
+    "values": [ "üretici" ]
   },
   {
     "key": "müstakil",
-    "value": "bağımsız"
+    "values": [ "bağımsız" ]
   },
   {
     "key": "müstakil",
-    "value": "bağımsız"
+    "values": [ "bağımsız" ]
   },
   {
     "key": "müstakil",
-    "value": "bağımsız"
+    "values": [ "bağımsız" ]
   },
   {
     "key": "müşteri",
-    "value": "alıcı"
+    "values": [ "alıcı" ]
   },
   {
     "key": "müşteri",
-    "value": "alıcı"
+    "values": [ "alıcı" ]
   },
   {
     "key": "müşteri",
-    "value": "alıcı"
+    "values": [ "alıcı" ]
   },
   {
     "key": "nadir",
-    "value": "ender"
+    "values": [ "ender" ]
   },
   {
     "key": "nadir",
-    "value": "ender"
+    "values": [ "ender" ]
   },
   {
     "key": "nadir",
-    "value": "ender"
+    "values": [ "ender" ]
   },
   {
     "key": "nakil",
-    "value": "atama"
+    "values": [ "atama" ]
   },
   {
     "key": "nakil",
-    "value": "atama"
+    "values": [ "atama" ]
   },
   {
     "key": "nakil",
-    "value": "atama"
+    "values": [ "atama" ]
   },
   {
     "key": "nakit",
-    "value": "para"
+    "values": [ "para" ]
   },
   {
     "key": "nakit",
-    "value": "para"
+    "values": [ "para" ]
   },
   {
     "key": "nakit",
-    "value": "para"
+    "values": [ "para" ]
   },
   {
     "key": "nakliyeci",
-    "value": "taşımacı"
+    "values": [ "taşımacı" ]
   },
   {
     "key": "nakliyeci",
-    "value": "taşımacı"
+    "values": [ "taşımacı" ]
   },
   {
     "key": "nakliyeci",
-    "value": "taşımacı"
+    "values": [ "taşımacı" ]
   },
   {
     "key": "namzet",
-    "value": "aday"
+    "values": [ "aday" ]
   },
   {
     "key": "namzet",
-    "value": "aday"
+    "values": [ "aday" ]
   },
   {
     "key": "namzet",
-    "value": "aday"
+    "values": [ "aday" ]
   },
   {
     "key": "nasihat",
-    "value": "öğüt"
+    "values": [ "öğüt" ]
   },
   {
     "key": "nasihat",
-    "value": "öğüt"
+    "values": [ "öğüt" ]
   },
   {
     "key": "nasihat",
-    "value": "öğüt"
+    "values": [ "öğüt" ]
   },
   {
     "key": "nebat",
-    "value": "bitki"
+    "values": [ "bitki" ]
   },
   {
     "key": "nebat",
-    "value": "bitki"
+    "values": [ "bitki" ]
   },
   {
     "key": "nebat",
-    "value": "bitki"
+    "values": [ "bitki" ]
   },
   {
     "key": "neden",
-    "value": "sebep"
+    "values": [ "sebep" ]
   },
   {
     "key": "neden",
-    "value": "sebep"
+    "values": [ "sebep" ]
   },
   {
     "key": "neden",
-    "value": "sebep"
+    "values": [ "sebep" ]
   },
   {
     "key": "nefes",
-    "value": "soluk"
+    "values": [ "soluk" ]
   },
   {
     "key": "nefes",
-    "value": "soluk"
+    "values": [ "soluk" ]
   },
   {
     "key": "nefes",
-    "value": "soluk"
+    "values": [ "soluk" ]
   },
   {
     "key": "nehir",
-    "value": "ırmak"
+    "values": [ "ırmak" ]
   },
   {
     "key": "nehir",
-    "value": "ırmak"
+    "values": [ "ırmak" ]
   },
   {
     "key": "nehir",
-    "value": "ırmak"
+    "values": [ "ırmak" ]
   },
   {
     "key": "nem",
-    "value": "rutubet"
+    "values": [ "rutubet" ]
   },
   {
     "key": "nem",
-    "value": "rutubet"
+    "values": [ "rutubet" ]
   },
   {
     "key": "nem",
-    "value": "rutubet"
+    "values": [ "rutubet" ]
   },
   {
     "key": "nesil",
-    "value": "kuşak"
+    "values": [ "kuşak" ]
   },
   {
     "key": "nesil",
-    "value": "kuşak"
+    "values": [ "kuşak" ]
   },
   {
     "key": "nesil",
-    "value": "kuşak"
+    "values": [ "kuşak" ]
   },
   {
     "key": "nesir",
-    "value": "düzyazı"
+    "values": [ "düzyazı" ]
   },
   {
     "key": "nesir",
-    "value": "düzyazı"
+    "values": [ "düzyazı" ]
   },
   {
     "key": "nesir",
-    "value": "düzyazı"
+    "values": [ "düzyazı" ]
   },
   {
     "key": "neşe",
-    "value": "sevinç"
+    "values": [ "sevinç" ]
   },
   {
     "key": "neşe",
-    "value": "sevinç"
+    "values": [ "sevinç" ]
   },
   {
     "key": "neşe",
-    "value": "sevinç"
+    "values": [ "sevinç" ]
   },
   {
     "key": "netice",
-    "value": "sonuç"
+    "values": [ "sonuç" ]
   },
   {
     "key": "netice",
-    "value": "sonuç"
+    "values": [ "sonuç" ]
   },
   {
     "key": "netice",
-    "value": "sonuç"
+    "values": [ "sonuç" ]
   },
   {
     "key": "nispet",
-    "value": "oran"
+    "values": [ "oran" ]
   },
   {
     "key": "nispet",
-    "value": "oran"
+    "values": [ "oran" ]
   },
   {
     "key": "nispet",
-    "value": "oran"
+    "values": [ "oran" ]
   },
   {
     "key": "nitelik",
-    "value": "kalite"
+    "values": [ "kalite" ]
   },
   {
     "key": "nitelik",
-    "value": "kalite"
+    "values": [ "kalite" ]
   },
   {
     "key": "nitelik",
-    "value": "kalite"
+    "values": [ "kalite" ]
   },
   {
     "key": "noksan",
-    "value": "eksik"
+    "values": [ "eksik" ]
   },
   {
     "key": "noksan",
-    "value": "eksik"
+    "values": [ "eksik" ]
   },
   {
     "key": "noksan",
-    "value": "eksik"
+    "values": [ "eksik" ]
   },
   {
     "key": "numune",
-    "value": "örnek"
+    "values": [ "örnek" ]
   },
   {
     "key": "numune",
-    "value": "örnek"
+    "values": [ "örnek" ]
   },
   {
     "key": "numune",
-    "value": "örnek"
+    "values": [ "örnek" ]
   },
   {
     "key": "nutuk",
-    "value": "söylev"
+    "values": [ "söylev" ]
   },
   {
     "key": "nutuk",
-    "value": "söylev"
+    "values": [ "söylev" ]
   },
   {
     "key": "nutuk",
-    "value": "söylev"
+    "values": [ "söylev" ]
   },
   {
     "key": "okul",
-    "value": "mektep"
+    "values": [ "mektep" ]
   },
   {
     "key": "okul",
-    "value": "mektep"
+    "values": [ "mektep" ]
   },
   {
     "key": "okul",
-    "value": "mektep"
+    "values": [ "mektep" ]
   },
   {
     "key": "olanak",
-    "value": "imkan"
+    "values": [ "imkan" ]
   },
   {
     "key": "olanak",
-    "value": "imkan"
+    "values": [ "imkan" ]
   },
   {
     "key": "olanak",
-    "value": "imkan"
+    "values": [ "imkan" ]
   },
   {
     "key": "olası",
-    "value": "mümkün"
+    "values": [ "mümkün" ]
   },
   {
     "key": "olası",
-    "value": "mümkün"
+    "values": [ "mümkün" ]
   },
   {
     "key": "olası",
-    "value": "mümkün"
+    "values": [ "mümkün" ]
   },
   {
     "key": "olay",
-    "value": "vaka"
+    "values": [ "vaka" ]
   },
   {
     "key": "olay",
-    "value": "vaka"
+    "values": [ "vaka" ]
   },
   {
     "key": "olay",
-    "value": "vaka"
+    "values": [ "vaka" ]
   },
   {
     "key": "olumlu",
-    "value": "müspet"
+    "values": [ "müspet" ]
   },
   {
     "key": "olumlu",
-    "value": "müspet"
+    "values": [ "müspet" ]
   },
   {
     "key": "olumlu",
-    "value": "müspet"
+    "values": [ "müspet" ]
   },
   {
     "key": "olumsuz",
-    "value": "menfi"
+    "values": [ "menfi" ]
   },
   {
     "key": "olumsuz",
-    "value": "menfi"
+    "values": [ "menfi" ]
   },
   {
     "key": "olumsuz",
-    "value": "menfi"
+    "values": [ "menfi" ]
   },
   {
     "key": "onarım",
-    "value": "tamir"
+    "values": [ "tamir" ]
   },
   {
     "key": "onarım",
-    "value": "tamir"
+    "values": [ "tamir" ]
   },
   {
     "key": "onarım",
-    "value": "tamir"
+    "values": [ "tamir" ]
   },
   {
     "key": "onay",
-    "value": "tasdik"
+    "values": [ "tasdik" ]
   },
   {
     "key": "onay",
-    "value": "tasdik"
+    "values": [ "tasdik" ]
   },
   {
     "key": "onay",
-    "value": "tasdik"
+    "values": [ "tasdik" ]
   },
   {
     "key": "onur",
-    "value": "şeref"
+    "values": [ "şeref" ]
   },
   {
     "key": "onur",
-    "value": "şeref"
+    "values": [ "şeref" ]
   },
   {
     "key": "onur",
-    "value": "şeref"
+    "values": [ "şeref" ]
   },
   {
     "key": "oran",
-    "value": "nispet"
+    "values": [ "nispet" ]
   },
   {
     "key": "oran",
-    "value": "nispet"
+    "values": [ "nispet" ]
   },
   {
     "key": "oran",
-    "value": "nispet"
+    "values": [ "nispet" ]
   },
   {
     "key": "ortalama",
-    "value": "vasat"
+    "values": [ "vasat" ]
   },
   {
     "key": "otlak",
-    "value": "mera"
+    "values": [ "mera" ]
   },
   {
     "key": "otlak",
-    "value": "mera"
+    "values": [ "mera" ]
   },
   {
     "key": "otlak",
-    "value": "mera"
+    "values": [ "mera" ]
   },
   {
     "key": "oy",
-    "value": "rey"
+    "values": [ "rey" ]
   },
   {
     "key": "oy",
-    "value": "rey"
+    "values": [ "rey" ]
   },
   {
     "key": "oy",
-    "value": "rey"
+    "values": [ "rey" ]
   },
   {
     "key": "ozan",
-    "value": "şair"
+    "values": [ "şair" ]
   },
   {
     "key": "ozan",
-    "value": "şair"
+    "values": [ "şair" ]
   },
   {
     "key": "ozan",
-    "value": "şair"
+    "values": [ "şair" ]
   },
   {
     "key": "öbek",
-    "value": "grup"
+    "values": [ "grup" ]
   },
   {
     "key": "öbek",
-    "value": "grup"
+    "values": [ "grup" ]
   },
   {
     "key": "öbek",
-    "value": "grup"
+    "values": [ "grup" ]
   },
   {
     "key": "öbür",
-    "value": "diğer"
+    "values": [ "diğer" ]
   },
   {
     "key": "öbür",
-    "value": "diğer"
+    "values": [ "diğer" ]
   },
   {
     "key": "öbür",
-    "value": "diğer"
+    "values": [ "diğer" ]
   },
   {
     "key": "ödenti",
-    "value": "aidat"
+    "values": [ "aidat" ]
   },
   {
     "key": "ödenti",
-    "value": "aidat"
+    "values": [ "aidat" ]
   },
   {
     "key": "ödenti",
-    "value": "aidat"
+    "values": [ "aidat" ]
   },
   {
     "key": "ödlek",
-    "value": "korkak"
+    "values": [ "korkak" ]
   },
   {
     "key": "ödlek",
-    "value": "korkak"
+    "values": [ "korkak" ]
   },
   {
     "key": "ödlek",
-    "value": "korkak"
+    "values": [ "korkak" ]
   },
   {
     "key": "ödül",
-    "value": "mükafat"
+    "values": [ "mükafat" ]
   },
   {
     "key": "ödül",
-    "value": "mükafat"
+    "values": [ "mükafat" ]
   },
   {
     "key": "ödül",
-    "value": "mükafat"
+    "values": [ "mükafat" ]
   },
   {
     "key": "ödün",
-    "value": "taviz"
+    "values": [ "taviz" ]
   },
   {
     "key": "ödün",
-    "value": "taviz"
+    "values": [ "taviz" ]
   },
   {
     "key": "ödün",
-    "value": "taviz"
+    "values": [ "taviz" ]
   },
   {
     "key": "öfke",
-    "value": "hiddet"
+    "values": [ "hiddet" ]
   },
   {
     "key": "öfke",
-    "value": "hiddet"
+    "values": [ "hiddet" ]
   },
   {
     "key": "öfke",
-    "value": "hiddet"
+    "values": [ "hiddet" ]
   },
   {
     "key": "öge",
-    "value": "unsur"
+    "values": [ "unsur" ]
   },
   {
     "key": "öğe",
-    "value": "unsur"
+    "values": [ "unsur" ]
   },
   {
     "key": "öğe",
-    "value": "unsur"
+    "values": [ "unsur" ]
   },
   {
     "key": "öğrenci",
-    "value": "talebe"
+    "values": [ "talebe" ]
   },
   {
     "key": "öğrenci",
-    "value": "talebe"
+    "values": [ "talebe" ]
   },
   {
     "key": "öğrenci",
-    "value": "talebe"
+    "values": [ "talebe" ]
   },
   {
     "key": "öğrenim",
-    "value": "tahsil"
+    "values": [ "tahsil" ]
   },
   {
     "key": "öğrenim",
-    "value": "tahsil"
+    "values": [ "tahsil" ]
   },
   {
     "key": "öğrenim",
-    "value": "tahsil"
+    "values": [ "tahsil" ]
   },
   {
     "key": "öğretmen",
-    "value": "muallim"
+    "values": [ "muallim" ]
   },
   {
     "key": "öğüt",
-    "value": "nasihat"
+    "values": [ "nasihat" ]
   },
   {
     "key": "öğüt",
-    "value": "nasihat"
+    "values": [ "nasihat" ]
   },
   {
     "key": "öğüt",
-    "value": "nasihat"
+    "values": [ "nasihat" ]
   },
   {
     "key": "ömür",
-    "value": "hayat"
+    "values": [ "hayat" ]
   },
   {
     "key": "ömür",
-    "value": "hayat"
+    "values": [ "hayat" ]
   },
   {
     "key": "ömür",
-    "value": "hayat"
+    "values": [ "hayat" ]
   },
   {
     "key": "önce",
-    "value": "evvel"
+    "values": [ "evvel" ]
   },
   {
     "key": "önce",
-    "value": "evvel"
+    "values": [ "evvel" ]
   },
   {
     "key": "önce",
-    "value": "evvel"
+    "values": [ "evvel" ]
   },
   {
     "key": "önder",
-    "value": "lider"
+    "values": [ "lider" ]
   },
   {
     "key": "önder",
-    "value": "lider"
+    "values": [ "lider" ]
   },
   {
     "key": "önder",
-    "value": "lider"
+    "values": [ "lider" ]
   },
   {
     "key": "önem",
-    "value": "ehemmiyet"
+    "values": [ "ehemmiyet" ]
   },
   {
     "key": "önemli",
-    "value": "mühim"
+    "values": [ "mühim" ]
   },
   {
     "key": "önemli",
-    "value": "mühim"
+    "values": [ "mühim" ]
   },
   {
     "key": "önemli",
-    "value": "mühim"
+    "values": [ "mühim" ]
   },
   {
     "key": "öneri",
-    "value": "teklif"
+    "values": [ "teklif" ]
   },
   {
     "key": "öneri",
-    "value": "teklif"
+    "values": [ "teklif" ]
   },
   {
     "key": "öneri",
-    "value": "teklif"
+    "values": [ "teklif" ]
   },
   {
     "key": "önlem",
-    "value": "tedbir"
+    "values": [ "tedbir" ]
   },
   {
     "key": "önlem",
-    "value": "tedbir"
+    "values": [ "tedbir" ]
   },
   {
     "key": "önlem",
-    "value": "tedbir"
+    "values": [ "tedbir" ]
   },
   {
     "key": "örgüt",
-    "value": "teşkilat"
+    "values": [ "teşkilat" ]
   },
   {
     "key": "örgüt",
-    "value": "teşkilat"
+    "values": [ "teşkilat" ]
   },
   {
     "key": "örgüt",
-    "value": "teşkilat"
+    "values": [ "teşkilat" ]
   },
   {
     "key": "örneğin",
-    "value": "mesele"
+    "values": [ "mesele" ]
   },
   {
     "key": "örneğin",
-    "value": "mesele"
+    "values": [ "mesele" ]
   },
   {
     "key": "örneğin",
-    "value": "mesele"
+    "values": [ "mesele" ]
   },
   {
     "key": "örnek",
-    "value": "misal"
+    "values": [ "misal" ]
   },
   {
     "key": "örnek",
-    "value": "misal"
+    "values": [ "misal" ]
   },
   {
     "key": "örnek",
-    "value": "misal"
+    "values": [ "misal" ]
   },
   {
     "key": "öteki",
-    "value": "diğeri"
+    "values": [ "diğeri" ]
   },
   {
     "key": "öteki",
-    "value": "diğeri"
+    "values": [ "diğeri" ]
   },
   {
     "key": "öteki",
-    "value": "diğeri"
+    "values": [ "diğeri" ]
   },
   {
     "key": "ötürü",
-    "value": "dolayı"
+    "values": [ "dolayı" ]
   },
   {
     "key": "ötürü",
-    "value": "dolayı"
+    "values": [ "dolayı" ]
   },
   {
     "key": "ötürü",
-    "value": "dolayı"
+    "values": [ "dolayı" ]
   },
   {
     "key": "öykü",
-    "value": "hikaye"
+    "values": [ "hikaye" ]
   },
   {
     "key": "öykü",
-    "value": "hikaye"
+    "values": [ "hikaye" ]
   },
   {
     "key": "öykü",
-    "value": "hikaye"
+    "values": [ "hikaye" ]
   },
   {
     "key": "özel",
-    "value": "hususi"
+    "values": [ "hususi" ]
   },
   {
     "key": "özel",
-    "value": "hususi"
+    "values": [ "hususi" ]
   },
   {
     "key": "özel",
-    "value": "hususi"
+    "values": [ "hususi" ]
   },
   {
     "key": "özen",
-    "value": "itina"
+    "values": [ "itina" ]
   },
   {
     "key": "özen",
-    "value": "itina"
+    "values": [ "itina" ]
   },
   {
     "key": "özen",
-    "value": "itina"
+    "values": [ "itina" ]
   },
   {
     "key": "özgün",
-    "value": "orijinal"
+    "values": [ "orijinal" ]
   },
   {
     "key": "özgün",
-    "value": "orijinal"
+    "values": [ "orijinal" ]
   },
   {
     "key": "özgün",
-    "value": "orijinal"
+    "values": [ "orijinal" ]
   },
   {
     "key": "özgür",
-    "value": "hür"
+    "values": [ "hür" ]
   },
   {
     "key": "özgür",
-    "value": "hür"
+    "values": [ "hür" ]
   },
   {
     "key": "özgür",
-    "value": "hür"
+    "values": [ "hür" ]
   },
   {
     "key": "özlem",
-    "value": "hasret"
+    "values": [ "hasret" ]
   },
   {
     "key": "özlem",
-    "value": "hasret"
+    "values": [ "hasret" ]
   },
   {
     "key": "özlem",
-    "value": "hasret"
+    "values": [ "hasret" ]
   },
   {
     "key": "pabuç",
-    "value": "ayakkabı"
+    "values": [ "ayakkabı" ]
   },
   {
     "key": "pabuç",
-    "value": "ayakkabı"
+    "values": [ "ayakkabı" ]
   },
   {
     "key": "pabuç",
-    "value": "ayakkabı"
+    "values": [ "ayakkabı" ]
   },
   {
     "key": "padişah",
-    "value": "hükümdar"
+    "values": [ "hükümdar" ]
   },
   {
     "key": "paha",
-    "value": "değer"
+    "values": [ "değer" ]
   },
   {
     "key": "pak",
-    "value": "temiz"
+    "values": [ "temiz" ]
   },
   {
     "key": "pakt",
-    "value": "anlaşma"
+    "values": [ "anlaşma" ]
   },
   {
     "key": "parantez",
-    "value": "ayraç"
+    "values": [ "ayraç" ]
   },
   {
     "key": "pasak",
-    "value": "kir"
+    "values": [ "kir" ]
   },
   {
     "key": "pasaklı",
-    "value": "kirli"
+    "values": [ "kirli" ]
   },
   {
     "key": "pasif",
-    "value": "edilgen"
+    "values": [ "edilgen" ]
   },
   {
     "key": "pasif",
-    "value": "tepkisiz"
+    "values": [ "tepkisiz" ]
   },
   {
     "key": "pasif",
-    "value": "edilgen"
+    "values": [ "edilgen" ]
   },
   {
     "key": "pinti",
-    "value": "cimri"
+    "values": [ "cimri" ]
   },
   {
     "key": "pinti",
-    "value": "cimri"
+    "values": [ "cimri" ]
   },
   {
     "key": "pinti",
-    "value": "cimri"
+    "values": [ "cimri" ]
   },
   {
     "key": "pis",
-    "value": "kirli"
+    "values": [ "kirli" ]
   },
   {
     "key": "pis",
-    "value": "kirli"
+    "values": [ "kirli" ]
   },
   {
     "key": "pis",
-    "value": "kirli"
+    "values": [ "kirli" ]
   },
   {
     "key": "politika",
-    "value": "siyaset"
+    "values": [ "siyaset" ]
   },
   {
     "key": "politika",
-    "value": "siyaset"
+    "values": [ "siyaset" ]
   },
   {
     "key": "politika",
-    "value": "siyaset"
+    "values": [ "siyaset" ]
   },
   {
     "key": "problem",
-    "value": "sorun"
+    "values": [ "sorun" ]
   },
   {
     "key": "problem",
-    "value": "sorun"
+    "values": [ "sorun" ]
   },
   {
     "key": "problem",
-    "value": "sorun"
+    "values": [ "sorun" ]
   },
   {
     "key": "rab",
-    "value": "tanrı"
+    "values": [ "tanrı" ]
   },
   {
     "key": "radde",
-    "value": "derece"
+    "values": [ "derece" ]
   },
   {
     "key": "radyatör",
-    "value": "petek"
+    "values": [ "petek" ]
   },
   {
     "key": "rağmen",
-    "value": "karşın"
+    "values": [ "karşın" ]
   },
   {
     "key": "rağmen",
-    "value": "karşın"
+    "values": [ "karşın" ]
   },
   {
     "key": "rağmen",
-    "value": "karşın"
+    "values": [ "karşın" ]
   },
   {
     "key": "raket",
-    "value": "tokaç"
+    "values": [ "tokaç" ]
   },
   {
     "key": "rakım",
-    "value": "yükselti"
+    "values": [ "yükselti" ]
   },
   {
     "key": "rastlantı",
-    "value": "tesadüf"
+    "values": [ "tesadüf" ]
   },
   {
     "key": "rastlantı",
-    "value": "tesadüf"
+    "values": [ "tesadüf" ]
   },
   {
     "key": "rastlantı",
-    "value": "tesadüf"
+    "values": [ "tesadüf" ]
   },
   {
     "key": "resim",
-    "value": "fotoğraf"
+    "values": [ "fotoğraf" ]
   },
   {
     "key": "rey",
-    "value": "oy"
+    "values": [ "oy" ]
   },
   {
     "key": "rey",
-    "value": "oy"
+    "values": [ "oy" ]
   },
   {
     "key": "rey",
-    "value": "oy"
+    "values": [ "oy" ]
   },
   {
     "key": "risale",
-    "value": "kitapçık"
+    "values": [ "kitapçık" ]
   },
   {
     "key": "riya",
-    "value": "ikiyüzlülük"
+    "values": [ "ikiyüzlülük" ]
   },
   {
     "key": "romantik",
-    "value": "duygusal"
+    "values": [ "duygusal" ]
   },
   {
     "key": "rötar",
-    "value": "gecikme"
+    "values": [ "gecikme" ]
   },
   {
     "key": "rötuş",
-    "value": "düzeltme"
+    "values": [ "düzeltme" ]
   },
   {
     "key": "ruhsat",
-    "value": "izin"
+    "values": [ "izin" ]
   },
   {
     "key": "rulo",
-    "value": "tomar"
+    "values": [ "tomar" ]
   },
   {
     "key": "rutubet",
-    "value": "nem"
+    "values": [ "nem" ]
   },
   {
     "key": "rutubet",
-    "value": "nem"
+    "values": [ "nem" ]
   },
   {
     "key": "rutubet",
-    "value": "nem"
+    "values": [ "nem" ]
   },
   {
     "key": "rüştiye",
-    "value": "ortaokul"
+    "values": [ "ortaokul" ]
   },
   {
     "key": "rüştiye",
-    "value": "ortaokul"
+    "values": [ "ortaokul" ]
   },
   {
     "key": "rüya",
-    "value": "düş"
+    "values": [ "düş" ]
   },
   {
     "key": "rüya",
-    "value": "düş"
+    "values": [ "düş" ]
   },
   {
     "key": "rüya",
-    "value": "düş"
+    "values": [ "düş" ]
   },
   {
     "key": "rüzgar",
-    "value": "yel"
+    "values": [ "yel" ]
   },
   {
     "key": "rüzgar",
-    "value": "yel"
+    "values": [ "yel" ]
   },
   {
     "key": "rüzgar",
-    "value": "yel"
+    "values": [ "yel" ]
   },
   {
     "key": "saadet",
-    "value": "mutluluk"
+    "values": [ "mutluluk" ]
   },
   {
     "key": "sade",
-    "value": "yalın"
+    "values": [ "yalın" ]
   },
   {
     "key": "sade",
-    "value": "yalın"
+    "values": [ "yalın" ]
   },
   {
     "key": "sade",
-    "value": "yalın"
+    "values": [ "yalın" ]
   },
   {
     "key": "sağlık",
-    "value": "sıhhat"
+    "values": [ "sıhhat" ]
   },
   {
     "key": "sağlık",
-    "value": "sıhhat"
+    "values": [ "sıhhat" ]
   },
   {
     "key": "sağlık",
-    "value": "sıhhat"
+    "values": [ "sıhhat" ]
   },
   {
     "key": "saha",
-    "value": "alan"
+    "values": [ "alan" ]
   },
   {
     "key": "saha",
-    "value": "alan"
+    "values": [ "alan" ]
   },
   {
     "key": "saha",
-    "value": "alan"
+    "values": [ "alan" ]
   },
   {
     "key": "sahil",
-    "value": "kıyı"
+    "values": [ "kıyı" ]
   },
   {
     "key": "sahil",
-    "value": "kıyı"
+    "values": [ "kıyı" ]
   },
   {
     "key": "sahil",
-    "value": "kıyı"
+    "values": [ "kıyı" ]
   },
   {
     "key": "saldırı",
-    "value": "hücum"
+    "values": [ "hücum" ]
   },
   {
     "key": "saldırı",
-    "value": "hücum"
+    "values": [ "hücum" ]
   },
   {
     "key": "saldırı",
-    "value": "hücum"
+    "values": [ "hücum" ]
   },
   {
     "key": "samimi",
-    "value": "içten"
+    "values": [ "içten" ]
   },
   {
     "key": "samimi",
-    "value": "içten"
+    "values": [ "içten" ]
   },
   {
     "key": "samimi",
-    "value": "içten"
+    "values": [ "içten" ]
   },
   {
     "key": "sanayi",
-    "value": "endüstri"
+    "values": [ "endüstri" ]
   },
   {
     "key": "sanayi",
-    "value": "endüstri"
+    "values": [ "endüstri" ]
   },
   {
     "key": "sanayi",
-    "value": "endüstri"
+    "values": [ "endüstri" ]
   },
   {
     "key": "sandalye",
-    "value": "iskemle"
+    "values": [ "iskemle" ]
   },
   {
     "key": "sandalye",
-    "value": "iskemle"
+    "values": [ "iskemle" ]
   },
   {
     "key": "sandalye",
-    "value": "iskemle"
+    "values": [ "iskemle" ]
   },
   {
     "key": "savaş",
-    "value": "harp"
+    "values": [ "harp" ]
   },
   {
     "key": "savaş",
-    "value": "harp"
+    "values": [ "harp" ]
   },
   {
     "key": "savaş",
-    "value": "harp"
+    "values": [ "harp" ]
   },
   {
     "key": "saz",
-    "value": "çalgı"
+    "values": [ "çalgı" ]
   },
   {
     "key": "saz",
-    "value": "çalgı"
+    "values": [ "çalgı" ]
   },
   {
     "key": "saz",
-    "value": "çalgı"
+    "values": [ "çalgı" ]
   },
   {
     "key": "sebep",
-    "value": "neden"
+    "values": [ "neden" ]
   },
   {
     "key": "sebep",
-    "value": "neden"
+    "values": [ "neden" ]
   },
   {
     "key": "sebep",
-    "value": "neden"
+    "values": [ "neden" ]
   },
   {
     "key": "sene",
-    "value": "yıl"
+    "values": [ "yıl" ]
   },
   {
     "key": "sene",
-    "value": "yıl"
+    "values": [ "yıl" ]
   },
   {
     "key": "sene",
-    "value": "yıl"
+    "values": [ "yıl" ]
   },
   {
     "key": "sermaye",
-    "value": "kapital"
+    "values": [ "kapital" ]
   },
   {
     "key": "sermaye",
-    "value": "kapital"
+    "values": [ "kapital" ]
   },
   {
     "key": "sermaye",
-    "value": "kapital"
+    "values": [ "kapital" ]
   },
   {
     "key": "serüven",
-    "value": "macera"
+    "values": [ "macera" ]
   },
   {
     "key": "serüven",
-    "value": "macera"
+    "values": [ "macera" ]
   },
   {
     "key": "serüven",
-    "value": "macera"
+    "values": [ "macera" ]
   },
   {
     "key": "sevinç",
-    "value": "mutluluk"
+    "values": [ "mutluluk" ]
   },
   {
     "key": "sevinç",
-    "value": "mutluluk"
+    "values": [ "mutluluk" ]
   },
   {
     "key": "sevinç",
-    "value": "mutluluk"
+    "values": [ "mutluluk" ]
   },
   {
     "key": "sevinçli",
-    "value": "neşeli"
+    "values": [ "neşeli" ]
   },
   {
     "key": "sıçan",
-    "value": "fare"
+    "values": [ "fare" ]
   },
   {
     "key": "sıçan",
-    "value": "fare"
+    "values": [ "fare" ]
   },
   {
     "key": "sıçan",
-    "value": "fare"
+    "values": [ "fare" ]
   },
   {
     "key": "sıfat",
-    "value": "önad"
+    "values": [ "önad" ]
   },
   {
     "key": "sıhhat",
-    "value": "sağlık"
+    "values": [ "sağlık" ]
   },
   {
     "key": "sıhhat",
-    "value": "sağlık"
+    "values": [ "sağlık" ]
   },
   {
     "key": "sıhhat",
-    "value": "sağlık"
+    "values": [ "sağlık" ]
   },
   {
     "key": "sınav",
-    "value": "imtihan"
+    "values": [ "imtihan" ]
   },
   {
     "key": "sınav",
-    "value": "imtihan"
+    "values": [ "imtihan" ]
   },
   {
     "key": "sınav",
-    "value": "imtihan"
+    "values": [ "imtihan" ]
   },
   {
     "key": "sınıf",
-    "value": "derslik"
+    "values": [ "derslik" ]
   },
   {
     "key": "sınıf",
-    "value": "derslik"
+    "values": [ "derslik" ]
   },
   {
     "key": "sınıf",
-    "value": "derslik"
+    "values": [ "derslik" ]
   },
   {
     "key": "sır",
-    "value": "giz"
+    "values": [ "giz" ]
   },
   {
     "key": "sır",
-    "value": "giz"
+    "values": [ "giz" ]
   },
   {
     "key": "sır",
-    "value": "giz"
+    "values": [ "giz" ]
   },
   {
     "key": "silah",
-    "value": "tabanca"
+    "values": [ "tabanca" ]
   },
   {
     "key": "sima",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "sima",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "sima",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "siyah",
-    "value": "kara"
+    "values": [ "kara" ]
   },
   {
     "key": "siyah",
-    "value": "kara"
+    "values": [ "kara" ]
   },
   {
     "key": "siyah",
-    "value": "kara"
+    "values": [ "kara" ]
   },
   {
     "key": "siyaset",
-    "value": "politika"
+    "values": [ "politika" ]
   },
   {
     "key": "siyaset",
-    "value": "politika"
+    "values": [ "politika" ]
   },
   {
     "key": "siyaset",
-    "value": "politika"
+    "values": [ "politika" ]
   },
   {
     "key": "soluk",
-    "value": "nefes"
+    "values": [ "nefes" ]
   },
   {
     "key": "son",
-    "value": "nihayet"
+    "values": [ "nihayet" ]
   },
   {
     "key": "son",
-    "value": "nihayet"
+    "values": [ "nihayet" ]
   },
   {
     "key": "son",
-    "value": "nihayet"
+    "values": [ "nihayet" ]
   },
   {
     "key": "sonbahar",
-    "value": "güz"
+    "values": [ "güz" ]
   },
   {
     "key": "sonbahar",
-    "value": "güz"
+    "values": [ "güz" ]
   },
   {
     "key": "sonbahar",
-    "value": "güz"
+    "values": [ "güz" ]
   },
   {
     "key": "sonuç",
-    "value": "netice"
+    "values": [ "netice" ]
   },
   {
     "key": "sonuç",
-    "value": "netice"
+    "values": [ "netice" ]
   },
   {
     "key": "sonuç",
-    "value": "netice"
+    "values": [ "netice" ]
   },
   {
     "key": "soru",
-    "value": "sual"
+    "values": [ "sual" ]
   },
   {
     "key": "sorumluluk",
-    "value": "mesuliyet"
+    "values": [ "mesuliyet" ]
   },
   {
     "key": "sorumluluk",
-    "value": "mesuliyet"
+    "values": [ "mesuliyet" ]
   },
   {
     "key": "sorumluluk",
-    "value": "mesuliyet"
+    "values": [ "mesuliyet" ]
   },
   {
     "key": "sorun",
-    "value": "mesele"
+    "values": [ "mesele" ]
   },
   {
     "key": "sorun mesele",
@@ -7065,659 +7065,659 @@
   },
   {
     "key": "soylu",
-    "value": "asil"
+    "values": [ "asil" ]
   },
   {
     "key": "soylu",
-    "value": "asil"
+    "values": [ "asil" ]
   },
   {
     "key": "soylu",
-    "value": "asil"
+    "values": [ "asil" ]
   },
   {
     "key": "sömestir",
-    "value": "yarıyıl"
+    "values": [ "yarıyıl" ]
   },
   {
     "key": "sömestri",
-    "value": "yarıyıl"
+    "values": [ "yarıyıl" ]
   },
   {
     "key": "sömestri",
-    "value": "yarıyıl"
+    "values": [ "yarıyıl" ]
   },
   {
     "key": "söylev",
-    "value": "nutuk"
+    "values": [ "nutuk" ]
   },
   {
     "key": "söylev",
-    "value": "nutuk"
+    "values": [ "nutuk" ]
   },
   {
     "key": "söylev",
-    "value": "nutuk"
+    "values": [ "nutuk" ]
   },
   {
     "key": "söz",
-    "value": "laf"
+    "values": [ "laf" ]
   },
   {
     "key": "sözcük",
-    "value": "kelime"
+    "values": [ "kelime" ]
   },
   {
     "key": "sözcük",
-    "value": "kelime"
+    "values": [ "kelime" ]
   },
   {
     "key": "sözcük",
-    "value": "kelime"
+    "values": [ "kelime" ]
   },
   {
     "key": "sözlük",
-    "value": "lügat"
+    "values": [ "lügat" ]
   },
   {
     "key": "sözlük",
-    "value": "lügat"
+    "values": [ "lügat" ]
   },
   {
     "key": "sözlük",
-    "value": "lügat"
+    "values": [ "lügat" ]
   },
   {
     "key": "sulh",
-    "value": "barış"
+    "values": [ "barış" ]
   },
   {
     "key": "sulh",
-    "value": "barış"
+    "values": [ "barış" ]
   },
   {
     "key": "sulh",
-    "value": "barış"
+    "values": [ "barış" ]
   },
   {
     "key": "suni",
-    "value": "yapay"
+    "values": [ "yapay" ]
   },
   {
     "key": "suni",
-    "value": "yapay"
+    "values": [ "yapay" ]
   },
   {
     "key": "suni",
-    "value": "yapay"
+    "values": [ "yapay" ]
   },
   {
     "key": "surat",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "surat",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "surat",
-    "value": "yüz"
+    "values": [ "yüz" ]
   },
   {
     "key": "sürat",
-    "value": "hız"
+    "values": [ "hız" ]
   },
   {
     "key": "sürat",
-    "value": "hız"
+    "values": [ "hız" ]
   },
   {
     "key": "sürat",
-    "value": "hız"
+    "values": [ "hız" ]
   },
   {
     "key": "sürekli",
-    "value": "devamlı"
+    "values": [ "devamlı" ]
   },
   {
     "key": "sürekli",
-    "value": "devamlı"
+    "values": [ "devamlı" ]
   },
   {
     "key": "sürekli",
-    "value": "devamlı"
+    "values": [ "devamlı" ]
   },
   {
     "key": "şafak",
-    "value": "tan"
+    "values": [ "tan" ]
   },
   {
     "key": "şafak",
-    "value": "tan"
+    "values": [ "tan" ]
   },
   {
     "key": "şafak",
-    "value": "tan"
+    "values": [ "tan" ]
   },
   {
     "key": "şahıs",
-    "value": "kişi"
+    "values": [ "kişi" ]
   },
   {
     "key": "şahıs",
-    "value": "kişi"
+    "values": [ "kişi" ]
   },
   {
     "key": "şahıs",
-    "value": "kişi"
+    "values": [ "kişi" ]
   },
   {
     "key": "şahit",
-    "value": "tanık"
+    "values": [ "tanık" ]
   },
   {
     "key": "şahit",
-    "value": "tanık"
+    "values": [ "tanık" ]
   },
   {
     "key": "şahit",
-    "value": "tanık"
+    "values": [ "tanık" ]
   },
   {
     "key": "şair",
-    "value": "ozan"
+    "values": [ "ozan" ]
   },
   {
     "key": "şair",
-    "value": "ozan"
+    "values": [ "ozan" ]
   },
   {
     "key": "şair",
-    "value": "ozan"
+    "values": [ "ozan" ]
   },
   {
     "key": "şaka",
-    "value": "latife"
+    "values": [ "latife" ]
   },
   {
     "key": "şaka",
-    "value": "latife"
+    "values": [ "latife" ]
   },
   {
     "key": "şaka",
-    "value": "latife"
+    "values": [ "latife" ]
   },
   {
     "key": "şans",
-    "value": "talih"
+    "values": [ "talih" ]
   },
   {
     "key": "şans",
-    "value": "talih"
+    "values": [ "talih" ]
   },
   {
     "key": "şans",
-    "value": "talih"
+    "values": [ "talih" ]
   },
   {
     "key": "şark",
-    "value": "doğu"
+    "values": [ "doğu" ]
   },
   {
     "key": "şark",
-    "value": "doğu"
+    "values": [ "doğu" ]
   },
   {
     "key": "şark",
-    "value": "doğu"
+    "values": [ "doğu" ]
   },
   {
     "key": "şart",
-    "value": "koşul"
+    "values": [ "koşul" ]
   },
   {
     "key": "şart",
-    "value": "koşul"
+    "values": [ "koşul" ]
   },
   {
     "key": "şart",
-    "value": "koşul"
+    "values": [ "koşul" ]
   },
   {
     "key": "şayet",
-    "value": "eğer"
+    "values": [ "eğer" ]
   },
   {
     "key": "şayet",
-    "value": "eğer"
+    "values": [ "eğer" ]
   },
   {
     "key": "şayet",
-    "value": "eğer"
+    "values": [ "eğer" ]
   },
   {
     "key": "şef",
-    "value": "lider"
+    "values": [ "lider" ]
   },
   {
     "key": "şef",
-    "value": "lider"
+    "values": [ "lider" ]
   },
   {
     "key": "şef",
-    "value": "lider"
+    "values": [ "lider" ]
   },
   {
     "key": "şehir",
-    "value": "kent"
+    "values": [ "kent" ]
   },
   {
     "key": "şehir",
-    "value": "kent"
+    "values": [ "kent" ]
   },
   {
     "key": "şehir",
-    "value": "kent"
+    "values": [ "kent" ]
   },
   {
     "key": "şekil",
-    "value": "biçim"
+    "values": [ "biçim" ]
   },
   {
     "key": "şekil",
-    "value": "biçim"
+    "values": [ "biçim" ]
   },
   {
     "key": "şekil",
-    "value": "biçim"
+    "values": [ "biçim" ]
   },
   {
     "key": "şen",
-    "value": "neşeli"
+    "values": [ "neşeli" ]
   },
   {
     "key": "şen",
-    "value": "neşeli"
+    "values": [ "neşeli" ]
   },
   {
     "key": "şen",
-    "value": "neşeli"
+    "values": [ "neşeli" ]
   },
   {
     "key": "şeref",
-    "value": "onur"
+    "values": [ "onur" ]
   },
   {
     "key": "şeref",
-    "value": "onur"
+    "values": [ "onur" ]
   },
   {
     "key": "şeref",
-    "value": "onur"
+    "values": [ "onur" ]
   },
   {
     "key": "şöhret",
-    "value": "ün"
+    "values": [ "ün" ]
   },
   {
     "key": "şöhret",
-    "value": "ün"
+    "values": [ "ün" ]
   },
   {
     "key": "şöhret",
-    "value": "ün"
+    "values": [ "ün" ]
   },
   {
     "key": "şuur",
-    "value": "bilinç"
+    "values": [ "bilinç" ]
   },
   {
     "key": "şuur",
-    "value": "bilinç"
+    "values": [ "bilinç" ]
   },
   {
     "key": "şuur",
-    "value": "bilinç"
+    "values": [ "bilinç" ]
   },
   {
     "key": "şüphe",
-    "value": "kuşku"
+    "values": [ "kuşku" ]
   },
   {
     "key": "şüphe",
-    "value": "kuşku"
+    "values": [ "kuşku" ]
   },
   {
     "key": "şüphe",
-    "value": "kuşku"
+    "values": [ "kuşku" ]
   },
   {
     "key": "tabiat",
-    "value": "doğa"
+    "values": [ "doğa" ]
   },
   {
     "key": "tabiat",
-    "value": "doğa"
+    "values": [ "doğa" ]
   },
   {
     "key": "tabiat",
-    "value": "doğa"
+    "values": [ "doğa" ]
   },
   {
     "key": "tabii",
-    "value": "doğal"
+    "values": [ "doğal" ]
   },
   {
     "key": "tabii",
-    "value": "doğal"
+    "values": [ "doğal" ]
   },
   {
     "key": "tabii",
-    "value": "doğal"
+    "values": [ "doğal" ]
   },
   {
     "key": "tabip",
-    "value": "hekim"
+    "values": [ "hekim" ]
   },
   {
     "key": "tabip",
-    "value": "hekim"
+    "values": [ "hekim" ]
   },
   {
     "key": "tabip",
-    "value": "hekim"
+    "values": [ "hekim" ]
   },
   {
     "key": "talebe",
-    "value": "öğrenci"
+    "values": [ "öğrenci" ]
   },
   {
     "key": "talebe",
-    "value": "öğrenci"
+    "values": [ "öğrenci" ]
   },
   {
     "key": "talebe",
-    "value": "öğrenci"
+    "values": [ "öğrenci" ]
   },
   {
     "key": "talih",
-    "value": "şans"
+    "values": [ "şans" ]
   },
   {
     "key": "talih",
-    "value": "şans"
+    "values": [ "şans" ]
   },
   {
     "key": "talih",
-    "value": "şans"
+    "values": [ "şans" ]
   },
   {
     "key": "tamir",
-    "value": "onarım"
+    "values": [ "onarım" ]
   },
   {
     "key": "tamir",
-    "value": "onarım"
+    "values": [ "onarım" ]
   },
   {
     "key": "tamir",
-    "value": "onarım"
+    "values": [ "onarım" ]
   },
   {
     "key": "tane",
-    "value": "adet"
+    "values": [ "adet" ]
   },
   {
     "key": "tane",
-    "value": "adet"
+    "values": [ "adet" ]
   },
   {
     "key": "tane",
-    "value": "adet"
+    "values": [ "adet" ]
   },
   {
     "key": "tanık",
-    "value": "şahit"
+    "values": [ "şahit" ]
   },
   {
     "key": "tanık",
-    "value": "şahit"
+    "values": [ "şahit" ]
   },
   {
     "key": "tanık",
-    "value": "şahit"
+    "values": [ "şahit" ]
   },
   {
     "key": "tanım",
-    "value": "tarif"
+    "values": [ "tarif" ]
   },
   {
     "key": "tanım",
-    "value": "tarif"
+    "values": [ "tarif" ]
   },
   {
     "key": "tanım",
-    "value": "tarif"
+    "values": [ "tarif" ]
   },
   {
     "key": "tapınak",
-    "value": "mabet"
+    "values": [ "mabet" ]
   },
   {
     "key": "tapınak",
-    "value": "mabet"
+    "values": [ "mabet" ]
   },
   {
     "key": "tapınak",
-    "value": "mabet"
+    "values": [ "mabet" ]
   },
   {
     "key": "taraf",
-    "value": "yan"
+    "values": [ "yan" ]
   },
   {
     "key": "taraf",
-    "value": "yan"
+    "values": [ "yan" ]
   },
   {
     "key": "taraf",
-    "value": "yan"
+    "values": [ "yan" ]
   },
   {
     "key": "tarım",
-    "value": "ziraat"
+    "values": [ "ziraat" ]
   },
   {
     "key": "tarım",
-    "value": "ziraat"
+    "values": [ "ziraat" ]
   },
   {
     "key": "tarım",
-    "value": "ziraat"
+    "values": [ "ziraat" ]
   },
   {
     "key": "tarif",
-    "value": "tanım"
+    "values": [ "tanım" ]
   },
   {
     "key": "tarif",
-    "value": "tanım"
+    "values": [ "tanım" ]
   },
   {
     "key": "tarif",
-    "value": "tanım"
+    "values": [ "tanım" ]
   },
   {
     "key": "tartışma",
-    "value": "münakaşa"
+    "values": [ "münakaşa" ]
   },
   {
     "key": "tartışma",
-    "value": "münakaşa"
+    "values": [ "münakaşa" ]
   },
   {
     "key": "tartışma",
-    "value": "münakaşa"
+    "values": [ "münakaşa" ]
   },
   {
     "key": "tasa",
-    "value": "üzüntü"
+    "values": [ "üzüntü" ]
   },
   {
     "key": "tasa–üzüntübarış",
-    "value": "sulh"
+    "values": [ "sulh" ]
   },
   {
     "key": "tasdik",
-    "value": "onay"
+    "values": [ "onay" ]
   },
   {
     "key": "tasdik",
-    "value": "onay"
+    "values": [ "onay" ]
   },
   {
     "key": "tasdik",
-    "value": "onay"
+    "values": [ "onay" ]
   },
   {
     "key": "taviz",
-    "value": "ödün"
+    "values": [ "ödün" ]
   },
   {
     "key": "tebrik",
-    "value": "kutlama"
+    "values": [ "kutlama" ]
   },
   {
     "key": "tebrik",
-    "value": "kutlama"
+    "values": [ "kutlama" ]
   },
   {
     "key": "tebrik",
-    "value": "kutlama"
+    "values": [ "kutlama" ]
   },
   {
     "key": "tecrübe",
-    "value": "deney"
+    "values": [ "deney" ]
   },
   {
     "key": "tecrübe",
-    "value": "deney"
+    "values": [ "deney" ]
   },
   {
     "key": "tecrübe",
-    "value": "deney"
+    "values": [ "deney" ]
   },
   {
     "key": "tedbir",
-    "value": "önlem"
+    "values": [ "önlem" ]
   },
   {
     "key": "tedbir",
-    "value": "önlem"
+    "values": [ "önlem" ]
   },
   {
     "key": "tedbir",
-    "value": "önlem"
+    "values": [ "önlem" ]
   },
   {
     "key": "teklif",
-    "value": "öneri"
+    "values": [ "öneri" ]
   },
   {
     "key": "teklif",
-    "value": "öneri"
+    "values": [ "öneri" ]
   },
   {
     "key": "teklif",
-    "value": "öneri"
+    "values": [ "öneri" ]
   },
   {
     "key": "tekrar",
-    "value": "yine"
+    "values": [ "yine" ]
   },
   {
     "key": "tekrar",
-    "value": "yine"
+    "values": [ "yine" ]
   },
   {
     "key": "tekrar",
-    "value": "yine"
+    "values": [ "yine" ]
   },
   {
     "key": "temel",
-    "value": "esas"
+    "values": [ "esas" ]
   },
   {
     "key": "temel",
-    "value": "esas"
+    "values": [ "esas" ]
   },
   {
     "key": "temel",
-    "value": "esas"
+    "values": [ "esas" ]
   },
   {
     "key": "tercüme",
-    "value": "çeviri"
+    "values": [ "çeviri" ]
   },
   {
     "key": "tercüme",
-    "value": "çeviri"
+    "values": [ "çeviri" ]
   },
   {
     "key": "tercüme",
-    "value": "çeviri"
+    "values": [ "çeviri" ]
   },
   {
     "key": "tertip",
-    "value": "düzen"
+    "values": [ "düzen" ]
   },
   {
     "key": "tertip",
-    "value": "düzen"
+    "values": [ "düzen" ]
   },
   {
     "key": "tertip",
-    "value": "düzen"
+    "values": [ "düzen" ]
   },
   {
     "key": "tesadüf",
-    "value": "rastlantı"
+    "values": [ "rastlantı" ]
   },
   {
     "key": "tesadüf",
-    "value": "rastlantı"
+    "values": [ "rastlantı" ]
   },
   {
     "key": "tesadüf",
-    "value": "rastlantı"
+    "values": [ "rastlantı" ]
   },
   {
     "key": "tesir",
-    "value": "etki"
+    "values": [ "etki" ]
   },
   {
     "key": "tesir",
-    "value": "etki"
+    "values": [ "etki" ]
   },
   {
     "key": "tesir",
-    "value": "etki"
+    "values": [ "etki" ]
   },
   {
     "key": "toplum",
-    "value": "cemiyet"
+    "values": [ "cemiyet" ]
   },
   {
     "key": "toplum",
-    "value": "cemiyet"
+    "values": [ "cemiyet" ]
   },
   {
     "key": "toplum",
-    "value": "cemiyet"
+    "values": [ "cemiyet" ]
   },
   {
     "key": "tören",
-    "value": "merasim"
+    "values": [ "merasim" ]
   },
   {
     "key": "tören –merasim",
@@ -7729,1074 +7729,1074 @@
   },
   {
     "key": "traktör",
-    "value": "motor"
+    "values": [ "motor" ]
   },
   {
     "key": "tren",
-    "value": "şimendifer"
+    "values": [ "şimendifer" ]
   },
   {
     "key": "tren",
-    "value": "şimendifer"
+    "values": [ "şimendifer" ]
   },
   {
     "key": "tren",
-    "value": "şimendifer"
+    "values": [ "şimendifer" ]
   },
   {
     "key": "tuhaf",
-    "value": "garip"
+    "values": [ "garip" ]
   },
   {
     "key": "tuhaf",
-    "value": "garip"
+    "values": [ "garip" ]
   },
   {
     "key": "tuhaf",
-    "value": "garip"
+    "values": [ "garip" ]
   },
   {
     "key": "tutsak",
-    "value": "esir"
+    "values": [ "esir" ]
   },
   {
     "key": "tutsak",
-    "value": "esir"
+    "values": [ "esir" ]
   },
   {
     "key": "tutsak",
-    "value": "esir"
+    "values": [ "esir" ]
   },
   {
     "key": "tuvalet",
-    "value": "hela"
+    "values": [ "hela" ]
   },
   {
     "key": "tuvalet",
-    "value": "hela"
+    "values": [ "hela" ]
   },
   {
     "key": "tuvalet",
-    "value": "hela"
+    "values": [ "hela" ]
   },
   {
     "key": "tüm",
-    "value": "bütün"
+    "values": [ "bütün" ]
   },
   {
     "key": "tüm",
-    "value": "bütün"
+    "values": [ "bütün" ]
   },
   {
     "key": "tüm",
-    "value": "bütün"
+    "values": [ "bütün" ]
   },
   {
     "key": "tümce",
-    "value": "cümle"
+    "values": [ "cümle" ]
   },
   {
     "key": "tümce",
-    "value": "cümle"
+    "values": [ "cümle" ]
   },
   {
     "key": "tümce",
-    "value": "cümle"
+    "values": [ "cümle" ]
   },
   {
     "key": "tümör",
-    "value": "ur"
+    "values": [ "ur" ]
   },
   {
     "key": "tümör",
-    "value": "ur"
+    "values": [ "ur" ]
   },
   {
     "key": "tümör",
-    "value": "ur"
+    "values": [ "ur" ]
   },
   {
     "key": "uçak",
-    "value": "tayyare"
+    "values": [ "tayyare" ]
   },
   {
     "key": "uçak",
-    "value": "tayyare"
+    "values": [ "tayyare" ]
   },
   {
     "key": "uçak",
-    "value": "tayyare"
+    "values": [ "tayyare" ]
   },
   {
     "key": "uçurum",
-    "value": "yar"
+    "values": [ "yar" ]
   },
   {
     "key": "uçurum",
-    "value": "yar"
+    "values": [ "yar" ]
   },
   {
     "key": "uçurum",
-    "value": "yar"
+    "values": [ "yar" ]
   },
   {
     "key": "ufak",
-    "value": "küçük"
+    "values": [ "küçük" ]
   },
   {
     "key": "ufak",
-    "value": "küçük"
+    "values": [ "küçük" ]
   },
   {
     "key": "ufak",
-    "value": "küçük"
+    "values": [ "küçük" ]
   },
   {
     "key": "uğraş",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "uğraş",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "uğraş",
-    "value": "iş"
+    "values": [ "iş" ]
   },
   {
     "key": "ulu",
-    "value": "yüce"
+    "values": [ "yüce" ]
   },
   {
     "key": "ulu",
-    "value": "yüce"
+    "values": [ "yüce" ]
   },
   {
     "key": "ulu",
-    "value": "yüce"
+    "values": [ "yüce" ]
   },
   {
     "key": "ulus",
-    "value": "millet"
+    "values": [ "millet" ]
   },
   {
     "key": "ulus",
-    "value": "millet"
+    "values": [ "millet" ]
   },
   {
     "key": "ulus",
-    "value": "millet"
+    "values": [ "millet" ]
   },
   {
     "key": "umumi",
-    "value": "genel"
+    "values": [ "genel" ]
   },
   {
     "key": "umumi",
-    "value": "genel"
+    "values": [ "genel" ]
   },
   {
     "key": "umumi",
-    "value": "genel"
+    "values": [ "genel" ]
   },
   {
     "key": "umut",
-    "value": "ümit"
+    "values": [ "ümit" ]
   },
   {
     "key": "umut",
-    "value": "ümit"
+    "values": [ "ümit" ]
   },
   {
     "key": "umut",
-    "value": "ümit"
+    "values": [ "ümit" ]
   },
   {
     "key": "unsur",
-    "value": "öğe"
+    "values": [ "öğe" ]
   },
   {
     "key": "unsur",
-    "value": "öğe"
+    "values": [ "öğe" ]
   },
   {
     "key": "unsur",
-    "value": "öğe"
+    "values": [ "öğe" ]
   },
   {
     "key": "us",
-    "value": "akıl"
+    "values": [ "akıl" ]
   },
   {
     "key": "us",
-    "value": "akıl"
+    "values": [ "akıl" ]
   },
   {
     "key": "us",
-    "value": "akıl"
+    "values": [ "akıl" ]
   },
   {
     "key": "usta",
-    "value": "ehil"
+    "values": [ "ehil" ]
   },
   {
     "key": "usta",
-    "value": "ehil"
+    "values": [ "ehil" ]
   },
   {
     "key": "usta",
-    "value": "ehil"
+    "values": [ "ehil" ]
   },
   {
     "key": "uyarı",
-    "value": "ikaz"
+    "values": [ "ikaz" ]
   },
   {
     "key": "uyarı",
-    "value": "ikaz"
+    "values": [ "ikaz" ]
   },
   {
     "key": "uyarı",
-    "value": "ikaz"
+    "values": [ "ikaz" ]
   },
   {
     "key": "uygar",
-    "value": "medeni"
+    "values": [ "medeni" ]
   },
   {
     "key": "uygar",
-    "value": "medeni"
+    "values": [ "medeni" ]
   },
   {
     "key": "uygar",
-    "value": "medeni"
+    "values": [ "medeni" ]
   },
   {
     "key": "uygarlık",
-    "value": "medeniyet"
+    "values": [ "medeniyet" ]
   },
   {
     "key": "uyum",
-    "value": "ahenk"
+    "values": [ "ahenk" ]
   },
   {
     "key": "uyum",
-    "value": "ahenk"
+    "values": [ "ahenk" ]
   },
   {
     "key": "uyum",
-    "value": "ahenk"
+    "values": [ "ahenk" ]
   },
   {
     "key": "uzak",
-    "value": "ırak"
+    "values": [ "ırak" ]
   },
   {
     "key": "uzak",
-    "value": "ırak"
+    "values": [ "ırak" ]
   },
   {
     "key": "uzak",
-    "value": "ırak"
+    "values": [ "ırak" ]
   },
   {
     "key": "uzay",
-    "value": "feza"
+    "values": [ "feza" ]
   },
   {
     "key": "uzay",
-    "value": "feza"
+    "values": [ "feza" ]
   },
   {
     "key": "uzay",
-    "value": "feza"
+    "values": [ "feza" ]
   },
   {
     "key": "ücra",
-    "value": "sapa"
+    "values": [ "sapa" ]
   },
   {
     "key": "üçkağıtçı",
-    "value": "dolandırıcı"
+    "values": [ "dolandırıcı" ]
   },
   {
     "key": "üleş",
-    "value": "pay"
+    "values": [ "pay" ]
   },
   {
     "key": "üleş",
-    "value": "pay"
+    "values": [ "pay" ]
   },
   {
     "key": "üleş",
-    "value": "pay"
+    "values": [ "pay" ]
   },
   {
     "key": "üleşmek",
-    "value": "bölüşmek"
+    "values": [ "bölüşmek" ]
   },
   {
     "key": "ülke",
-    "value": "diyar"
+    "values": [ "diyar" ]
   },
   {
     "key": "ülke",
-    "value": "diyar"
+    "values": [ "diyar" ]
   },
   {
     "key": "ülke",
-    "value": "diyar"
+    "values": [ "diyar" ]
   },
   {
     "key": "ülker",
-    "value": "süreyya"
+    "values": [ "süreyya" ]
   },
   {
     "key": "ülkü",
-    "value": "ideal"
+    "values": [ "ideal" ]
   },
   {
     "key": "ülkü",
-    "value": "ideal"
+    "values": [ "ideal" ]
   },
   {
     "key": "ülkü",
-    "value": "ideal"
+    "values": [ "ideal" ]
   },
   {
     "key": "ümit",
-    "value": "umut"
+    "values": [ "umut" ]
   },
   {
     "key": "ümit",
-    "value": "umut"
+    "values": [ "umut" ]
   },
   {
     "key": "ümit",
-    "value": "umut"
+    "values": [ "umut" ]
   },
   {
     "key": "ünite",
-    "value": "birim"
+    "values": [ "birim" ]
   },
   {
     "key": "ünlü",
-    "value": "meşhur"
+    "values": [ "meşhur" ]
   },
   {
     "key": "ünlü",
-    "value": "meşhur"
+    "values": [ "meşhur" ]
   },
   {
     "key": "ünlü",
-    "value": "meşhur"
+    "values": [ "meşhur" ]
   },
   {
     "key": "ürem",
-    "value": "faiz"
+    "values": [ "faiz" ]
   },
   {
     "key": "ürem",
-    "value": "faiz"
+    "values": [ "faiz" ]
   },
   {
     "key": "ürem",
-    "value": "faiz"
+    "values": [ "faiz" ]
   },
   {
     "key": "ürün",
-    "value": "mahsul"
+    "values": [ "mahsul" ]
   },
   {
     "key": "ürün",
-    "value": "mahsul"
+    "values": [ "mahsul" ]
   },
   {
     "key": "ürün",
-    "value": "mahsul"
+    "values": [ "mahsul" ]
   },
   {
     "key": "üstat",
-    "value": "usta"
+    "values": [ "usta" ]
   },
   {
     "key": "üstün",
-    "value": "faik"
+    "values": [ "faik" ]
   },
   {
     "key": "üye",
-    "value": "aza"
+    "values": [ "aza" ]
   },
   {
     "key": "üye",
-    "value": "aza"
+    "values": [ "aza" ]
   },
   {
     "key": "üye",
-    "value": "aza"
+    "values": [ "aza" ]
   },
   {
     "key": "vaka",
-    "value": "olay"
+    "values": [ "olay" ]
   },
   {
     "key": "vaka",
-    "value": "olay"
+    "values": [ "olay" ]
   },
   {
     "key": "vaka",
-    "value": "olay"
+    "values": [ "olay" ]
   },
   {
     "key": "vakit",
-    "value": "zaman"
+    "values": [ "zaman" ]
   },
   {
     "key": "vakit",
-    "value": "zaman"
+    "values": [ "zaman" ]
   },
   {
     "key": "vakit",
-    "value": "zaman"
+    "values": [ "zaman" ]
   },
   {
     "key": "varlıklı",
-    "value": "zengin"
+    "values": [ "zengin" ]
   },
   {
     "key": "varlıklı",
-    "value": "zengin"
+    "values": [ "zengin" ]
   },
   {
     "key": "varlıklı",
-    "value": "zengin"
+    "values": [ "zengin" ]
   },
   {
     "key": "varsıl",
-    "value": "zengin"
+    "values": [ "zengin" ]
   },
   {
     "key": "vasıta",
-    "value": "araç"
+    "values": [ "araç" ]
   },
   {
     "key": "vasıta",
-    "value": "araç"
+    "values": [ "araç" ]
   },
   {
     "key": "vasıta",
-    "value": "araç"
+    "values": [ "araç" ]
   },
   {
     "key": "vatan",
-    "value": "yurt"
+    "values": [ "yurt" ]
   },
   {
     "key": "vatan",
-    "value": "yurt"
+    "values": [ "yurt" ]
   },
   {
     "key": "vatan",
-    "value": "yurt"
+    "values": [ "yurt" ]
   },
   {
     "key": "vazife",
-    "value": "görev"
+    "values": [ "görev" ]
   },
   {
     "key": "vazife",
-    "value": "görev"
+    "values": [ "görev" ]
   },
   {
     "key": "vazife",
-    "value": "görev"
+    "values": [ "görev" ]
   },
   {
     "key": "vaziyet",
-    "value": "durum"
+    "values": [ "durum" ]
   },
   {
     "key": "vaziyet",
-    "value": "durum"
+    "values": [ "durum" ]
   },
   {
     "key": "vaziyet",
-    "value": "durum"
+    "values": [ "durum" ]
   },
   {
     "key": "vesika",
-    "value": "belge"
+    "values": [ "belge" ]
   },
   {
     "key": "vesika",
-    "value": "belge"
+    "values": [ "belge" ]
   },
   {
     "key": "vesika",
-    "value": "belge"
+    "values": [ "belge" ]
   },
   {
     "key": "veteriner",
-    "value": "baytar"
+    "values": [ "baytar" ]
   },
   {
     "key": "veteriner",
-    "value": "baytar"
+    "values": [ "baytar" ]
   },
   {
     "key": "veteriner",
-    "value": "baytar"
+    "values": [ "baytar" ]
   },
   {
     "key": "vilayet",
-    "value": "il"
+    "values": [ "il" ]
   },
   {
     "key": "vilayet",
-    "value": "il"
+    "values": [ "il" ]
   },
   {
     "key": "vilayet",
-    "value": "il"
+    "values": [ "il" ]
   },
   {
     "key": "viraj",
-    "value": "dönemeç"
+    "values": [ "dönemeç" ]
   },
   {
     "key": "viraj",
-    "value": "dönemeç"
+    "values": [ "dönemeç" ]
   },
   {
     "key": "viraj",
-    "value": "dönemeç"
+    "values": [ "dönemeç" ]
   },
   {
     "key": "vücut",
-    "value": "gövde"
+    "values": [ "gövde" ]
   },
   {
     "key": "vücut",
-    "value": "gövde"
+    "values": [ "gövde" ]
   },
   {
     "key": "vücut",
-    "value": "gövde"
+    "values": [ "gövde" ]
   },
   {
     "key": "yalın",
-    "value": "sade"
+    "values": [ "sade" ]
   },
   {
     "key": "yalın",
-    "value": "sade"
+    "values": [ "sade" ]
   },
   {
     "key": "yalın",
-    "value": "sade"
+    "values": [ "sade" ]
   },
   {
     "key": "yan",
-    "value": "taraf"
+    "values": [ "taraf" ]
   },
   {
     "key": "yan",
-    "value": "taraf"
+    "values": [ "taraf" ]
   },
   {
     "key": "yan",
-    "value": "taraf"
+    "values": [ "taraf" ]
   },
   {
     "key": "yanıt",
-    "value": "cevap"
+    "values": [ "cevap" ]
   },
   {
     "key": "yanıt",
-    "value": "cevap"
+    "values": [ "cevap" ]
   },
   {
     "key": "yanıt",
-    "value": "cevap"
+    "values": [ "cevap" ]
   },
   {
     "key": "yapay",
-    "value": "suni"
+    "values": [ "suni" ]
   },
   {
     "key": "yapay",
-    "value": "suni"
+    "values": [ "suni" ]
   },
   {
     "key": "yapay",
-    "value": "suni"
+    "values": [ "suni" ]
   },
   {
     "key": "yapıt",
-    "value": "eser"
+    "values": [ "eser" ]
   },
   {
     "key": "yapıt",
-    "value": "eser"
+    "values": [ "eser" ]
   },
   {
     "key": "yapıt",
-    "value": "eser"
+    "values": [ "eser" ]
   },
   {
     "key": "yar",
-    "value": "uçurum"
+    "values": [ "uçurum" ]
   },
   {
     "key": "yar",
-    "value": "uçurum"
+    "values": [ "uçurum" ]
   },
   {
     "key": "yar",
-    "value": "uçurum"
+    "values": [ "uçurum" ]
   },
   {
     "key": "yaratık",
-    "value": "mahluk"
+    "values": [ "mahluk" ]
   },
   {
     "key": "yaratık",
-    "value": "mahluk"
+    "values": [ "mahluk" ]
   },
   {
     "key": "yaratık",
-    "value": "mahluk"
+    "values": [ "mahluk" ]
   },
   {
     "key": "yardımcı",
-    "value": "muavin"
+    "values": [ "muavin" ]
   },
   {
     "key": "yardımcı",
-    "value": "muavin"
+    "values": [ "muavin" ]
   },
   {
     "key": "yardımcı",
-    "value": "muavin"
+    "values": [ "muavin" ]
   },
   {
     "key": "yargıç",
-    "value": "hakim"
+    "values": [ "hakim" ]
   },
   {
     "key": "yargıç",
-    "value": "hakim"
+    "values": [ "hakim" ]
   },
   {
     "key": "yargıç",
-    "value": "hakim"
+    "values": [ "hakim" ]
   },
   {
     "key": "yarıyıl",
-    "value": "sömestri"
+    "values": [ "sömestri" ]
   },
   {
     "key": "yarıyıl",
-    "value": "sömestri"
+    "values": [ "sömestri" ]
   },
   {
     "key": "yarıyıl",
-    "value": "sömestri"
+    "values": [ "sömestri" ]
   },
   {
     "key": "yas",
-    "value": "matem"
+    "values": [ "matem" ]
   },
   {
     "key": "yas",
-    "value": "matem"
+    "values": [ "matem" ]
   },
   {
     "key": "yas",
-    "value": "matem"
+    "values": [ "matem" ]
   },
   {
     "key": "yasa",
-    "value": "kanun"
+    "values": [ "kanun" ]
   },
   {
     "key": "yasa",
-    "value": "kanun"
+    "values": [ "kanun" ]
   },
   {
     "key": "yasa",
-    "value": "kanun"
+    "values": [ "kanun" ]
   },
   {
     "key": "yaş",
-    "value": "ıslak"
+    "values": [ "ıslak" ]
   },
   {
     "key": "yaş",
-    "value": "ıslak"
+    "values": [ "ıslak" ]
   },
   {
     "key": "yaş",
-    "value": "ıslak"
+    "values": [ "ıslak" ]
   },
   {
     "key": "yaşam",
-    "value": "hayat"
+    "values": [ "hayat" ]
   },
   {
     "key": "yaşam",
-    "value": "hayat"
+    "values": [ "hayat" ]
   },
   {
     "key": "yaşlı",
-    "value": "ihtiyar"
+    "values": [ "ihtiyar" ]
   },
   {
     "key": "yaşlı",
-    "value": "ihtiyar"
+    "values": [ "ihtiyar" ]
   },
   {
     "key": "yaşlı",
-    "value": "ihtiyar"
+    "values": [ "ihtiyar" ]
   },
   {
     "key": "yazı",
-    "value": "ova"
+    "values": [ "ova" ]
   },
   {
     "key": "yazı",
-    "value": "ova"
+    "values": [ "ova" ]
   },
   {
     "key": "yazı",
-    "value": "ova"
+    "values": [ "ova" ]
   },
   {
     "key": "yazım",
-    "value": "imla"
+    "values": [ "imla" ]
   },
   {
     "key": "yazım",
-    "value": "imla"
+    "values": [ "imla" ]
   },
   {
     "key": "yazım",
-    "value": "imla"
+    "values": [ "imla" ]
   },
   {
     "key": "yekün",
-    "value": "toplam"
+    "values": [ "toplam" ]
   },
   {
     "key": "yekün",
-    "value": "toplam"
+    "values": [ "toplam" ]
   },
   {
     "key": "yekün",
-    "value": "toplam"
+    "values": [ "toplam" ]
   },
   {
     "key": "yel",
-    "value": "rüzgar"
+    "values": [ "rüzgar" ]
   },
   {
     "key": "yel",
-    "value": "rüzgar"
+    "values": [ "rüzgar" ]
   },
   {
     "key": "yel",
-    "value": "rüzgar"
+    "values": [ "rüzgar" ]
   },
   {
     "key": "yemek",
-    "value": "aş"
+    "values": [ "aş" ]
   },
   {
     "key": "yemek",
-    "value": "aş"
+    "values": [ "aş" ]
   },
   {
     "key": "yemek",
-    "value": "aş"
+    "values": [ "aş" ]
   },
   {
     "key": "yerel",
-    "value": "mahalli"
+    "values": [ "mahalli" ]
   },
   {
     "key": "yerel",
-    "value": "mahalli"
+    "values": [ "mahalli" ]
   },
   {
     "key": "yerel",
-    "value": "mahalli"
+    "values": [ "mahalli" ]
   },
   {
     "key": "yetenek",
-    "value": "kabiliyet"
+    "values": [ "kabiliyet" ]
   },
   {
     "key": "yetenek",
-    "value": "kabiliyet"
+    "values": [ "kabiliyet" ]
   },
   {
     "key": "yetenek",
-    "value": "kabiliyet"
+    "values": [ "kabiliyet" ]
   },
   {
     "key": "yıl",
-    "value": "sene"
+    "values": [ "sene" ]
   },
   {
     "key": "yıl",
-    "value": "sene"
+    "values": [ "sene" ]
   },
   {
     "key": "yıl",
-    "value": "sene"
+    "values": [ "sene" ]
   },
   {
     "key": "yılmak",
-    "value": "bırakmak"
+    "values": [ "bırakmak" ]
   },
   {
     "key": "yine",
-    "value": "tekrar"
+    "values": [ "tekrar" ]
   },
   {
     "key": "yine",
-    "value": "tekrar"
+    "values": [ "tekrar" ]
   },
   {
     "key": "yine",
-    "value": "tekrar"
+    "values": [ "tekrar" ]
   },
   {
     "key": "yitik",
-    "value": "kayıp"
+    "values": [ "kayıp" ]
   },
   {
     "key": "yitik",
-    "value": "kayıp"
+    "values": [ "kayıp" ]
   },
   {
     "key": "yitik",
-    "value": "kayıp"
+    "values": [ "kayıp" ]
   },
   {
     "key": "yoksul",
-    "value": "fakir"
+    "values": [ "fakir" ]
   },
   {
     "key": "yoksul",
-    "value": "fakir"
+    "values": [ "fakir" ]
   },
   {
     "key": "yöntem",
-    "value": "metot"
+    "values": [ "metot" ]
   },
   {
     "key": "yöntem",
-    "value": "metot"
+    "values": [ "metot" ]
   },
   {
     "key": "yöntem",
-    "value": "metot"
+    "values": [ "metot" ]
   },
   {
     "key": "yurt",
-    "value": "vatan"
+    "values": [ "vatan" ]
   },
   {
     "key": "yurt",
-    "value": "vatan"
+    "values": [ "vatan" ]
   },
   {
     "key": "yurt",
-    "value": "vatan"
+    "values": [ "vatan" ]
   },
   {
     "key": "yüce",
-    "value": "ulu"
+    "values": [ "ulu" ]
   },
   {
     "key": "yüce",
-    "value": "ulu"
+    "values": [ "ulu" ]
   },
   {
     "key": "yüce",
-    "value": "ulu"
+    "values": [ "ulu" ]
   },
   {
     "key": "yürek",
-    "value": "kalp"
+    "values": [ "kalp" ]
   },
   {
     "key": "yürek",
-    "value": "kalp"
+    "values": [ "kalp" ]
   },
   {
     "key": "yürek",
-    "value": "kalp"
+    "values": [ "kalp" ]
   },
   {
     "key": "yüz",
-    "value": "surat"
+    "values": [ "surat" ]
   },
   {
     "key": "yüz",
-    "value": "surat"
+    "values": [ "surat" ]
   },
   {
     "key": "yüzyıl",
-    "value": "asır"
+    "values": [ "asır" ]
   },
   {
     "key": "yüzyıl",
-    "value": "asır"
+    "values": [ "asır" ]
   },
   {
     "key": "zabit",
-    "value": "subay"
+    "values": [ "subay" ]
   },
   {
     "key": "zabit",
-    "value": "subay"
+    "values": [ "subay" ]
   },
   {
     "key": "zabit",
-    "value": "subay"
+    "values": [ "subay" ]
   },
   {
     "key": "zaman",
-    "value": "vakit"
+    "values": [ "vakit" ]
   },
   {
     "key": "zaman",
-    "value": "vakit"
+    "values": [ "vakit" ]
   },
   {
     "key": "zaman",
-    "value": "vakit"
+    "values": [ "vakit" ]
   },
   {
     "key": "zarar",
-    "value": "ziyan"
+    "values": [ "ziyan" ]
   },
   {
     "key": "zarar",
-    "value": "ziyan"
+    "values": [ "ziyan" ]
   },
   {
     "key": "zarar",
-    "value": "ziyan"
+    "values": [ "ziyan" ]
   },
   {
     "key": "zehir",
-    "value": "agu"
+    "values": [ "agu" ]
   },
   {
     "key": "zehir",
-    "value": "agu"
+    "values": [ "agu" ]
   },
   {
     "key": "zehir",
-    "value": "agu"
+    "values": [ "agu" ]
   },
   {
     "key": "zengin",
-    "value": "varlıklı"
+    "values": [ "varlıklı" ]
   },
   {
     "key": "zengin",
-    "value": "varlıklı"
+    "values": [ "varlıklı" ]
   },
   {
     "key": "zengin",
-    "value": "varlıklı"
+    "values": [ "varlıklı" ]
   },
   {
     "key": "zeybek",
-    "value": "efe"
+    "values": [ "efe" ]
   },
   {
     "key": "zeybek",
-    "value": "efe"
+    "values": [ "efe" ]
   },
   {
     "key": "zeybek",
-    "value": "efe"
+    "values": [ "efe" ]
   },
   {
     "key": "zırnık",
-    "value": "metelik"
+    "values": [ "metelik" ]
   },
   {
     "key": "zırnık",
-    "value": "metelik"
+    "values": [ "metelik" ]
   },
   {
     "key": "zırnık",
-    "value": "metelik"
+    "values": [ "metelik" ]
   },
   {
     "key": "zıt",
-    "value": "karşıt"
+    "values": [ "karşıt" ]
   },
   {
     "key": "zıt",
-    "value": "karşıt"
+    "values": [ "karşıt" ]
   },
   {
     "key": "zıt",
-    "value": "karşıt"
+    "values": [ "karşıt" ]
   },
   {
     "key": "ziraat",
-    "value": "tarım"
+    "values": [ "tarım" ]
   },
   {
     "key": "ziraat",
-    "value": "tarım"
+    "values": [ "tarım" ]
   },
   {
     "key": "ziraat",
-    "value": "tarım"
+    "values": [ "tarım" ]
   },
   {
     "key": "ziyan",
-    "value": "zarar"
+    "values": [ "zarar" ]
   },
   {
     "key": "ziyan",
-    "value": "zarar"
+    "values": [ "zarar" ]
   },
   {
     "key": "ziyan",
-    "value": "zarar"
+    "values": [ "zarar" ]
   },
   {
     "key": "zor",
-    "value": "güç"
+    "values": [ "güç" ]
   },
   {
     "key": "zor",
-    "value": "güç"
+    "values": [ "güç" ]
   },
   {
     "key": "zor",
-    "value": "güç"
+    "values": [ "güç" ]
   },
   {
     "key": "zorunlu",
-    "value": "mecburi"
+    "values": [ "mecburi" ]
   },
   {
     "key": "zorunlu",
-    "value": "mecburi"
+    "values": [ "mecburi" ]
   },
   {
     "key": "zorunlu",
-    "value": "mecburi"
+    "values": [ "mecburi" ]
   }
 ]
